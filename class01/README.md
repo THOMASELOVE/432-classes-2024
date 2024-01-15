@@ -87,6 +87,6 @@ I am in a musical called "Curtains" that runs on the weekends in February starti
 
 If you'd like to come, that would be great, and all of the information you need to buy tickets (they will **sell quickly**) is available by clicking the "Get Tickets" link at <https://www.hudsonplayers.com/>. Tickets are $15, and $12 for students and seniors. The theater is located at 41 South Oviatt Street, in Hudson, Ohio, about a 40-45 minute drive from the CWRU campus, east and south of Cleveland.
 
-Performances are February 2, 3, 9, 10, 11, 16, 17, 18, 23 and 24, 2024. Friday and Saturday night shows begin at 8 PM, and the two Sunday matinees start at 2 PM.
+Performances are February 2, 3, 9, 10, 11, 16, 17, 18, 23 and 24, 2024. Friday and Saturday night shows begin at 8 PM, and the two Sunday matinees (Feb 11 and 18) start at 2 PM.
 
 If you wouldn't like to come, that's **100% OK**. I have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries no weight with me at all in any professional capacity.
