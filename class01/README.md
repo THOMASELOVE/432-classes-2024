@@ -85,7 +85,7 @@ I am in a musical called "Curtains" that runs on the weekends in February starti
 
 "Curtains" is a harmonious fusion of Agatha Christie-esque mystery and the razzle-dazzle of golden-age musicals, and was nominated for eight Tony Awards when it opened in 2007, winning for Best Performance by a Leading Actor. The musical is a send-up of backstage murder mystery plots, set in 1959 Boston, Massachusetts, and follows the fallout when Jessica Cranshaw, the supremely untalented star of Robbin' Hood of the Old West is murdered during her opening night curtain call. I play the role of Christopher Belling, the English director of the musical-within-a-musical. Curtains' captivating score and cunning plot will keep you guessing until the final curtain falls. There are some adult themes in this production.
 
-If you'd like to come, that would be great, and all of the information you need to buy tickets (they will **sell quickly**) is available by clicking the "Get Tickets" link at <https://www.hudsonplayers.com/>. Tickets are $15, and $12 for students and seniors. The theater is about a 40-45 minute drive from the CWRU campus, east and south of Cleveland.
+If you'd like to come, that would be great, and all of the information you need to buy tickets (they will **sell quickly**) is available by clicking the "Get Tickets" link at <https://www.hudsonplayers.com/>. Tickets are $15, and $12 for students and seniors. The theater is located at 41 South Oviatt Street, in Hudson, Ohio, about a 40-45 minute drive from the CWRU campus, east and south of Cleveland.
 
 Performances are February 2, 3, 9, 10, 11, 16, 17, 18, 23 and 24, 2024. Friday and Saturday night shows begin at 8 PM, and the two Sunday matinees start at 2 PM.
 
