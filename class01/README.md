@@ -10,8 +10,9 @@ Class | Date | HTML | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 01 | 2024-01-16 | **[Slides 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.html)** | **[Code 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- The HTML link provides the version of the slides that I suggest you focus on during class.
+- The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
+- To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
 ## More to come.
