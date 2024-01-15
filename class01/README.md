@@ -6,12 +6,12 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | PDF | Quarto .qmd | Recording
+Class | Date | HTML | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-01 | 2024-01-16 | **[Slides 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.pdf)** | **[Code 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2024-01-16 | **[Slides 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.html)** | **[Code 01](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-- The PDF link provides the version of the slides that I suggest you focus on during class.
+- The HTML link provides the version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
-- We attempt to record every 432 class and post the recording to Canvas.
+- We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
 ## More to come.
