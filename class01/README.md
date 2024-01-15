@@ -65,14 +65,14 @@ Our [Campuswire discussion forum](https://campuswire.com/) is open 24 hours a da
 
 ## What Should I Be Working On?
 
-By Wednesday 2024-01-17 at Noon:
+### By Wednesday 2024-01-17 at Noon:
 
 1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
 2. Welcome to 432 survey at <https://bit.ly/432-2024-welcome-survey> completed. 
     - Thanks to those of you who've already done this.
 3. Accept your invitation to Campuswire (see your email or just look at your existing account).
 
-Before our next class Thursday 2024-01-18 at 1 PM
+### Before our next class Thursday 2024-01-18 at 1 PM
 
 1. Review the [website](https://thomaselove.github.io/432-2024/) and [Calendar](https://thomaselove.github.io/432-2024/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) and [Course Notes](https://thomaselove.github.io/432-notes/).
 2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
