@@ -69,7 +69,7 @@ Our [Campuswire discussion forum](https://campuswire.com/) is open 24 hours a da
 
 1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
 2. Welcome to 432 survey at <https://bit.ly/432-2024-welcome-survey> completed. 
-    - Thanks to those of you who've already done this.
+    - Thanks to the 20 of you who've already done this as of 10:20 AM.
 3. Accept your invitation to Campuswire (see your email or just look at your existing account).
 
 ### Before our next class Thursday 2024-01-18 at 1 PM
