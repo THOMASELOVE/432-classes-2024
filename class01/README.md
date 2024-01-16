@@ -15,10 +15,43 @@ Class | Date | HTML | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
+---
+
 ## Announcements
  
-1. Welcome to 432! Please complete the Welcome to 432 Survey at <https://bit.ly/432-2024-welcome-survey> by noon tomorrow. 
-2. You can do this. It's a lot of work, but it's worth it.
+You can do this. It's a lot of work, but it's worth it.
+
+## TA Office Hours
+
+TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
+
+- The schedule appears on [the Calendar](https://thomaselove.github.io/432-2024/calendar.html) and [the Contact Us page](https://thomaselove.github.io/432-2024/contact.html). 
+- Details on joining the Zoom sessions for Office Hours will be found on our Shared (Google) Drive before the first office hour begins on Friday.
+- No appointment is necessary - please just drop in.
+
+Our [Campuswire discussion forum](https://campuswire.com/) is now open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions.
+    - In fact, there's a quick poll up there now.
+
+---
+
+## What Should I Be Working On?
+
+### By Wednesday 2024-01-17 at Noon:
+
+1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
+    - My list of registered students (as of 10:20 this morning) [is here](registered.md).
+2. Welcome to 432 survey at <https://bit.ly/432-2024-welcome-survey> completed. 
+    - Thanks to the 20 of you who've already done this as of 10:20 AM.
+3. Accept your invitation to Campuswire (see your email or just look at your existing account).
+
+### Before our next class Thursday 2024-01-18 at 1 PM
+
+1. Review the [website](https://thomaselove.github.io/432-2024/) and [Calendar](https://thomaselove.github.io/432-2024/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) and [Course Notes](https://thomaselove.github.io/432-notes/).
+2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
+3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2024/software.html) and install these R Packages and data/code from 432-Data.
+4. Get started on [Lab 1](https://thomaselove.github.io/432-2024/lab1.html), which is due Tuesday 2024-01-23 at Noon. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
+
+---
 
 ## References from Today's Slides
 
@@ -53,32 +86,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 - Building and Validating Linear Prediction Models
     - See the [431 Course Notes](https://thomaselove.github.io/431-notes/), as well as the [432 Course Notes](https://thomaselove.github.io/432-notes/). Both will remain online until 2024-06-01.
 
-## TA Office Hours
-
-TA office hours are held via Zoom, and will begin on Friday 2024-01-19, and continue through Wednesday 2024-05-01 except for Spring Break (no office hours March 9-16) and April 8 (Eclipse).
-
-- The schedule will appear on [the Calendar](https://thomaselove.github.io/432-2024/calendar.html) and [the Contact Us page](https://thomaselove.github.io/432-2024/contact.html), as soon as we firm it up. 
-- Details on joining the Zoom sessions for Office Hours will be found on our Shared (Google) Drive.
-- No appointment is necessary - please just drop in.
-
-Our [Campuswire discussion forum](https://campuswire.com/) is open 24 hours a day, 7 days a week, and is a great place to ask (and answer) questions.
-
-## What Should I Be Working On?
-
-### By Wednesday 2024-01-17 at Noon:
-
-1. Get officially registered (SIS) for the right flavor of the course (PQHS 432, CRSP 432 or MPHP 432) if you're not already.
-    - My list of registered students (as of 10:20 this morning) [is here](registered.md)
-2. Welcome to 432 survey at <https://bit.ly/432-2024-welcome-survey> completed. 
-    - Thanks to the 20 of you who've already done this as of 10:20 AM.
-3. Accept your invitation to Campuswire (see your email or just look at your existing account).
-
-### Before our next class Thursday 2024-01-18 at 1 PM
-
-1. Review the [website](https://thomaselove.github.io/432-2024/) and [Calendar](https://thomaselove.github.io/432-2024/calendar.html), and skim the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) and [Course Notes](https://thomaselove.github.io/432-notes/).
-2. Buy Jeff Leek's [How to be a Modern Scientist](https://leanpub.com/modernscientist) (then read this little book by the end of January - it should take ~ 4 hours.)
-3. Get started [installing or updating your R and RStudio](https://thomaselove.github.io/432-2024/software.html) and install these R Packages and data/code from 432-Data.
-4. Get started on [Lab 1](https://thomaselove.github.io/432-2024/lab1.html), which is due Tuesday 2024-01-23 at Noon. The "431 Review" Chapters from the [432 Course Notes](https://thomaselove.github.io/432-notes/) should be helpful.
+---
 
 ## One Last Thing
 
