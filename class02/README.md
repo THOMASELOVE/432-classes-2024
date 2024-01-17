@@ -25,9 +25,9 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 Votes | Not at all (that's OK) | 1 to 3 times | More than 3 times
 ---: | -----: | -----: | -----: 
-n = 21 | 10% | 48% | 43%
+n = 24 | 17% | 42% | 42%
 
-As of 2023-01-17 at 11:05 AM
+As of 2023-01-17 at 5:13 PM
 
 ## What Should I Be Working On?
 
