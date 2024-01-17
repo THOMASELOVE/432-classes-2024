@@ -15,4 +15,30 @@ Class | Date | HTML | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
-## More to come.
+![](https://imgs.xkcd.com/comics/methodology_trial.png) from <https://xkcd.com/2726>
+
+## Announcements
+ 
+1. **TA Office Hours** begin tomorrow. A complete schedule, with Zoom links, is available on our Shared Google Drive. 
+2. Thanks to all of you who completed the [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) on time.
+3. [Campuswire](https://campuswire.com/) Poll: About how many times have you opened RStudio in 2024?
+
+Votes | Not at all (that's OK) | 1 to 3 times | More than 3 times
+---: | -----: | -----: | -----: 
+n = 21 | 10% | 48% | 43%
+
+As of 2023-01-17 at 11:05 AM
+
+## What Should I Be Working On?
+
+- [Lab 1](https://thomaselove.github.io/432-2023/lab1.html), due Tuesday 2024-01-23 at Noon to [Canvas](https://canvas.case.edu/).
+- Reading Jeff Leek's *How to be a Modern Scientist* [available from Leanpub](https://leanpub.com/modernscientist). (Complete by January 31.)
+- Familiarize yourself with the other Course Materials on the [Website](https://thomaselove.github.io/432-2023/).
+
+## One Last Thing
+
+![](figures/snowtilesTwitter.png)
+
+[Origin and development of a Snowflake Map](https://waterdata.usgs.gov/blog/snow-tiles-demo/) by Althea Archer (posted 2023-01-11) provides reproducible R code demonstrating the evolution of a recent data visualization of snow cover in the continental United States. This work is a product of the USGS (United States Geological Survey) - the nation's largest water, earth and biological science and civilian mapping agency.
+
+I learned about this work from [this post at FlowingData](https://flowingdata.com/2023/01/17/snow-cover-mapped-using-snowflakes/).
