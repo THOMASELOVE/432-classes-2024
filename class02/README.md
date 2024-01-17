@@ -42,3 +42,7 @@ As of 2023-01-17 at 11:05 AM
 [Origin and development of a Snowflake Map](https://waterdata.usgs.gov/blog/snow-tiles-demo/) by Althea Archer (posted 2023-01-11) provides reproducible R code demonstrating the evolution of a recent data visualization of snow cover in the continental United States. This work is a product of the USGS (United States Geological Survey) - the nation's largest water, earth and biological science and civilian mapping agency.
 
 I learned about this work from [this post at FlowingData](https://flowingdata.com/2023/01/17/snow-cover-mapped-using-snowflakes/).
+
+## Shameless Promotion
+
+I'm playing Christopher Belling in the musical [Curtains, at Hudson Players](https://www.hudsonplayers.com/now-playing) which runs February 2, 3, 9, 10, 11, 16, 17, 18, 23, 24, 2024 at 8 PM Fridays and Saturdays and 2 PM for the two Sunday shows. Please come if you're interested. Tickets [are available here](https://app.arts-people.com/index.php?ticketing=hudpl). Remember, though, attending or not attending a show I'm in is 100% up to you, and carries no weight with me professionally. Thanks, and I hope to see you there!
