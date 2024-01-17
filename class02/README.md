@@ -20,7 +20,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 ## Announcements
  
 1. **TA Office Hours** begin tomorrow. A complete schedule, with Zoom links, is available on our Shared Google Drive. 
-2. Thanks to all of you who completed the [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) on time.
+2. Thanks to all of you who completed the [Welcome to 432 Survey](https://bit.ly/432-2024-welcome-survey) on time. A summary I built [is available here (pdf)](432-welcome-survey-results.pdf).
 3. [Campuswire](https://campuswire.com/) Poll: About how many times have you opened RStudio in 2024?
 
 Votes | Not at all (that's OK) | 1 to 3 times | More than 3 times
