@@ -16,3 +16,11 @@ Class | Date | PDF | Quarto .qmd | Recording
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
 ## More to come.
+
+## One Last Thing
+
+![](figures/silver_2024-01-17.png)
+
+## Self-Promotion
+
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-24 on the weekends. It would give me great joy to see you there!
