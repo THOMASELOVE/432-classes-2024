@@ -17,6 +17,10 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## More to come.
 
+## On Using AI in Labs
+
+If you decide to use some sort of AI to help you with a Lab, we ask that you place a note to that effect, as a separate section, just before your presentation of Session Information. Thank you.
+
 ## One Last Thing
 
 ![](figures/silver_2024-01-17.png)
