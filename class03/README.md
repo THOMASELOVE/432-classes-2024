@@ -17,9 +17,9 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 ## More to come.
 
-## On Using AI in Labs
+## On Using AI in this course
 
-If you decide to use some sort of AI to help you with a Lab, we ask that you place a note to that effect, as a separate section, just before your presentation of Session Information. Thank you.
+If you decide to use some sort of AI to help you with a Lab, we ask that you place a note to that effect, as a separate section, just before your presentation of Session Information. We've adjusted the Lab instructions for each Lab (1-7) to make this clear. Thank you. We've also adjusted (similarly) the Project instructions (for both Project A and Project B.) The use of AI to help in answering Quiz questions is not permitted.
 
 ## One Last Thing
 
