@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | PDF | Quarto .qmd | Recording
+Class | Date | HTML | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 03 | 2024-01-23 | **[Slides 03](https://thomaselove.github.io/432-slides-2024/slides03.html)** | **[Code 03](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides03.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
