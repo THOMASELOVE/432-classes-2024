@@ -15,6 +15,13 @@ Class | Date | PDF | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
+## Announcements
+
+1. There was a small problem with the Syllabus, and it's now corrected, as of this morning.
+2. We expect to add a TA (and thus, additional TA office hours) in time for this weekend.
+3. Please complete the [Minute Paper after Class 3] after today's class.
+    - It's due at noon tomorrow (Wednesday 2024-01-24) and you should complete it regardless of whether you attend class in person, or watch the Zoom recording.
+
 ## On Using AI in this course
 
 If you decide to use some sort of AI to help you with a Lab, we ask that you place a note to that effect, as a separate section, just before your presentation of Session Information. We've adjusted the Lab instructions for each Lab (1-7) to make this clear. Thank you. We've also adjusted (similarly) the Project instructions (for both Project A and Project B.) The use of AI to help in answering Quiz questions is not permitted.
