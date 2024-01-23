@@ -19,7 +19,7 @@ Class | Date | PDF | Quarto .qmd | Recording
 
 1. There was a small problem (repeated text in Chapter 4) with the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/), and it's now corrected, as of this morning.
 2. We expect to add a TA (and thus, additional TA office hours) in time for this weekend.
-3. Please complete the [Minute Paper after Class 3] after today's class.
+3. Please complete the [Minute Paper after Class 3](https://bit.ly/432-2024-min-03) after today's class.
     - It's due at noon tomorrow (Wednesday 2024-01-24) and you should complete it regardless of whether you attend class in person, or watch the Zoom recording.
 
 ## On Using AI in this course
