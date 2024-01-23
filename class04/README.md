@@ -16,3 +16,9 @@ Class | Date | HTML | Quarto .qmd | Recording
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
 ## More to come.
+
+To include:
+
+1. Feedback on Minute Paper after Class 3
+2. Progress on this issue from Class 3 "Printing the slides to PDF can be a little unsatisfying - sometimes material is cut off. It seems that the settings I'm using for our slides don't let you easily "write" on them to take additional notes. I can add some functionality there, according to Quarto, but it may limit your ability to download the slides, so I'll need to experiment a bit. I'll try to work something out for Class 4 and beyond."
+3. New TA announcement
