@@ -12,7 +12,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
-- To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser. 
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
 
 ## Announcements
@@ -21,6 +21,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 2. We expect to add a TA (and thus, additional TA office hours) in time for this weekend.
 3. Please complete the [Minute Paper after Class 3](https://bit.ly/432-2024-min-03) after today's class.
     - It's due at noon tomorrow (Wednesday 2024-01-24) and you should complete it regardless of whether you attend class in person, or watch the Zoom recording.
+4. Printing the slides to PDF can be a little unsatisfying - sometimes material is cut off. It seems that the settings I'm using for our slides don't let you easily "write" on them to take additional notes. I can add some functionality there, according to Quarto, but it may limit your ability to download the slides, so I'll need to experiment a bit. I'll try to work something out for Class 4 and beyond.
 
 ## On Using AI in this course
 
