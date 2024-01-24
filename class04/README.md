@@ -19,7 +19,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 ## More to come.
 
-To include:
+Still to include:
 
 1. Feedback on Minute Paper after Class 3
 2. Progress on this issue from Class 3 "Printing the slides to PDF can be a little unsatisfying - sometimes material is cut off. It seems that the settings I'm using for our slides don't let you easily "write" on them to take additional notes. I can add some functionality there, according to Quarto, but it may limit your ability to download the slides, so I'll need to experiment a bit. I'll try to work something out for Class 4 and beyond."
@@ -27,7 +27,7 @@ To include:
 
 ## What Should I Be Working On?
 
-1. [Lab 2](https://thomaselove.github.io/432-2023/lab2.html) due Monday 2023-01-30 at 9 PM.
+1. [Lab 2](https://thomaselove.github.io/432-2024/lab2.html) due Tuesday 2024-01-30 at Noon.
 2. Continue reading [How To Be A Modern Scientist](https://leanpub.com/modernscientist) (so you're done by next Thursday's class.)
 
 ## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
