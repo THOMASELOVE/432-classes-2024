@@ -13,3 +13,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
 ## More to come.
+
+## One Last Thing
+
+<https://flowingdata.com/2023/12/29/best-of-2023/>
