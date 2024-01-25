@@ -17,19 +17,18 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 ![](figures/cummings_2022-08-08.png)
 
-## More to come.
+## Announcements
 
-Still to include:
-
-1. Answer Sketch for Lab 1 posted to Shared Google Drive.
-2. Feedback on Minute Paper after Class 3
-3. Progress on this issue from Class 3 "Printing the slides to PDF can be a little unsatisfying - sometimes material is cut off. It seems that the settings I'm using for our slides don't let you easily "write" on them to take additional notes. I can add some functionality there, according to Quarto, but it may limit your ability to download the slides, so I'll need to experiment a bit. I'll try to work something out for Class 4 and beyond."
-4. New TA announcement
+1. Answer Sketch for Lab 1 has been posted to our Shared Google Drive.
+2. Feedback on Minute Paper after Class 3 is now available at <https://bit.ly/432-2024-min-03-feedback>.
+3. Thanks to the 30 of you who sent along your favorite TV series in a timely way, as [I asked you to do in the Syllabus](https://thomaselove.github.io/432-syllabus-2024/09-advice.html#a-bonus-opportunity).
+4. We hope to announce a new TA by Tuesday's class.
 
 ## What Should I Be Working On?
 
 1. [Lab 2](https://thomaselove.github.io/432-2024/lab2.html) due Tuesday 2024-01-30 at Noon.
 2. Continue reading [How To Be A Modern Scientist](https://leanpub.com/modernscientist) (so you're done by next Thursday's class.)
+3. It's not too early to read [the instructions for Project A](https://thomaselove.github.io/432-2024/projA.html), and get started on that.
 
 ## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
 
