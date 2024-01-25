@@ -17,3 +17,7 @@ Class | Date | HTML | Quarto .qmd | Recording
 ## One Last Thing
 
 <https://flowingdata.com/2023/12/29/best-of-2023/>
+
+## And, finally...
+
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. The show opens this Friday night. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-3, 9-11, 16-18, 23-24 on Friday and Saturday evenings with two Sunday matinees (onr of which is already sold out.)
