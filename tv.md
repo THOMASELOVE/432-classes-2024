@@ -1,4 +1,4 @@
-# TV Series Recommended by Students in 432
+# TV Series Recommended by Spring 2024 432 Students
 
 Show | Stream? | TEL? | Why Should I Watch? | IMDB | Hours | Genre
 :-------------: | :---------: | :-------: | :---------------------------------------------------------------------------- | :--: | :--: | :-----:
