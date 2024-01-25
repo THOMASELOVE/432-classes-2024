@@ -24,8 +24,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. As an experiment, I have built downloadable Word documents for the first four sets of slides, and linked them at the READMEs for each class. Let me know if this is helpful or not to you by commenting on the relevant note in Campuswire, please.
 3. Feedback on the Minute Paper after Class 3 is now available at <https://bit.ly/432-2024-min-03-feedback>. Thanks to all for completing it.
 4. Thanks also to the 30 of you who sent along your favorite TV series in a timely way, as [I asked you to do in the Syllabus](https://thomaselove.github.io/432-syllabus-2024/09-advice.html#a-bonus-opportunity). Those of you who missed this opportunity - keep your eyes open for similar opportunities as the semester progresses.
-5. We hope to announce a new TA by Tuesday's class.
-
+5. Our new TA is [Zoey Zou](https://thomaselove.github.io/432-syllabus-2024/04-teachingassistants.html#getting-to-know-the-tas). Her office hours are posted to our Calendar and Contact Us page, with Zoom information coming soon to our Shared Google Drive and Canvas. Welcome, Zoey, to your new role!
+ 
 ## What Should I Be Working On?
 
 1. [Lab 2](https://thomaselove.github.io/432-2024/lab2.html) due Tuesday 2024-01-30 at Noon.
