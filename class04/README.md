@@ -11,7 +11,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 04 | 2024-01-25 | **[Slides 04](https://thomaselove.github.io/432-slides-2024/slides04.html)** | *[Word 04](https://thomaselove.github.io/432-slides-2024/slides04w.docx)* | **[Code 04](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
-- **NEW!** The *Word* link is an experiment, which will let you download the material in the slides as a Word document, which may ease taking notes.
+- **NEW!** The *Word* link is an experiment, which will let you download the material in the slides as a Word (.docx) document.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record every 432 class via Zoom and post the recording to Canvas.
