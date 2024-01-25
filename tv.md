@@ -27,3 +27,19 @@ Show | Stream? | TEL? | Why Should I Watch? | IMDB | Hours | Genre
 [Ted Lasso](https://www.imdb.com/title/tt10986410/) | Apple TV | All | I like the series because it's hilarious but also full of valuable life lessons that we all stand to learn something from. | 8.8 | 25 | Comedy, Drama, Sport
 [What Is Fatmagul’s Fault?](https://www.imdb.com/title/tt1783916/) | Shahid, Amazon Prime? | None |  This Turkish series shows how a poor girl can seek a court to gain her right, after being assaulted by four boys from  political rich families. It shows most the complications and solution to those issues. | 5.9 | 120 | Drama, Romance
 [The Wire](https://www.imdb.com/title/tt0306414/) | Max | All | Really like this show because it gives a very realistic depiction of inner-city life and crime, and how law enforcement fits into the equation. There's no sensationalizing or tropes, everything is just presented through a very real and unforgiving lens. Really eye-opening and even heartbreaking, I'd say. | 9.3 | 60 | Crime, Drama, Thriller
+
+
+## Dr. Love adds...
+
+Show | Stream? | TEL? | Description | IMDB | Hours | Genre
+:-------------: | :---------: | :-------: | :-------------------------------------- | :--: | :--: | :-----:
+[Taskmaster](https://www.imdb.com/title/tt4934214/) | [YouTube](https://www.youtube.com/@Taskmaster) | All | Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word. | 9.0 | 127+ | Comedy, Game-Show
+[Slow Horses](https://www.imdb.com/title/tt5875444) | Apple TV | All | Follows a team of British intelligence agents who serve as a dumping ground department of MI5 due to their career-ending mistakes. | 8.1 | 18+ | Drama, Thriller
+[Reacher](https://www.imdb.com/title/tt9288030/) | Amazon Prime | Season 1 | Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child. | 8.1 | 16+ | Action, Crime, Drama
+[Sherlock](https://www.imdb.com/title/tt1475582/) | Amazon (rent/buy) | All | The quirky spin on Conan Doyle's iconic sleuth pitches him as a "high-functioning sociopath" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance. | 9.1 | 23 | Crime, Drama, Mystery
+[Arrested Development](https://www.imdb.com/title/tt0367279/) | Netflix | All | Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable. | 8.7 | 31 | Comedy
+[Parks and Recreation](https://www.imdb.com/title/tt1266020/) | Peacock | All | The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place. | 8.6 | 46 | Comedy
+[The Fall and Rise of Reginald Perrin](https://www.imdb.com/title/tt0073990/) | [YouTube](https://www.youtube.com/channel/UC4577wUrVYXbs4Wk1yRTJQA) | All | The story concerns a middle-aged middle manager, Reginald "Reggie" Perrin, and is driven to bizarre behaviour by the pointlessness of his job at Sunshine Desserts. | 8.0 | 10.5 | Comedy
+[Fawlty Towers](https://www.imdb.com/title/tt0072500/) | Amazon (rent/buy) | All | Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away. | 8.8 | 6 | Comedy
+[30 Rock](https://www.imdb.com/title/tt0496424/) | Hulu, Peacock | All | Liz Lemon, head writer of the sketch-comedy show "TGS with Tracy Jordan", must deal with an arrogant new boss and a crazy new star while trying to run a successful television show without losing her mind. | 8.3 | 51 | Comedy
+
