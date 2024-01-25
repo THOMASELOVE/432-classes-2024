@@ -7,7 +7,7 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 ## Today's Slides
 
 Class | Date | HTML | PDF | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :-------------:
+:---: | :--------: | :------: | :------: | :------: | :-------------:
 04 | 2024-01-25 | **[Slides 04](https://thomaselove.github.io/432-slides-2024/slides04.html)** | *[PDF 04](https://thomaselove.github.io/432-slides-2024/slides04p.pdf)* | **[Code 04](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
