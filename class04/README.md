@@ -6,9 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | HTML | Quarto .qmd | Recording
+Class | Date | HTML | PDF | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-04 | 2024-01-25 | **[Slides 04](https://thomaselove.github.io/432-slides-2024/slides04.html)** | **[Code 04](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+04 | 2024-01-25 | **[Slides 04](https://thomaselove.github.io/432-slides-2024/slides04.html)** | *[PDF 04](https://thomaselove.github.io/432-slides-2024/slides04p.pdf)* | **[Code 04](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides04.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
@@ -19,9 +19,9 @@ Class | Date | HTML | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Answer Sketch for Lab 1 has been posted to our Shared Google Drive.
-2. Feedback on Minute Paper after Class 3 is now available at <https://bit.ly/432-2024-min-03-feedback>.
-3. Thanks to the 30 of you who sent along your favorite TV series in a timely way, as [I asked you to do in the Syllabus](https://thomaselove.github.io/432-syllabus-2024/09-advice.html#a-bonus-opportunity).
+1. Our answer Sketch for Lab 1 has been posted to our Shared Google Drive. Grades will be posted next Tuesday 2024-01-30.
+2. Feedback on the Minute Paper after Class 3 is now available at <https://bit.ly/432-2024-min-03-feedback>. Thanks to all for completing it.
+3. Thanks also to the 30 of you who sent along your favorite TV series in a timely way, as [I asked you to do in the Syllabus](https://thomaselove.github.io/432-syllabus-2024/09-advice.html#a-bonus-opportunity). Those of you who missed this opportunity - there will be more.
 4. We hope to announce a new TA by Tuesday's class.
 
 ## What Should I Be Working On?
