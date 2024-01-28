@@ -6,9 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | ways to get help
 
 ## Today's Slides
 
-Class | Date | HTML | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :-------------:
-06 | 2024-02-01 | **[Slides 06](https://thomaselove.github.io/432-slides-2024/slides06.html)** | **[Code 06](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides05.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+Class | Date | HTML | Word | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :------: | :-------------:
+06 | 2024-02-01 | **[Slides 06](https://thomaselove.github.io/432-slides-2024/slides06.html)** | *[Word 06](https://thomaselove.github.io/432-slides-2024/slides06w.docx)* | **[Code 06](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides06.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
