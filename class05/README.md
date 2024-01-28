@@ -12,7 +12,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-## More to come.
+## Learning More About the Harrell-Verse
+
+In classes 05-06, we'll start to focus on a set of techniques from the `rms` and `Hmisc` packages for fitting and evaluating linear regression models developed by Frank Harrell at Vanderbilt, with his colleagues. As supplemental reading, I can strongly recommend:
+
+- [An Introduction to the Harrell"verse": Predictive Modeling using the Hmisc and rms Packages](https://www.nicholas-ollberding.com/post/an-introduction-to-the-harrell-verse-predictive-modeling-using-the-hmisc-and-rms-packages/) by Nicholas Ollberding
+- Frank Harrell's [Biostatistics for Biomedical Research (BBR) Course on YouTube](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos) includes a series of lectures on many of the topics we'll be discussing in 432, in addition to several late-breaking items. Details on the course are available [here](https://hbiostat.org/bbr/) and the notes are linked below.
+- Frank E. Harrell and Chris Slaughter [Biostatistics for Biomedical Research Notes](http://hbiostat.org/doc/bbr.pdf) (pdf) - also see the YouTube course above.
+- Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015.
+- [datamethods](https://discourse.datamethods.org/) "is a place where statisticians, epidemiologists, informaticists, machine learning practitioners, and other research methodologists communicate with themselves and with clinical, translational, and health services researchers to discuss issues related to data: research methods, quantitative methods, study design, measurement, statistical analysis, interpretation of data and statistical results, clinical trials, journal articles, statistical graphics, causal inference, medical decision making, and more." This resource's [rationale is here](http://fharrell.com/post/disc), and Frank spends meaningful time responding to questions on that board, so when our course ends, you might consider looking there for some suggestions.
 
 ## One Last Thing
 
