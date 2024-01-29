@@ -22,10 +22,6 @@ In classes 05-06, we'll start to focus on a set of techniques from the `rms` and
 - Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015.
 - [datamethods](https://discourse.datamethods.org/) "is a place where statisticians, epidemiologists, informaticists, machine learning practitioners, and other research methodologists communicate with themselves and with clinical, translational, and health services researchers to discuss issues related to data: research methods, quantitative methods, study design, measurement, statistical analysis, interpretation of data and statistical results, clinical trials, journal articles, statistical graphics, causal inference, medical decision making, and more." This resource's [rationale is here](http://fharrell.com/post/disc), and Frank spends meaningful time responding to questions on that board, so when our course ends, you might consider looking there for some suggestions.
 
-## One Last Thing
-
-<https://flowingdata.com/2023/12/29/best-of-2023/>
-
 ## And, finally...
 
-Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. The show opens this Friday night. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-3, 9-11, 16-18, 23-24 on Friday and Saturday evenings with two Sunday matinees (Feb 11 is already sold out.)
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. The show opens this Friday night. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-3, 9-11, 16-18, 23-24 on Friday and Saturday evenings but the two Sunday matinees are already sold out, so get your tickets soon if you want to come.
