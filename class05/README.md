@@ -12,6 +12,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
+# Please see your email for a note from Dr. Love dated 2024-01-29 about today's class!!!
+
 ## Learning More About the Harrell-Verse
 
 In classes 05-06, we'll start to focus on a set of techniques from the `rms` and `Hmisc` packages for fitting and evaluating linear regression models developed by Frank Harrell at Vanderbilt, with his colleagues. As supplemental reading, I can strongly recommend:
