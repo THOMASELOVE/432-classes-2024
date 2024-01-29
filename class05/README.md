@@ -24,4 +24,4 @@ In classes 05-06, we'll start to focus on a set of techniques from the `rms` and
 
 ## And, finally...
 
-Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. The show opens this Friday night. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show runs February 2-3, 9-11, 16-18, 23-24 on Friday and Saturday evenings but the two Sunday matinees are already sold out, so get your tickets soon if you want to come.
+Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are going very quickly. While the show opens this Friday night, I won't be in it because of COVID, The performances I will be in are February 9-11, 16-18 and 23-24, but the two Sunday matinees are already sold out. If you'd like to go, please visit <https://www.hudsonplayers.com/>, and get your tickets soon!
