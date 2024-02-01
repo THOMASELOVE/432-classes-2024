@@ -1,5 +1,7 @@
 # 432 Class 06: 2024-02-01
 
+## Today's class was pre-recorded. See your Email for a link to the recording.
+
 [Main Website](https://thomaselove.github.io/432-2024/) | [Calendar](https://thomaselove.github.io/432-2024/calendar.html) | [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) | [Notes](https://thomaselove.github.io/432-notes/) | [Contact Us](https://thomaselove.github.io/432-2024/contact.html) | [Canvas](https://canvas.case.edu) | [Data and Code](https://github.com/THOMASELOVE/432-data) | [Sources](https://github.com/THOMASELOVE/432-classes-2024/tree/main/sources)
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads | to read
@@ -14,7 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Today's class will be recorded and posted so that you can watch it, as soon as Dr. Love can get that done.
+1. Today's class was pre-recorded and posted so you can watch it and/or download it. Check your email.
 2. The Answer Sketch for [Lab 2](https://thomaselove.github.io/432-2024/lab2.html) is posted to our Shared Drive.
 3. Feedback on the Minute Paper after Class 5 is available at <https://bit.ly/432-2024-min-05-feedback>. Thanks to the 37 of you who completed this on time.
 4. Dr. Love will post Grades and our feedback for Lab 1 as soon as he can.
