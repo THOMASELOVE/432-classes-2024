@@ -23,9 +23,16 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 5. [Lab 3](https://thomaselove.github.io/432-2024/lab3.html) was due at noon today.
     - As of 12:01 PM, I had submissions on Canvas from 34 of our 39 registered students. As for the rest of you, please get the Lab submitted to Canvas as soon as possible. If you have to skip the Lab, post a note on Canvas telling us that so we stop hounding you.
     - We will post the Lab 3 answer sketch to our Shared Drive shortly after noon on Wednesday 2024-02-07.
+  
+## Next Four Deliverables are...
+
+1. The Minute Paper after Class 07 (due Wednesday 2024-02-07 at noon).
+2. The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html), due **Monday** 2024-02-12 at noon.
+3. The Minute Paper after Class 09 (not yet available: due Wednesday 2024-02-14 at noon).
+4. [Lab 4](https://thomaselove.github.io/432-2024/lab4.html), due Tuesday 2024-02-20 at noon.
 
 ## And, finally...
 
-I will finally get to appear in [Curtains, the musical](https://www.hudsonplayers.com/now-playing), starting this weekend. I play Christopher Belling, as mentioned previously. The show continues for the next three Friday and Saturday evenings with two Sunday matinees. 
+At last, I will appear in [Curtains, the musical](https://www.hudsonplayers.com/now-playing), starting this weekend, playing Christopher Belling. The show continues for the next three Friday and Saturday evenings with two Sunday matinees. 
 
-This weekend's performances are within 2-3 tickets of completely selling out, as is the Sunday matinee on February 18, but there are definitely seats available for our evening performances on February 16, 17, 23 and 24! If you'd like to go, please visit <https://www.hudsonplayers.com/> and act quickly, as the show will soon come close to selling out those remaining performances.
+This weekend's performances are within 2-3 tickets of completely selling out, as is the Sunday matinee on February 18, but there are more substantial numbers of seats available for our evening performances on February 16, 17, 23 and 24. If you'd like to go, please visit <https://www.hudsonplayers.com/> and act quickly, as the show will soon come close to selling out those remaining performances.
