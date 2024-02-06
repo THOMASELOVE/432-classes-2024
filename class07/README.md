@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's class (and Class 08, on Thursday) will be held via Zoom. See your email or Canvas for log-in instructions.
-2. The Minute Paper after Class 07 is due Wednesday 2024-02-07 at noon. **Link to come**.
+2. The [Minute Paper after Class 07](https://bit.ly/432-2024-min-07) is due Wednesday 2024-02-07 at noon. The link is <https://bit.ly/432-2024-min-07>.
 3. I have posted a Google Sheet to our Shared Drive called "Course Grading Roster for 432 in Spring 2024." Posted there are grades and feedback on (in separate tabs of the sheet) Lab 1 and Lab 2, along with your grades on the Welcome to 432 survey (which everyone did) and the Minute Papers. The grades are identified for each student by a three-digit Lab Code, which I will send out to you via email after class today.
 4. Lab 3 was due at noon today. As of 12:01 PM, I have submissions on Canvas from 34 of our 39 registered students. As for the rest of you, please get the Lab submitted to Canvas as soon as possible. We will post the answer sketch at noon on Wednesday 2024-02-07.
 
