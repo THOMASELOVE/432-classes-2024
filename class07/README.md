@@ -26,7 +26,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
   
 ## Next Four Deliverables are...
 
-1. The Minute Paper after Class 07 (due Wednesday 2024-02-07 at noon).
+1. The [Minute Paper after Class 07](https://bit.ly/432-2024-min-07) (due Wednesday 2024-02-07 at noon).
 2. The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html), due **Monday** 2024-02-12 at noon.
 3. The Minute Paper after Class 09 (not yet available: due Wednesday 2024-02-14 at noon).
 4. [Lab 4](https://thomaselove.github.io/432-2024/lab4.html), due Tuesday 2024-02-20 at noon.
