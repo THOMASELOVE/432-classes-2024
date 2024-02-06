@@ -26,4 +26,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## And, finally...
 
-I will finally get to appear in [Curtains, the musical](https://www.hudsonplayers.com/now-playing), starting this weekend. I play Christopher Belling, as mentioned previously. The show continues for the next three Friday and Saturday evenings with two Sunday matinees. This weekend's performances are within 2-3 tickets of completely selling out, as is the Sunday matinee on February 18, but there are definitely seats available for our evening performances on February 16, 17, 23 and 24! If you'd like to go, please visit <https://www.hudsonplayers.com/> and act quickly, as the show will soon come close to selling out those remaining performances.
+I will finally get to appear in [Curtains, the musical](https://www.hudsonplayers.com/now-playing), starting this weekend. I play Christopher Belling, as mentioned previously. The show continues for the next three Friday and Saturday evenings with two Sunday matinees. 
+
+This weekend's performances are within 2-3 tickets of completely selling out, as is the Sunday matinee on February 18, but there are definitely seats available for our evening performances on February 16, 17, 23 and 24! If you'd like to go, please visit <https://www.hudsonplayers.com/> and act quickly, as the show will soon come close to selling out those remaining performances.
