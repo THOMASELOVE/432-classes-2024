@@ -20,7 +20,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. I have posted a Google Sheet to our Shared Drive called "Course Grading Roster for 432 in Spring 2024."
     - Posted there are grades and feedback on (in separate tabs of the sheet) Lab 1 and Lab 2, along with your grades on the Welcome to 432 survey (which everyone did) and the Minute Papers.
     - The grades are identified for each student by a three-digit Lab Code, which I will send out to you via email after class today.
-5. [Lab 3](https://thomaselove.github.io/432-2024/lab3.html) was due at noon today. As of 12:01 PM, I have submissions on Canvas from 34 of our 39 registered students. As for the rest of you, please get the Lab submitted to Canvas as soon as possible. We will post the answer sketch at noon on Wednesday 2024-02-07.
+5. [Lab 3](https://thomaselove.github.io/432-2024/lab3.html) was due at noon today.
+    - As of 12:01 PM, I had submissions on Canvas from 34 of our 39 registered students. As for the rest of you, please get the Lab submitted to Canvas as soon as possible.
+    - We will post the answer sketch at noon on Wednesday 2024-02-07.
 
 ## And, finally...
 
