@@ -25,7 +25,7 @@ The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-proje
 
 1. Please use [the Quarto template we provided for the Project A Plan](https://thomaselove.github.io/432-2024/projA.html#templates) in preparing your work.
 2. If you are working with a partner, all work must be submitted by exactly one of you to [Canvas](https://canvas.case.edu/) while the non-reporting partner submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
-3. Please be sure to submit the following items to [Canvas](https://canvas.case.edu/)
+3. Please be sure to submit the following items to [Canvas](https://canvas.case.edu/) by noon on **MONDAY** 2024-02-12.
     - a Quarto (.qmd) file containing one unnumbered, and 10 numbered sections
     - an HTML result of applying the Quarto "plan" file to your data which has a working table of contents
     - a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
