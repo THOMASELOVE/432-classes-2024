@@ -16,7 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Today's class will again be given via Zoom. Check your email or [Canvas](https://canvas.case.edu/) for the Zoom information.
 2. By now, you should have received your 432 Lab Code, and been able to use it to view feedback and grades for Labs 1 and 2 (and the Minute Papers) on our Shared Drive in the Course Grading Roster. Let me know if you have trouble accessing this information.
-    - If you'd like me to regrade one of the Labs after grading, please read and follow [the Lab Appeal Policy from our Syllabus](https://thomaselove.github.io/432-syllabus-2024/08-grading.html#lab-appeal-policy---request-a-review-via-google-form).
+    - If you'd like me to regrade one of the Labs, please read and follow [the Lab Appeal Policy from our Syllabus](https://thomaselove.github.io/432-syllabus-2024/08-grading.html#lab-appeal-policy---request-a-review-via-google-form).
 3. Feedback on the Minute Paper after Class 07 is available at <https://bit.ly/432-2024-min-07-feedback>.
 
 ## What Should I Be Working On?
