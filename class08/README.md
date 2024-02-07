@@ -34,6 +34,10 @@ The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-proje
 
 Review your HTML output file carefully before submission for copy-editing issues (spelling, grammar and syntax.) Even with spell-check in RStudio (just hit F7), it’s hard to find errors with these issues in your Quarto file so long as it is running. You really need to look at the resulting HTML output, closely.
 
+### My Second-Best Piece of Advice
+
+Read over the information I've provided for you on [Project A Plan Contents](https://thomaselove.github.io/432-2024/projA.html#project-a-plan-contents) and make sure you have all of those issues covered in what you submit.
+
 ## And, finally...
 
 Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
