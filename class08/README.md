@@ -19,6 +19,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - If you'd like me to regrade one of the Labs after grading, please read and follow [the Lab Appeal Policy from our Syllabus](https://thomaselove.github.io/432-syllabus-2024/08-grading.html#lab-appeal-policy---request-a-review-via-google-form).
 3. Feedback on the Minute Paper after Class 07 is available at <https://bit.ly/432-2024-min-07-feedback>.
 
+## What Should I Be Working On?
+
+The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-project-a-plan), due **MONDAY** 2024-02-12 at Noon to [Canvas](https://canvas.case.edu/).
+
+1. Please use [the Quarto template we provided for the Project A Plan](https://thomaselove.github.io/432-2024/projA.html#templates) in preparing your work.
+2. If you are working with a partner, all work must be submitted by exactly one of you to [Canvas](https://canvas.case.edu/) while the non-reporting partner submits a one-page note to Canvas indicating the members of the partnership and that the partner will submit the work.
+3. Please be sure to submit the following items to [Canvas](https://canvas.case.edu/)
+    - a Quarto (.qmd) file containing one unnumbered, and 10 numbered sections
+    - an HTML result of applying the Quarto "plan" file to your data which has a working table of contents
+    - a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
+
 ## And, finally...
 
 Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
