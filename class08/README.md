@@ -32,7 +32,7 @@ The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-proje
 
 ### My Two Best Pieces of Advice
 
-1. Read over the information I've provided for you on [Project A Plan Contents](https://thomaselove.github.io/432-2024/projA.html#project-a-plan-contents) and make sure you have all of those issues covered in what you submit.
+1. Read over the information I've provided on [Project A Plan Contents](https://thomaselove.github.io/432-2024/projA.html#project-a-plan-contents) and make sure you have all of those issues covered in what you submit.
 2. Review your HTML output file carefully before submission for copy-editing issues (spelling, grammar and syntax.) Even with spell-check in RStudio (just hit F7), it’s hard to find errors with these issues in your Quarto file so long as your Quarto file runs. You really need to look at the resulting HTML output, closely.
 
 ## And, finally...
