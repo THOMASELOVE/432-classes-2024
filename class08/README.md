@@ -12,8 +12,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-## More to come.
+## Announcements
+
+1. Feedback on the Minute Paper after Class 07 is available at <https://bit.ly/432-2024-min-07-feedback>.
 
 ## And, finally...
 
-Tickets to [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. The show continues February 9-11, 16-18, 23-24 on Friday and Saturday evenings with two Sunday matinees (Feb 11 is already sold out.)
+Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
+
