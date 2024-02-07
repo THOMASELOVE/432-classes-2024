@@ -30,6 +30,10 @@ The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-proje
     - an HTML result of applying the Quarto "plan" file to your data which has a working table of contents
     - a copy of your (tidied) data (see Section 4.3 of the Project A Plan) in an .Rds file.
 
+### My Best Piece of Advice
+
+Review your HTML output file carefully before submission for copy-editing issues (spelling, grammar and syntax.) Even with spell-check in RStudio (just hit F7), it’s hard to find errors with these issues in your Quarto file so long as it is running. You really need to look at the resulting HTML output, closely.
+
 ## And, finally...
 
 Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
