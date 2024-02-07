@@ -18,6 +18,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. By now, you should have received an email with your 432 Lab Code, and can use it to view feedback and grades for Labs 1 and 2 (and the Minute Papers) on our Shared Drive in the Course Grading Roster. Let me know if you have trouble accessing this information.
     - If you'd like me to regrade one of the Labs, please read and follow [the Lab Appeal Policy from our Syllabus](https://thomaselove.github.io/432-syllabus-2024/08-grading.html#lab-appeal-policy---request-a-review-via-google-form).
 3. Feedback on the Minute Paper after Class 07 is available at <https://bit.ly/432-2024-min-07-feedback>.
+4. The data set we'll use today in class is the Favorite Movies data from my 431 class this past Fall.
+    - The data are [here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class08/movies_2023-10-24.xlsx) and on our 432-data page in downloadable Excel format.
+    - Details on the Favorite Movies work from this Fall [can be found here](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies).
+    - You'll also find the complete data, including its Codebook, in a Google Sheet on our Shared Drive for this class.
 
 ## What Should I Be Working On?
 
