@@ -37,5 +37,5 @@ The [Project A Plan](https://thomaselove.github.io/432-2024/projA.html#the-proje
 
 ## And, finally...
 
-Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
+Tickets to some performances of [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, are still available. If you'd like to go, please visit <https://www.hudsonplayers.com/>. There are a few seats left for the evening shows on February 16 and 17, and reasonable availability on February 23 and 24. All other performances are sold out. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like!
 
