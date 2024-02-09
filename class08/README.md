@@ -12,7 +12,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 - To print the HTML slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-## The recording was paused for part/all of the session, so after it was over, I redid the class in about 30 minutes, and that's the recording you'll find posted.
+## The recording was paused for today's session, so after it was over, I redid the class in about 30 minutes, and that's the recording you'll find posted.
 
 ## Announcements
 
