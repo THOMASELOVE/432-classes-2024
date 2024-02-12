@@ -12,8 +12,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I've posted a slightly revised version of the Lab 3 sketch to our Shared Drive, where I've augmented the rubric for Questions 3 and 5.
-2. The Minute Paper after Class 9 is due Wednesday 2024-02-14 at noon. You'll find it at **LINK TO COME**. Please complete it on time.
+1. We're back to in-person education today at 1 PM in our usual room E321-323 Robbins Hall.
+2. I've posted a slightly revised version of the Lab 3 sketch to our Shared Drive, where I've augmented the rubric for Questions 3 and 5.
+3. The Minute Paper after Class 9 is due Wednesday 2024-02-14 at noon. You'll find it at **LINK TO COME**. Please complete it on time.
 
 ## Finally...
 
