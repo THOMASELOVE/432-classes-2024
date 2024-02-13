@@ -17,11 +17,49 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. The [Minute Paper after Class 9](https://bit.ly/432-2024-min-09) is due Wednesday 2024-02-14 at noon. You'll find it at <https://bit.ly/432-2024-min-09>.
 4. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
 
-## Materials to Supplement Today's Slides
+## On (Project) Titles
 
+- Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans.
+- Please keep the main title to no more than 80 characters, including spaces.
+- Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles.
+- Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. 
+
+Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
+
+## Today's Data
+
+comes from [NHANES, specifically the 2011-12 administration](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/overview.aspx?BeginYear=2011).
+
+## More Resources that might help you (besides our Course [Notes](https://thomaselove.github.io/432-notes/))
+
+- [Journal Articles with Quarto](https://quarto.org/docs/journals/)
 - [What are Pseudo R-squareds?](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/) from UCLA.
 
-## Finally...
+## One Last Thing
+
+[Labeling the x and y axes: Here’s a quick example where a bit of care can make a big difference](https://statmodeling.stat.columbia.edu/2023/01/26/labeling-the-x-and-y-axes-heres-a-quick-example-where-a-bit-of-care-can-make-a-big-difference/) by Andrew Gelman
+
+- The post is made in reference to [this article at Namerology from Laura Wattenberg](https://namerology.com/2020/08/20/the-three-ages-of-i-names-an-american-tale/) and the graph shown below, and is meant to show that even a generally good graph (like this one) can be improved with some attention to details.
+
+![](figures/i-ending.png)
+
+## One Additional Last Thing
+
+Something like 219 million people have been born on [St. Valentine's Day](https://en.wikipedia.org/wiki/Valentine%27s_Day), February 14, including...
+
+- [Anna Howard Shaw](https://en.wikipedia.org/wiki/Anna_Howard_Shaw), [Jimmy Hoffa](https://en.wikipedia.org/wiki/Jimmy_Hoffa), [Michael Bloomberg](https://en.wikipedia.org/wiki/Michael_Bloomberg), 
+[Teller](https://en.wikipedia.org/wiki/Teller_(magician)), [Frederick Douglass](https://en.wikipedia.org/wiki/Frederick_Douglass), [Noriko Sakai](https://en.wikipedia.org/wiki/Noriko_Sakai)
+- [Kris Aquino](https://en.wikipedia.org/wiki/Kris_Aquino), [Terry Gross](https://en.wikipedia.org/wiki/Terry_Gross), [Mark Rutte](https://en.wikipedia.org/wiki/Mark_Rutte), [Rob Thomas](https://en.wikipedia.org/wiki/Rob_Thomas_(musician)), [Ken Levine](https://en.wikipedia.org/wiki/Ken_Levine_(screenwriter)), [Renée Fleming](https://en.wikipedia.org/wiki/Ren%C3%A9e_Fleming)
+- [Carl Bernstein](https://en.wikipedia.org/wiki/Carl_Bernstein), [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama), [Edinson Cavani](https://en.wikipedia.org/wiki/Edinson_Cavani), [Ángel Di Maria](https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa), [Jadeveon Clowney](https://en.wikipedia.org/wiki/Jadeveon_Clowney), [Jim Kelly](https://en.wikipedia.org/wiki/Jim_Kelly), 
+- [Drew Bledsoe](https://en.wikipedia.org/wiki/Drew_Bledsoe), [Woody Hayes](https://en.wikipedia.org/wiki/Woody_Hayes), [Mel Allen](https://en.wikipedia.org/wiki/Mel_Allen), [Jules Asner](https://en.wikipedia.org/wiki/Jules_Asner), [Risa Hirako](https://en.wikipedia.org/wiki/Risa_Hirako), [Gregory Hines](https://en.wikipedia.org/wiki/Gregory_Hines)
+- [Meg Tilly](https://www.imdb.com/name/nm0000672/), [Florence Henderson](https://www.imdb.com/name/nm0001341/), [Deeksha Seth](https://en.wikipedia.org/wiki/Deeksha_Seth), [John Barrymore](https://en.wikipedia.org/wiki/John_Barrymore), [Jack Benny](https://en.wikipedia.org/wiki/Jack_Benny), [Simon Pegg](https://www.imdb.com/name/nm0670408/)
+- [Freddie Highmore](https://www.imdb.com/name/nm0383603/), [Danai Gurira](https://www.imdb.com/name/nm1775091/), [Jake Lacy](https://www.imdb.com/name/nm3821405/), [Hazel McCallion](https://en.wikipedia.org/wiki/Hazel_McCallion)
+
+and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
+
+[Lots of other things](https://en.wikipedia.org/wiki/February_14) have happened on February 14, too.
+
+## Can I still see your show?
 
 [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, is going well. If you'd like to go, please visit <https://www.hudsonplayers.com/> to reserve your tickets, but act quickly. There are a few seats left for the evening shows on February 23 and 24. All other performances are sold out. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like, although I know it's a long show.
 
