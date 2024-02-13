@@ -6,7 +6,7 @@ Received as of 2024-02-13 at 1:05 AM. I await **three** additional submissions.
 :--: | :--------------: | :--------------------------------------------------------- | :--: | :---:
 1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2
 2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2
-3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children Mental Health** | 10 | **4.3.1**
+3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | 10 | **4.3.1**
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | 10 | 4.3.2
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | 10 | 4.3.2.
 6 | Dario <br /> Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | 10 | 4.3.2
@@ -14,8 +14,8 @@ Received as of 2024-02-13 at 1:05 AM. I await **three** additional submissions.
 8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | 10 | **4.3.1**
 10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1**
 11 | Julia <br /> Joo | Predictors of Childhood Vaccination Adherence | 10 | **4.3.1**
-13 | Mengxuan <br /> Li | Disease and physical health prediction of adults in the Rust Belt | 10 | **4.3.1**
-14 | Jack <br /> Liu | What will influence the predicted foreclosure rate? | 10 | 4.3.2
+13 | Mengxuan <br /> Li | **Disease and physical health prediction of adults in the Rust Belt** | 10 | **4.3.1**
+14 | Jack <br /> Liu | **What will influence the predicted foreclosure rate?** | 10 | 4.3.2
 15 | Bhavya <br /> Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | 10 | 4.3.2
 16 | Ethan <br /> Martin | **Andy Murray’s success in ATP-level tournament matches** | 10 | 4.3.2
 17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1**
