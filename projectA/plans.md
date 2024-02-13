@@ -35,5 +35,5 @@
 32 | Gazi <br /> Shamita | **Exploring Sleep Patterns and Health Influences in US Adults** | **12** | 4.3.2 | BRFSS 2022 | 1200 x 7
 33 | John <br /> Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
 34 | Liz <br /> Stanley | Predictors of BMI and Cervical Cancer Screening | 10 | 4.3.2 | BRFSS 2022 | 1200 x 9
-35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | **8** | 4.3.2 | CHR 2021 + <br /> PLACES | 999 x 10
+35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | 10 | 4.3.2 | CHR 2021 + <br /> PLACES | 999 x 10
 
