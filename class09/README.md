@@ -16,6 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. I've posted a slightly revised version of the Lab 3 sketch to our Shared Drive, where I've augmented the rubric for Questions 3 and 5. In light of this, the TAs have had to revamp their comments a little, so I'll post the Lab 3 comments to our Shared Drive as soon as we have them completed.
 3. The [Minute Paper after Class 9](https://bit.ly/432-2024-min-09) is due Wednesday 2024-02-14 at noon. You'll find it at <https://bit.ly/432-2024-min-09>.
 4. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
+5. **Harry Kong**, if you're in the room, I need to speak with you immediately after class. If you're not in the room, respond to the email I sent you yesterday, as soon as possible.
 
 ## On the Project Plans
 
