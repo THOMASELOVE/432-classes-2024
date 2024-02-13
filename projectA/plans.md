@@ -2,8 +2,8 @@
 
 Received as of 2024-02-13 at 1:05 AM. I await **three** additional submissions.
 
-# | Investigator(s) | Title (bold means Dr. Love changed the title)
---: | :--------------: | :-----------------------------------------------------------
+No. | Investigator(s) | Title (bold means Dr. Love changed the title)
+---: | :--------------: | :-----------------------------------------------------------
 1 | Kamilla Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts
 2 | Parishma Guttoo and <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware
 3 | Sarah Albalawi and <br /> Walaa Alshaia | **Social Factors and Children Mental Health**
