@@ -19,7 +19,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## On the Project Plans.
 
-Current Status of Project A Plans [can be found here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md)
+Current Status of Project A Plans [can be found here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
 
 1. Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans. Please keep the main title to no more than 80 characters, including spaces. Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles. Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
 2. If I've changed your title on the [plan status page](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md), for heaven's sake, adopt the new title, or improve it in light of what I've written above. Do not just regurgitate the original title I didn't like.
@@ -29,6 +29,7 @@ Current Status of Project A Plans [can be found here](https://github.com/THOMASE
 6. Your description of your data set in Section 1 is important, as is every other part of this plan. Do not neglect it.
 7. I recommend you strongly consider upgrading R to version 4.3.2, since it's been around since October 2023, and is thus quite stable now. I expect R version 4.3.3 to come out in March or April 2024.
 8. Spelling, grammar and proper use of complete English sentences all count. Don't neglect these fundamentals.
+9. I will post individual comments to you via Canvas when I'm sufficiently satisfied, and via email if I'm not and am requesting a resubmission.
 
 ## Today's Data
 
