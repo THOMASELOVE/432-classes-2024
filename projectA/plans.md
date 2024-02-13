@@ -3,7 +3,7 @@
 ## Received as of 2024-02-13 at 1:05 AM. I await **three** additional submissions.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
-:--: | :--------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
+:--: | :-----------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
 1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Challenge 2022 | 613 x 9
 2 | Parishma Guttoo <br /> & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2 | BRFSS 2022 | **3987** x 10
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | 10 | **4.3.1** | NHIS 2022 | 1191 x 8
