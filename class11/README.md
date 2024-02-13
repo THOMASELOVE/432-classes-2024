@@ -12,8 +12,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
- 
+1. There is a Minute Paper after Class 11 due Wednesday 2024-02-21 at noon. **Link will be posted here.**
+2. Remember to complete the bonus question for Quiz 1 **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
+
+  
 ## Finally...
 
 [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, continues to go well and closes this coming Saturday February 24. Ticket availability is extremely limited (click [this link](https://www.hudsonplayers.com/) to contact the box office.) 
