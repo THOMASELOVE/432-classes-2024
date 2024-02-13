@@ -1,6 +1,6 @@
 # Project A Plans
 
-Received as of 2024-02-13 at 1:05 AM
+Received as of 2024-02-13 at 1:05 AM. I await **three** additional submissions.
 
 Group | Investigator(s) | Title (bold means Dr. Love changed the title)
 ----: | :--------------: | :-----------------------------------------------------------
@@ -24,3 +24,16 @@ A-211 | Sam Samuditha | **Intensive E-Cigarette Consumption Among American Adult
 A-221 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors
 A-241 | Noel Moore | **Assessing mental health, urban/rural living and smoking**
 A-251 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis
+A-261 | Hala Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status**
+A-281 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes
+A-291 | Sakshi Pandit | Bee colony analysis using loss factors from stratified sampling
+A-301 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection
+A-311 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births
+A-321 | Justin Robinson | Predictors of Identity theft and Poor Credit Card Spending
+A-331 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma
+A-341 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults**
+A-351 | Gazi Shamita | **Exploring Sleep Patterns and Health Influences in US Adults**
+A-361 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties**
+A-371 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening
+A-382 | Hongke Wu and <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors
+
