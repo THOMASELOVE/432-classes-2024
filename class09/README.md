@@ -24,7 +24,7 @@ Current Status of Project A Plans [can be found here](https://github.com/THOMASE
 
 1. Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans. Please keep the main title to no more than 80 characters, including spaces. Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles. Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
 2. If I've changed your title on the [plan status page](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md), for heaven's sake, adopt the new title, or improve it in light of what I've written above. Do not just regurgitate the original title I didn't like.
-3. More of you could have used a useful subtitle to frame your work, especially if your title only touches on one of your two research questions.
+3. At least half of you could have used a useful subtitle to frame your work, especially if your title only touches on one of your two research questions.
 4. When loading packages, if you load a package that is part of [the core tidyverse](https://www.tidyverse.org/packages/#core-tidyverse), I will make you resubmit your work until this is no longer the case. STOP doing this.  
 5. Your Project A plan needs to have 10 labeled Sections, not 8, 9 or 12. Things are placed in these sections so that the TAs and I can find them quickly. Do not make our life more challenging in this regard.
 6. Your description of your data set in Section 1 is important, as is every other part of this plan. Do not neglect it.
