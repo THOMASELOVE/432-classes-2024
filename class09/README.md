@@ -17,7 +17,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. The [Minute Paper after Class 9](https://bit.ly/432-2024-min-09) is due Wednesday 2024-02-14 at noon. You'll find it at <https://bit.ly/432-2024-min-09>.
 4. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
 
-## On the Project Plans.
+## On the Project Plans
 
 Current Status of Project A Plans [can be found here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
 
