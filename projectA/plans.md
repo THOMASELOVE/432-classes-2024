@@ -1,6 +1,6 @@
 # Project A Plans
 
-## Received as of 2024-02-13 at 11:15 AM. I await **three** additional submissions.
+## Received as of 2024-02-13 at Noon. I await **two** additional submissions, and a few immediate revision requests.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
@@ -25,6 +25,7 @@
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
 22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | **9** | 4.3.2 | CHR + <br /> PLACES | 354 x 11
 23 | Hala <br /> Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | 10 | 4.3.2 | eICU <br /> via PhysioNet | 900 x 7
+24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | 10 | 4.3.2 | Urban Institute and CDC Natality | **88** x 12
 25 | Vern <br /> Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | 10 | 4.3.2 | Tidy Tuesday | 322 x 10
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
 27 | Max <br /> Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | 10 | 4.3.2 | Data Dryad | 1200 x 11
