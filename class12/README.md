@@ -12,7 +12,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
+1. To come.
+
+## Quiz 1
+
 1. Quiz 1 will be made available by 5 PM today.
+2. Don't forget about the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
  
 ## Finally...
 
