@@ -17,14 +17,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. The [Minute Paper after Class 9](https://bit.ly/432-2024-min-09) is due Wednesday 2024-02-14 at noon. You'll find it at <https://bit.ly/432-2024-min-09>.
 4. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
 
-## On (Project) Titles
+## On the Project Plans.
 
-- Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans.
-- Please keep the main title to no more than 80 characters, including spaces.
-- Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles.
-- Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. 
+Current Status of Project A Plans [can be found here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md)
 
-Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
+1. Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans. Please keep the main title to no more than 80 characters, including spaces. Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles. Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
+2. If I've changed your title on the [plan status page](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md), for heaven's sake, adopt the new title, or improve it in light of what I've written above. Do not just regurgitate the original title I didn't like.
+3. More of you could have used a useful subtitle to frame your work, especially if your title only touches on one of your two research questions.
+4. A tibble, when you print it, shows only the first ten rows. A data frame that is not a tibble does not do that. Make sure you have a tibble before you get to Section 4 and have to print your data frame, or I will return your plan to you to fix this issue. Nothing is a more obvious sign that you didn't bother to look closely at the HTML.
+5. Your Project A plan needs to have 10 labeled Sections, not 8, 9 or 12. Things are placed in these sections so that the TAs and I can find them quickly. Do not make our life more challenging in this regard.
+6. Your description of your data set in Section 1 is important, as is every other part of this plan. Do not neglect it.
+7. I recommend you strongly consider upgrading R to version 4.3.2, since it's been around since October 2023, and is thus quite stable now. I expect R version 4.3.3 to come out in March or April 2024.
+8. Spelling, grammar and proper use of complete English sentences all count. Don't neglect these fundamentals.
 
 ## Today's Data
 
@@ -61,6 +65,6 @@ and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
 
 ## Can I still see your show?
 
-[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, is going well. If you'd like to go, please visit <https://www.hudsonplayers.com/> to reserve your tickets, but act quickly. There are a few seats left for the evening shows on February 23 and 24. All other performances are sold out. If you're coming to the show, hang around in the lobby afterwards for a few moments to meet the cast, if you like, although I know it's a long show.
+[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, is going well. If you'd like to go, please visit <https://www.hudsonplayers.com/> to reserve your tickets, but act quickly. There are a few seats left for the evening shows on February 23 and 24. All other performances are sold out. If you're coming to the show, I hope you'll hang around in the lobby afterwards for a few moments to meet the cast and say hello (we appear less than 3 minutes after the curtain closes.)
 
 
