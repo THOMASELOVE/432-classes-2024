@@ -57,7 +57,7 @@ Something like 219 million people have been born on [St. Valentine's Day](https:
 - [Carl Bernstein](https://en.wikipedia.org/wiki/Carl_Bernstein), [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama), [Edinson Cavani](https://en.wikipedia.org/wiki/Edinson_Cavani), [Ángel Di Maria](https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa), [Jadeveon Clowney](https://en.wikipedia.org/wiki/Jadeveon_Clowney), [Jim Kelly](https://en.wikipedia.org/wiki/Jim_Kelly), 
 - [Drew Bledsoe](https://en.wikipedia.org/wiki/Drew_Bledsoe), [Woody Hayes](https://en.wikipedia.org/wiki/Woody_Hayes), [Mel Allen](https://en.wikipedia.org/wiki/Mel_Allen), [Jules Asner](https://en.wikipedia.org/wiki/Jules_Asner), [Risa Hirako](https://en.wikipedia.org/wiki/Risa_Hirako), [Gregory Hines](https://en.wikipedia.org/wiki/Gregory_Hines)
 - [Meg Tilly](https://www.imdb.com/name/nm0000672/), [Florence Henderson](https://www.imdb.com/name/nm0001341/), [Deeksha Seth](https://en.wikipedia.org/wiki/Deeksha_Seth), [John Barrymore](https://en.wikipedia.org/wiki/John_Barrymore), [Jack Benny](https://en.wikipedia.org/wiki/Jack_Benny), [Simon Pegg](https://www.imdb.com/name/nm0670408/)
-- [Freddie Highmore](https://www.imdb.com/name/nm0383603/), [Danai Gurira](https://www.imdb.com/name/nm1775091/), [Jake Lacy](https://www.imdb.com/name/nm3821405/), [Hazel McCallion](https://en.wikipedia.org/wiki/Hazel_McCallion)
+- [Freddie Highmore](https://www.imdb.com/name/nm0383603/), [Danai Gurira](https://www.imdb.com/name/nm1775091/), [Jake Lacy](https://www.imdb.com/name/nm3821405/), [Hazel McCallion](https://en.wikipedia.org/wiki/Hazel_McCallion), [Meg Tilly](https://www.imdb.com/name/nm0000672/),
 
 and me. Yes, with the last name "Love". It was a lot less cute when I was a kid.
 
