@@ -13,6 +13,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. To come.
+
+## What Should I Be Working On?
+
+1. [Lab 4](https://thomaselove.github.io/432-2024/lab4.html) is due Tuesday 2024-02-20 at noon.
+2. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available. You will receive the rest of Quiz 1 on Thursday 2024-02-22 at 5 PM.
  
 ## Finally...
 
