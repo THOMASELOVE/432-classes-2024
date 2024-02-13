@@ -5,7 +5,7 @@
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :--------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
 1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Challenge 2022 | 613 x 9
-2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2 | BRFSS 2022 | **3987** x 10
+2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2 | BRFSS 2022 | **3987** x 10
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | 10 | **4.3.1** | NHIS 2022 | 1191 x 8
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | 10 | 4.3.2 | CHR + <br /> PLACES | 718 x 12
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | 10 | 4.3.2. | BRFSS 2022 | 1133 x 8
