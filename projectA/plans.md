@@ -4,13 +4,13 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :--------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
-1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Data <br /> Challenge 2022 | 613 x 9
+1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Data Challenge 2022 | 613 x 9
 2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2 | BRFSS 2022 | **3987** x 10
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | 10 | **4.3.1** | NHIS 2022 | 1191 x 8
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | 10 | 4.3.2 | CHR + <br /> PLACES | 718 x 12
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | 10 | 4.3.2. | BRFSS 2022 | 1133 x 8
 6 | Dario <br /> Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | 10 | 4.3.2 | BRFSS 2022 | 1200 x 7
-7 | Justin <br /> Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | 10 | 4.3.2 | ASA Data <br /> Challenge 2022 | 1200 x 10
+7 | Justin <br /> Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | 10 | 4.3.2 | ASA Data Challenge 2022 | 1200 x 10
 8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | 10 | **4.3.1** | Urban Institute | 1000 x 7
 10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1** | NSCH 2022 | 1000 x 10
 11 | Julia <br /> Joo | Predictors of Childhood Vaccination Adherence | 10 | **4.3.1** | NIS-Child 2021 | 1200 x 9
@@ -21,7 +21,7 @@
 17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1** | BRFSS 2022 | 1200 x 10
 18 | Samir <br /> Memic | **Individual Behaviors and Mental Health in the BRFSS** | 10 | 4.3.2 | BRFSS 2022 | 1200 x **19**
 19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | 10 | 4.3.2 | PATH <br /> via ICSPR | 1200 x 12
-20 | Kathryn <br /> Menta | Examining City Crime Rates Through Economic and Geographic Predictors | 10 | 4.3.2 | Crime Reports + <br /> Census | 228 x 8
+20 | Kathryn <br /> Menta | Examining City Crime Rates Through Economic and Geographic Predictors | 10 | 4.3.2 | Crime Reports <br /> plus Census | 228 x 8
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
 22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | **9** | 4.3.2 | CHR + <br /> PLACES | 354 x 11
 23 | Hala <br /> Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | 10 | 4.3.2 | eICU <br /> via PhysioNet | 900 x 7
