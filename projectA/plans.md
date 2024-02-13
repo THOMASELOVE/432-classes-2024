@@ -4,13 +4,13 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :--------------: | :--------------------------------------------------------- | :--: | :--: | :------------ | :---:
-1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Data Challenge 2022 | 613 x 9
+1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | 10 | 4.3.2 | ASA Challenge 2022 | 613 x 9
 2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | 10 | 4.3.2 | BRFSS 2022 | **3987** x 10
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | 10 | **4.3.1** | NHIS 2022 | 1191 x 8
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | 10 | 4.3.2 | CHR + <br /> PLACES | 718 x 12
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | 10 | 4.3.2. | BRFSS 2022 | 1133 x 8
 6 | Dario <br /> Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | 10 | 4.3.2 | BRFSS 2022 | 1200 x 7
-7 | Justin <br /> Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | 10 | 4.3.2 | ASA Data Challenge 2022 | 1200 x 10
+7 | Justin <br /> Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | 10 | 4.3.2 | ASA Challenge 2022 | 1200 x 10
 8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | 10 | **4.3.1** | Urban Institute | 1000 x 7
 10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1** | NSCH 2022 | 1000 x 10
 11 | Julia <br /> Joo | Predictors of Childhood Vaccination Adherence | 10 | **4.3.1** | NIS-Child 2021 | 1200 x 9
