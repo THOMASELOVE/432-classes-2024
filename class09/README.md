@@ -24,12 +24,13 @@ Current Status of Project A Plans [can be found here](https://github.com/THOMASE
 1. Your project should have a meaningful title (not containing the words “432” or “Project” or “Proposal” or “Plan”) but rather something describing your actual data and plans. Please keep the main title to no more than 80 characters, including spaces. Avoid deadwood like "The Analysis of" or "Analyzing" or "Effects of" or "factors associated with" in titles. Don't use acronyms, initialisms or abbreviations in titles which confuse the reader. Your readers for assignments in 432 include: other students in this class, the TAs, and Dr. Love.
 2. If I've changed your title on the [plan status page](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md), for heaven's sake, adopt the new title, or improve it in light of what I've written above. Do not just regurgitate the original title I didn't like.
 3. More of you could have used a useful subtitle to frame your work, especially if your title only touches on one of your two research questions.
-4. A tibble, when you print it, shows only the first ten rows. A data frame that is not a tibble does not do that. Make sure you have a tibble before you get to Section 4 and have to print your data frame, or I will return your plan to you to fix this issue. Nothing is a more obvious sign that you didn't bother to look closely at the HTML.
-5. Your Project A plan needs to have 10 labeled Sections, not 8, 9 or 12. Things are placed in these sections so that the TAs and I can find them quickly. Do not make our life more challenging in this regard.
-6. Your description of your data set in Section 1 is important, as is every other part of this plan. Do not neglect it.
-7. I recommend you strongly consider upgrading R to version 4.3.2, since it's been around since October 2023, and is thus quite stable now. I expect R version 4.3.3 to come out in March or April 2024.
-8. Spelling, grammar and proper use of complete English sentences all count. Don't neglect these fundamentals.
-9. I will post individual comments to you via Canvas when I'm sufficiently satisfied, and via email if I'm not and am requesting a resubmission.
+4. When loading packages, if you load a package that is part of [the core tidyverse](https://www.tidyverse.org/packages/#core-tidyverse), I will make you resubmit your work until this is no longer the case. STOP doing this.  
+5. A tibble, when you print it, shows only the first ten rows. A data frame that is not a tibble does not do that. Make sure you have a tibble before you get to Section 4 and have to print your data frame, or I will return your plan to you to fix this issue. Nothing is a more obvious sign that you didn't bother to look closely at the HTML.
+6. Your Project A plan needs to have 10 labeled Sections, not 8, 9 or 12. Things are placed in these sections so that the TAs and I can find them quickly. Do not make our life more challenging in this regard.
+7. Your description of your data set in Section 1 is important, as is every other part of this plan. Do not neglect it.
+8. I recommend you strongly consider upgrading R to version 4.3.2, since it's been around since October 2023, and is thus quite stable now. I expect R version 4.3.3 to come out in March or April 2024.
+9. Spelling, grammar and proper use of complete English sentences all count. Don't neglect these fundamentals.
+10. I will post individual comments to you via Canvas when I'm sufficiently satisfied, and via email if I'm not and am requesting a resubmission.
 
 ## Today's Data
 
