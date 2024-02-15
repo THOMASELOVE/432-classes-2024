@@ -16,7 +16,7 @@
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
-28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | 10 | 4.3.2 | CDC WONDER | 626 x 7 | 20
+28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | CDC WONDER | 626 x 7 | 20
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
