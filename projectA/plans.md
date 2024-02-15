@@ -2,7 +2,7 @@
 
 ## Accepted Plans (move on to the portfolio, please)
 
-- The Project A Plan score is out of 20 points. Plans accepted by the time Dr. Love stops on 2024-02-16 will receive a 19 or 20.
+- The Project A Plan **Score** is out of 20 points. Plans accepted by the time Dr. Love finishes this set of reviews will receive a 19 or 20.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---: | :---:
