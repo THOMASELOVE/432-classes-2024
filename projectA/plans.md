@@ -47,16 +47,16 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | ASA Challenge 2022 | 613 x 9
+1 | Kamilla Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | ASA Challenge 2022 | 613 x 9
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | BRFSS 2022 | 1133 x 8
-6 | Dario <br /> Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
+6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
-14 | Jack <br /> Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
-15 | Bhavya <br /> Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
-19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study via ICSPR | 1200 x 12
-22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
-23 | Hala <br /> Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | eICU <br /> via PhysioNet | 900 x 7
-29 | Justin <br /> Robinson | Predictors of Identity theft and Poor Credit Card Spending | 10 | 4.3.2 | Federal Reserve Bank via Data is Plural | 1180 x 11
-32 | Gazi <br /> Shamita | Exploring Sleep Patterns and Health Influences in US Adults | 12 | 4.3.2 | BRFSS 2022 | 1200 x 7
+14 | Jack Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
+15 | Bhavya Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
+19 | Gayan Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study via ICSPR | 1200 x 12
+22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
+23 | Hala Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | eICU <br /> via PhysioNet | 900 x 7
+29 | Justin Robinson | Predictors of Identity theft and Poor Credit Card Spending | 10 | 4.3.2 | Federal Reserve Bank via Data is Plural | 1180 x 11
+32 | Gazi Shamita | Exploring Sleep Patterns and Health Influences in US Adults | 12 | 4.3.2 | BRFSS 2022 | 1200 x 7
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
