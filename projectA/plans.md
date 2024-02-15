@@ -16,6 +16,8 @@
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
+28 | Camaryn <br /> Peterson | Using Maternal Data to Predict Healthy Births | 10 | 4.3.2 | CDC WONDER | 626 x 7 | 20
+30 | Elizabeth <br /> Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
 ## Plans which must be Revised, due Sunday 2024-02-18 at 9 PM to Canvas
@@ -33,6 +35,7 @@
 15 | Bhavya <br /> Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
 19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study via ICSPR | 1200 x 12
 22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
+29 | Justin <br /> Robinson | Predictors of Identity theft and Poor Credit Card Spending | 10 | 4.3.2 | Federal Reserve Bank via Data is Plural | 1180 x 11
 32 | Gazi <br /> Shamita | Exploring Sleep Patterns and Health Influences in US Adults | 12 | 4.3.2 | BRFSS 2022 | 1200 x 7
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
@@ -48,9 +51,6 @@
 25 | Vern <br /> Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | 10 | 4.3.2 | Tidy Tuesday | 322 x 10
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
 27 | Max <br /> Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | 10 | 4.3.2 | Data Dryad | 1200 x 11
-28 | Camaryn <br /> Peterson | Using Maternal Data to Predict Healthy Births | 10 | 4.3.2 | CDC WONDER | 626 x 7
-29 | Justin <br /> Robinson | Predictors of Identity theft and Poor Credit Card Spending | 10 | 4.3.2 | Federal Reserve Bank via Data is Plural | 1180 x 11
-30 | Elizabeth <br /> Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | 10 | 4.3.2 | BRFSS 2022 | 1200 x 8
 31 | Himiede <br /> Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | 10 | 4.3.2 | BRFSS 2020-2021 | 999 x 10
 33 | John <br /> Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
 
