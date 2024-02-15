@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 9 is **coming soon**.
+1. Feedback on the Minute Paper after Class 9 [is available now](https://bit.ly/432-2024-min-09-feedback).
 2. Feedback on the Project A Plans is **coming soon**.
 3. Grades and feedback on Lab 3 are **coming soon** to our Shared Drive.
 4. I've added the `cutpointr` package to our [list of R packages to install](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install).
