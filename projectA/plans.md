@@ -26,6 +26,7 @@
 2 | Parishma Guttoo <br /> & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
+24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | Urban Institute and CDC Natality | 345 x 15 | 19
 
 ## Plans Dr. Love is Still Reviewing
 
@@ -42,7 +43,6 @@
 20 | Kathryn <br /> Menta | Examining City Crime Rates Through Economic and Geographic Predictors | 10 | 4.3.2 | Crime Reports <br /> plus Census | 228 x 8
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
 23 | Hala <br /> Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | 10 | 4.3.2 | eICU <br /> via PhysioNet | 900 x 7
-24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | 10 | 4.3.2 | Urban Institute and CDC Natality | **88** x 12
 25 | Vern <br /> Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | 10 | 4.3.2 | Tidy Tuesday | 322 x 10
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
 27 | Max <br /> Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | 10 | 4.3.2 | Data Dryad | 1200 x 11
