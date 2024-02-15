@@ -6,7 +6,7 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---: | :---:
-2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
+2 | Parishma Guttoo <br /> & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
@@ -16,8 +16,8 @@
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
-28 | Camaryn <br /> Peterson | Using Maternal Data to Predict Healthy Births | 10 | 4.3.2 | CDC WONDER | 626 x 7 | 20
-30 | Elizabeth <br /> Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
+28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | 10 | 4.3.2 | CDC WONDER | 626 x 7 | 20
+30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
 ## Plans which must be Revised, due Sunday 2024-02-18 at 9 PM to Canvas
