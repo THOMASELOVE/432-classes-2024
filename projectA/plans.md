@@ -13,9 +13,9 @@
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
 14 | Jack <br /> Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
 15 | Bhavya <br /> Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
-19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study <br /> via ICSPR | 1200 x 12
-22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + <br /> PLACES | 354 x 11
-35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + <br /> PLACES | 211 x 10
+19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study via ICSPR | 1200 x 12
+22 | Krishna <br /> Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
+35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
 ## Accepted Plans (move on to the portfolio, please)
 
