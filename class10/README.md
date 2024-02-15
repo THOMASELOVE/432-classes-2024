@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 9 [is available now](https://bit.ly/432-2024-min-09-feedback).
-2. Feedback on the Project A Plans has arrived (in your email and on Canvas) for some of you, and for the rest, it is **coming soon**. See the [Project A Plan Status page here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md) for more details.
+2. Feedback on the Project A Plans has arrived (in your email and on Canvas) for most of you, and for the rest, it is **coming this evening**. See the [Project A Plan Status page here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md) for more details.
 3. Grades and feedback on Lab 3 are available in the Course Grading Roster on our Shared Google Drive.
     - The class average on this Lab was a bit lower than the previous Labs.
     - I reserve the right to decide to reweight the Labs at the end of the term, depending on what happens in Labs 4-7 and Lab 8.
