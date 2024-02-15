@@ -10,7 +10,7 @@
 1 | Kamilla <br /> Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | ASA Challenge 2022 | 613 x 9
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | BRFSS 2022 | 1133 x 8
 6 | Dario <br /> Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
-12 | Shuheng ("Harry") Kong | **New title needed** | TBD | TBD
+12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
 14 | Jack <br /> Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
 15 | Bhavya <br /> Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
 19 | Gayan <br /> Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study <br /> via ICSPR | 1200 x 12
