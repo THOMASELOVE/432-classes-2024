@@ -16,6 +16,7 @@
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
+27 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | Data Dryad | 1200 x 11 | 19
 28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | CDC WONDER | 626 x 7 | 20
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
@@ -50,7 +51,6 @@
 23 | Hala <br /> Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | 10 | 4.3.2 | eICU <br /> via PhysioNet | 900 x 7
 25 | Vern <br /> Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | 10 | 4.3.2 | Tidy Tuesday | 322 x 10
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
-27 | Max <br /> Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | 10 | 4.3.2 | Data Dryad | 1200 x 11
 31 | Himiede <br /> Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | 10 | 4.3.2 | BRFSS 2020-2021 | 999 x 10
 33 | John <br /> Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
 
