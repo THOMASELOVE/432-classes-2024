@@ -9,7 +9,7 @@
 2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
 3 | Sarah Albalawi & Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
-8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | 10 | **4.3.1** | Urban Institute | 1000 x 7
+8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 16 | Ethan <br /> Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn <br /> Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | Urban Institute and CDC Natality | 345 x 15 | 19
