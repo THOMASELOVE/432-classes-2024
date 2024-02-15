@@ -12,6 +12,7 @@
 7 | Justin <br /> Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob <br /> Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 11 | Julia <br /> Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
+13 | Mengxuan <br /> Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
 16 | Ethan <br /> Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 20 | Kathryn <br /> Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | Urban Institute and CDC Natality | 345 x 15 | 19
@@ -40,7 +41,6 @@
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
 10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1** | National Survey of Children's Health 2022 | 1000 x 10
-13 | Mengxuan <br /> Li | **Disease and physical health prediction of adults in the Rust Belt** | 10 | **4.3.1** | CHR + <br /> PLACES | 566 x 9
 17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1** | BRFSS 2022 | 1200 x 10
 18 | Samir <br /> Memic | **Individual Behaviors and Mental Health in the BRFSS** | 10 | 4.3.2 | BRFSS 2022 | 1200 x **19**
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
