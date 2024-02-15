@@ -6,8 +6,8 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---: | :---:
-2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
-3 | Sarah Albalawi & Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
+2 | Parishma Guttoo & <br /> Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
+3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
