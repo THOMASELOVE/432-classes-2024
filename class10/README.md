@@ -46,7 +46,9 @@ After today, the main topics we plan to discuss regarding logistic regression th
 ## What Should I Be Working On?
 
 1. [Lab 4](https://thomaselove.github.io/432-2024/lab4.html) is due Tuesday 2024-02-20 at noon.
-2. A bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due, which is Tuesday 2024-02-27 at noon. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available. You will receive the rest of Quiz 1 on Thursday 2024-02-22 at 5 PM.
+2. If I have asked you to revise your Project A Plan, be sure to resubmit it to Canvas (including .qmd, .html and .Rds files) by the deadline I've given you.
+3. Once I've approved your Project A Plan, there should be nothing on our end stopping you from completing the Project A Portfolio, which is due Monday 2024-03-18 at Noon.
+4. Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40) on  [Campuswire](https://campuswire.com/). Responses are due Tuesday 2024-02-27 at noon. The bonus question will be worth about 3 points for a complete and well-written response, with some partial credit available. You will receive the rest of Quiz 1 on Thursday 2024-02-22 at 5 PM.
 
 ## Finally...
 
