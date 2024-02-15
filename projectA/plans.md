@@ -6,8 +6,8 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------ | :---: | :---:
-2 | Parishma Guttoo <br /> & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
-3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
+2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
+3 | Sarah Albalawi & Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John <br /> Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
 16 | Ethan <br /> Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 24 | Anthony <br /> Nunnery | Minority Homeownership in Ohio *(but will need to include other states)* | Urban Institute and CDC Natality | 345 x 15 | 19
