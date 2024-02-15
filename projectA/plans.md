@@ -1,6 +1,8 @@
 # Project A Plans: Review Status
 
-## Plans Dr. Love is Still Reviewing (it is likely that most, but not all of these will require revisions)
+## Plans Dr. Love is Still Reviewing 
+
+- It is likely that most, but perhaps not all, of these plans will require some sort of revision. I will determine this by the end of the day 2024-02-15.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
@@ -12,9 +14,11 @@
 31 | Himiede <br /> Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | 10 | 4.3.2 | BRFSS 2020-2021 | 999 x 10
 33 | John <br /> Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
 
-## Accepted Plans (move on to the portfolio, please)
+## Accepted Plans 
 
 - The Project A Plan **Score** is out of 20 points. Plans accepted by the time Dr. Love finishes this set of reviews will receive a 19 or 20.
+- If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
+- If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---: | :---:
@@ -34,9 +38,11 @@
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
-## Plans which must be Revised, due Sunday 2024-02-18 at 9 PM to Canvas
+## Plans where I need to see a Revision, which is due Sunday 2024-02-18 at 9 PM to Canvas
 
-- See your email and Canvas for details.
+- See your email and Canvas for details on what I want to see in your revision, and related feedback.
+- If your title below is in bold, change your title to this one, or to one that I will like better than this one.
+- Submit your revised work in the same place on Canvas where you submitted it the first time.
 - Plans that require revision will eventually receive scores of 16-18, out of 20 possible points.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
