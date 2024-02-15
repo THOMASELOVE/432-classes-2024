@@ -16,7 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Feedback on the Minute Paper after Class 9 [is available now](https://bit.ly/432-2024-min-09-feedback).
 2. Feedback on the Project A Plans is **coming soon**.
-3. Grades and feedback on Lab 3 are **coming soon** to our Shared Drive.
+3. Grades and feedback on Lab 3 are **coming soon** to our Shared Drive. The class average on this Lab was a bit lower than the previous Labs, I reserve the right to decide to reweight the Labs at the end of the term, depending on what happens in Labs 4-7 and Lab 8.
 4. I've added the `cutpointr` package to our [list of R packages to install](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install).
 5. I've adjusted the class [Calendar](https://thomaselove.github.io/432-2024/calendar.html) to put January at the bottom and reduce some scrolling.
 
