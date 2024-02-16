@@ -2,7 +2,7 @@
 
 ## Plans Dr. Love is Still Reviewing 
 
-- It is likely that most, but perhaps not all, of these plans will require some sort of revision. I will determine this by 10 AM on 2024-02-16.
+- I will finish this review by 10 AM on 2024-02-16.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
