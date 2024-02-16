@@ -2,11 +2,10 @@
 
 ## Plans Dr. Love is Still Reviewing 
 
-- It is likely that most, but perhaps not all, of these plans will require some sort of revision. I will determine this by the end of the day 2024-02-15.
+- It is likely that most, but perhaps not all, of these plans will require some sort of revision. I will determine this by 10 AM on 2024-02-16.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
-18 | Samir <br /> Memic | **Individual Behaviors and Mental Health in the BRFSS** | 10 | 4.3.2 | BRFSS 2022 | 1200 x **19**
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
 31 | Himiede <br /> Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | 10 | 4.3.2 | BRFSS 2020-2021 | 999 x 10
@@ -30,6 +29,7 @@
 13 | Mengxuan Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1** | BRFSS 2022 | 1200 x 10 | 19
+18 | Samir <br /> Memic | **Individual Behaviors and Mental Health in the BRFSS** | 10 | 4.3.2 | BRFSS 2022 | 1200 x **19** | 19
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
