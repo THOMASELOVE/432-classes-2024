@@ -25,6 +25,7 @@
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
 27 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | Data Dryad | 1200 x 11 | 19
 28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | CDC WONDER | 626 x 7 | 20
+29 | Justin Robinson | Predictors of Identity Theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11 | 20
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
@@ -47,7 +48,6 @@
 22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
 23 | Hala Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | eICU <br /> via PhysioNet | 900 x 7
 26 | Sakshi Pandit | Bee colony analysis using loss factors from stratified sampling | Tidy Tuesday | 999 x 11
-29 | Justin Robinson | Predictors of Identity theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11
 31 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | BRFSS 2020-2021 | 999 x 10
 32 | Gazi Shamita | Exploring Sleep Patterns and Health Influences in US Adults | BRFSS 2022 | 1200 x 7
 33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | CHR 2022 + <br /> CDC WONDER | 576 x 15
