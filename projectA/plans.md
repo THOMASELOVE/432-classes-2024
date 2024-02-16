@@ -28,7 +28,7 @@
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
-## Plans where I need to see a Revision, which is due Sunday 2024-02-18 at 9 PM to Canvas
+## Plans where I need to see a Revision, due Sunday 2024-02-18 at 9 PM to Canvas
 
 - See your email and Canvas for details on what I want to see in your revision, and related feedback.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
