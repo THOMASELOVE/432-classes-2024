@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. There is a Minute Paper after Class 11 due Wednesday 2024-02-21 at noon. **Link will be posted here.**
 2. Remember to complete the bonus question for Quiz 1 **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
-
+3. Project A Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
   
 ## Finally...
 
