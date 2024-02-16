@@ -1,6 +1,6 @@
 # Project A Plans: Review Status
 
-## Accepted Plans 
+## Accepted Plans (n = 19)
 
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
@@ -12,6 +12,7 @@
 2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
+5 | Manu Bulusu & <br /> Lydia Mitchell | Predictors of Poor Mental Health and Depression Diagnoses in Ohio Residents | BRFSS 2022 | 1178 x 8 | 18
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
@@ -36,7 +37,6 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | BRFSS 2022 | 1133 x 8
 6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
 10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | National Survey of Children's Health 2022 | 1000 x 10
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
