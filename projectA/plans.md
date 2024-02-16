@@ -6,7 +6,6 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
-31 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | 10 | 4.3.2 | BRFSS 2020-2021 | 999 x 10
 33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
 
 ## Accepted Plans 
@@ -57,6 +56,7 @@
 23 | Hala Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | eICU <br /> via PhysioNet | 900 x 7
 26 | Sakshi Pandit | Bee colony analysis using loss factors from stratified sampling | Tidy Tuesday | 999 x 11
 29 | Justin Robinson | Predictors of Identity theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11
+31 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | BRFSS 2020-2021 | 999 x 10
 32 | Gazi Shamita | Exploring Sleep Patterns and Health Influences in US Adults | BRFSS 2022 | 1200 x 7
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
