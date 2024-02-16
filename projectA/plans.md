@@ -1,16 +1,8 @@
 # Project A Plans: Review Status
 
-## Plans Dr. Love is Still Reviewing 
-
-- I will finish this review by 10 AM on 2024-02-16.
-
-.. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
-:--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
-33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | 10 | 4.3.2 | CHR 2022 + <br /> CDC WONDER | 576 x 15
-
 ## Accepted Plans 
 
-- The Project A Plan **Score** is out of 20 points. Plans accepted by the time Dr. Love finishes this set of reviews will receive a 19 or 20.
+- The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 
@@ -58,5 +50,6 @@
 29 | Justin Robinson | Predictors of Identity theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11
 31 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | BRFSS 2020-2021 | 999 x 10
 32 | Gazi Shamita | Exploring Sleep Patterns and Health Influences in US Adults | BRFSS 2022 | 1200 x 7
+33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | CHR 2022 + <br /> CDC WONDER | 576 x 15
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
