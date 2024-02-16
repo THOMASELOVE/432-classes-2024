@@ -1,6 +1,6 @@
 # Project A Plans: Review Status
 
-## Accepted Plans (n = 19)
+## Accepted Plans (n = 20)
 
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
