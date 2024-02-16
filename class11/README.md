@@ -19,4 +19,4 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
   
 ## Finally...
 
-[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, continues to go well and closes this coming Saturday February 24. Ticket availability is extremely limited (click [this link](https://www.hudsonplayers.com/) to contact the box office.) 
+[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, closes Saturday February 24. The few tickets remaining may be purchased at [this link](https://www.hudsonplayers.com/).
