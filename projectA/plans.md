@@ -6,8 +6,6 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | S | R | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :---: | :---: | :------------: | :-------:  
-10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1** | National Survey of Children's Health 2022 | 1000 x 10
-17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1** | BRFSS 2022 | 1200 x 10
 18 | Samir <br /> Memic | **Individual Behaviors and Mental Health in the BRFSS** | 10 | 4.3.2 | BRFSS 2022 | 1200 x **19**
 21 | Noel <br /> Moore | **Assessing mental health, urban/rural living and smoking** | 10 | 4.3.2 | NHIS 2021 | 739 x 7
 26 | Sakshi <br /> Pandit | Bee colony analysis using loss factors from stratified sampling | 10 | 4.3.2 | Tidy Tuesday | 999 x 11
@@ -31,6 +29,7 @@
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
 13 | Mengxuan Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
+17 | Kyle <br /> McGill Percy | Impact of Sleep on Dementia Caregivers | 10 | **4.3.1** | BRFSS 2022 | 1200 x 10 | 19
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
@@ -50,6 +49,7 @@
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | BRFSS 2022 | 1133 x 8
 6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
+10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | 10 | **4.3.1** | National Survey of Children's Health 2022 | 1000 x 10
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
 14 | Jack Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
 15 | Bhavya Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
