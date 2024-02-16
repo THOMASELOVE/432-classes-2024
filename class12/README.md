@@ -32,8 +32,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Quiz 1 will be made available by 5 PM today.
 2. Don't forget about the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due. The bonus question will be worth approximately 3 points for a complete and well-written response, with some partial credit available.
 
-![](cv_image.png) from timoelliott.com
- 
 ## Finally...
 
 [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, continues to go well and closes this coming Saturday February 24. Ticket availability is extremely limited (click [this link](https://www.hudsonplayers.com/) to contact the box office.) 
