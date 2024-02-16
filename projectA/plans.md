@@ -38,7 +38,7 @@
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
 6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
-10 | Trent <br /> George | **Tracking Child Development and Anxiety in NCSH 2022** | National Survey of Children's Health 2022 | 1000 x 10
+10 | Trent George | **Tracking Child Development and Anxiety in NCSH 2022** | National Survey of Children's Health 2022 | 1000 x 10
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
 14 | Jack Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
 15 | Bhavya Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
