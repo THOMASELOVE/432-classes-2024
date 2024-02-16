@@ -22,6 +22,7 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---: | :---:
+1 | Kamilla Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | ASA Challenge 2022 | 613 x 9 | 19
 2 | Parishma Guttoo & Abrar Alamoudi | Tobacco Use and Lung Screening in Delaware | BRFSS 2022 | 1183 x 10 | 19
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
@@ -47,7 +48,6 @@
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-1 | Kamilla Abdurakhmanov | Household Factors to Predict Poverty in Ohio School Districts | ASA Challenge 2022 | 613 x 9
 5 | Manu Bulusu & <br /> Lydia Mitchell | **Predicting Reported Days of Poor Mental Health and Depression** | BRFSS 2022 | 1133 x 8
 6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
 12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
