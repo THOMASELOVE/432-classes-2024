@@ -24,6 +24,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - <http://cran.nexr.com/web/packages/bestglm/vignettes/bestglm.pdf>
 - <https://rpubs.com/ohcsnad/feature_selection_methods>
 - <https://glmnet.stanford.edu/index.html>
+- <https://discourse.datamethods.org/t/author-checklist/3407>
 - <https://hbiostat.org/bbr/>
 - <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6>
 - <https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6>
