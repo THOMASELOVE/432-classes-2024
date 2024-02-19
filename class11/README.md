@@ -26,8 +26,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - <https://glmnet.stanford.edu/index.html>
 - <https://discourse.datamethods.org/t/author-checklist/3407>
 - <https://hbiostat.org/bbr/>
-- <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6>
+- <https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightuse-of-stepwise-variable-selection-24>
 - <https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6>
+- <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6>
 
 ## Self-Promotion
 
