@@ -15,7 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 11 will be made available **by class time**.
-
+2. 29 Project A plans are now approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM. Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
+ 
 ## Materials for the `bradley` example we'll discuss today
 
 - The original source is Steven M. Bradley, Joleen A. Borgerding, G. Blake Wood, et al. [Incidence, Risk Factors, and Outcomes Associated With In-Hospital Acute Myocardial Infarction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2720923) *JAMA Netw Open* 2019; 2(1): e187348. doi:10.1001/jamanetworkopen.2018.7348.
