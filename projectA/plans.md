@@ -58,7 +58,7 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 - See your email and Canvas for details on what I want to see in your revision, and related feedback. Please address ALL of my comments.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 - Submit your revised work in the same place on Canvas where you submitted it the first time.
-- Plans that still require revision will eventually receive scores of 16 out of 20 possible points once I approve the work.
+- Plans on this list will eventually receive scores of 16 out of 20 possible points once I approve the work.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
