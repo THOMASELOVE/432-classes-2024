@@ -10,7 +10,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 11 | 2024-02-20 | **[Slides 11](https://thomaselove.github.io/432-slides-2024/slides11.html)** | *[Word 11](https://thomaselove.github.io/432-slides-2024/slides11w.docx)* | **[Code 11](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](figures/insignificant.png)  Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightlack-of-insignificant-variables-in-the-final-model-25)
+![](figures/insignificant.png)  
+
+Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightlack-of-insignificant-variables-in-the-final-model-25)
 
 ## Announcements
 
