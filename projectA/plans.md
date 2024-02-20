@@ -1,6 +1,6 @@
 # Project A Plans: Review Status
 
-1. [Accepted Plans]#accepted-plans
+1. [Accepted Plans](#accepted-plans)
 2. Plans currently under review by Dr. Love
 3. [Plans that need a revision (due Thursday 2024-02-22 at 9 PM)](#
 
