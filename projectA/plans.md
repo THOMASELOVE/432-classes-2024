@@ -1,5 +1,9 @@
 # Project A Plans: Review Status
 
+- Accepted Plans
+- Plans currently under review by Dr. Love
+- [Plans that need a revision (due Thursday 2024-02-22 at 9 PM)](#
+
 ## Accepted Plans (n = 20)
 
 - The Project A Plan **Score** is out of 20 points.
@@ -29,12 +33,7 @@
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
-## Plans where I need to see a Revision, due Sunday 2024-02-18 at 9 PM to Canvas
-
-- See your email and Canvas for details on what I want to see in your revision, and related feedback.
-- If your title below is in bold, change your title to this one, or to one that I will like better than this one.
-- Submit your revised work in the same place on Canvas where you submitted it the first time.
-- Plans that require revision will eventually receive scores of 16-18, out of 20 possible points.
+## Revised Plans Dr. Love is currently reviewing
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
@@ -53,3 +52,13 @@
 33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | CHR 2022 + <br /> CDC WONDER | 576 x 15
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
+## Plans where I need to see a Revision, due Thursday 2024-02-22 at 9 PM to Canvas
+
+- See your email and Canvas for details on what I want to see in your revision, and related feedback.
+- If your title below is in bold, change your title to this one, or to one that I will like better than this one.
+- Submit your revised work in the same place on Canvas where you submitted it the first time.
+- Plans that still require revision will eventually receive scores of 16 out of 20 possible points once I approve the work.
+
+.. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
+:--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
+9 | Mary Garrity | **Understanding Weight and Diabetes predictors in BRFSS 2022 Data** | BRFSS 2022 | 991 x 10
