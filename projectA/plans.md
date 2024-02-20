@@ -49,7 +49,7 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
--- | None at this time.
+-- | -- | None at this time.
 
 ## Revise and Resubmit
 
