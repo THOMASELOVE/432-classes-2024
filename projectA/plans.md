@@ -39,7 +39,7 @@
 
 ## Plans Under Review
 
-These are plans that have been submitted to Canvas, that Dr. Love is reviewing, as quickly as he can.
+These are plans that have been submitted to Canvas and that Dr. Love is reviewing as quickly as he can.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
