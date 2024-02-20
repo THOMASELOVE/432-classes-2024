@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **20** plans out of 35 have been accepted.
+- At present, **21** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -18,6 +18,7 @@
 3 | Sarah Albalawi & <br /> Walaa Alshaia | **Social Factors and Children's Mental Health** | National Health Interview Survey 2022 | 1191 x 8 | 20
 4 | John Barron | **Predicting County Prevalence of Adult Coronary Heart Disease** | CHR + <br /> PLACES | 718 x 12 | 20
 5 | Manu Bulusu & <br /> Lydia Mitchell | Predictors of Poor Mental Health and Depression Diagnoses in Ohio Residents | BRFSS 2022 | 1178 x 8 | 18
+6 | Dario Cabal | Smoking Amount & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7 | 18
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
@@ -36,22 +37,21 @@
 
 ## Plans Under Review
 
+These are plans that have been submitted to Canvas, that Dr. Love is reviewing, as quickly as he can.
+
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-6 | Dario Cabal | Phone Raking Value & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7
-10 | Trent George | **Tracking Child Development and Anxiety in NCSH 2022** | National Survey of Children's Health 2022 | 1000 x 10
-12 | Shuheng ("Harry") Kong | **New title needed** | Will be revised | Will change
-14 | Jack Liu | **What will influence the predicted foreclosure rate?** | Urban Institute | 1199 x 11
-15 | Bhavya Mahesh | **Using NCIS 2022 to explore Cholesterol and Tobaccco** | National Health Interview Survey 2022 | 1200 x 7
-19 | Gayan Samuditha | **Intensive E-Cigarette Consumption Among American Adults** | PATH Study via ICSPR | 1200 x 12
-21 | Noel Moore | **Assessing mental health, urban/rural living and smoking** | NHIS 2021 | 739 x 7
-22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 354 x 11
-23 | Hala Nas | **Age, Sex, Race and ICU Type as predictors of Creatinine and Discharge Status** | eICU <br /> via PhysioNet | 900 x 7
-26 | Sakshi Pandit | Bee colony analysis using loss factors from stratified sampling | Tidy Tuesday | 999 x 11
-31 | Himiede Sesay | **Assessing Predictors of Coronary Heart Disease among US Adults** | BRFSS 2020-2021 | 999 x 10
-32 | Gazi Shamita | Exploring Sleep Patterns and Health Influences in US Adults | BRFSS 2022 | 1200 x 7
-33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | CHR 2022 + <br /> CDC WONDER | 576 x 15
-35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
+14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10
+15 | Bhavya Mahesh | Using NHIS 2022 to Explore Cholesterol and Weight | National Health Interview Survey 2022 | 1200 x 7
+19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
+21 | Noel Moore | Assessing mental health, urban/rural living and smoking | NHIS 2021 | 794 x 7
+22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 939 x 9
+23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 900 x 7
+26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
+31 | Himiede Sesay | Assessing Predictors of Coronary Heart Disease among US Adults | BRFSS 2021 | 999 x 10
+32 | Gazi Shamita | Investigating Adult Sleep Habits and their Health Effects in Alabama | BRFSS 2022 | 1199 x 8
+33 | John Snell | Birth Rate and Child Poverty in US Counties in 2022 | CHR 2022 + CDC WONDER | 569 x 14
+35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15
 
 ## Revise and Resubmit
 
@@ -65,3 +65,5 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
 9 | Mary Garrity | **Understanding Weight and Diabetes predictors in BRFSS 2022 Data** | BRFSS 2022 | 991 x 10
+10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
+12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
