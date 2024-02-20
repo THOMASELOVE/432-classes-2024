@@ -1,8 +1,8 @@
 # Project A Plans: Review Status
 
 1. [Accepted Plans](#accepted-plans)
-2. Plans currently under review by Dr. Love
-3. [Plans that need a revision (due Thursday 2024-02-22 at 9 PM)](#
+2. [Plans Under review](#plans-under-review) by Dr. Love
+3. [Plans that need a revision](#revise-and-resubmit), which is due Thursday 2024-02-22 at 9 PM
 
 ## Accepted Plans
 
@@ -34,7 +34,7 @@
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 
-## Revised Plans Dr. Love is currently reviewing
+## Plans Under Review
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
@@ -53,7 +53,9 @@
 33 | John Snell | **Adolescent 2022 Birth and Child Poverty Outcomes in US Counties** | CHR 2022 + <br /> CDC WONDER | 576 x 15
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 211 x 10
 
-## Plans where I need to see a Revision, due Thursday 2024-02-22 at 9 PM to Canvas
+## Revise and Resubmit
+
+For the Plans listed below, I need to see a Revision and that is due Thursday 2024-02-22 at 9 PM to Canvas
 
 - See your email and Canvas for details on what I want to see in your revision, and related feedback.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
