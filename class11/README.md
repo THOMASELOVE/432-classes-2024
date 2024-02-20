@@ -10,7 +10,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 11 | 2024-02-20 | **[Slides 11](https://thomaselove.github.io/432-slides-2024/slides11.html)** | *[Word 11](https://thomaselove.github.io/432-slides-2024/slides11w.docx)* | **[Code 11](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](figures/reviewer.png)
+![](figures/insignificant.png)  Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightlack-of-insignificant-variables-in-the-final-model-25)
 
 ## Announcements
 
@@ -21,15 +21,16 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Some References Related to Today's Material
 
-- <http://cran.nexr.com/web/packages/bestglm/vignettes/bestglm.pdf>
-- <https://rpubs.com/ohcsnad/feature_selection_methods>
-- <https://glmnet.stanford.edu/index.html>
-- <https://discourse.datamethods.org/t/author-checklist/3407>
-- <https://hbiostat.org/bbr/>
-- <https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightuse-of-stepwise-variable-selection-24>
-- <https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6>
-- <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6>
-- [Pima Indians Diabetes data on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- A.I. McLeod and C. Xu [bestglm package vignette (pdf)](http://cran.nexr.com/web/packages/bestglm/vignettes/bestglm.pdf)
+- Daniel Cho on [Logistic Regression: Feature Selection Methods](https://rpubs.com/ohcsnad/feature_selection_methods) also using the Pima Indians diabetes data
+    - [Pima Indians Diabetes data on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [glmnet website](https://glmnet.stanford.edu/index.html) "Lasso and Elastic-Net Regularized Generalized Linear Models"
+- Friedman J, Tibshirani R, Hastie T (2010). “Regularization Paths for Generalized Linear Models via Coordinate Descent.” Journal of Statistical Software, 33(1), 1–22. doi:10.18637/jss.v033.i01.
+- Frank Harrell and others at DataMethods Discourse [Statistical Problems to Document and to Avoid: Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407)
+- Frank Harrell on [Use of Stepwise Variable Selection](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightuse-of-stepwise-variable-selection-24)
+    - Gary Smith [Step away from stepwise](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6)
+    - Georg Heinze, Christine Wallisch and Daniela Dunkler on [Variable selection – A review and recommendations for the practicing statistician](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700067)
+- [Sample Size / Number of Variables for Regression Models](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6)
  
 ## Self-Promotion
 
@@ -37,5 +38,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## One Last Thing
 
-![](figures/subgroups.png)
+![](figures/reviewer.png)
   
