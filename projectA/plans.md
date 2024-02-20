@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **28** plans out of 35 have been accepted.
+- At present, **29** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -23,6 +23,7 @@
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
 13 | Mengxuan Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
+14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10 | 17
 15 | Bhavya Mahesh | Using NHIS 2022 to Explore Cholesterol and Weight | National Health Interview Survey 2022 | 1200 x 7 | 18
 16 | Ethan Martin | **Andy Murray’s success in ATP-level tournament matches** | Tennis Abstract | 961 x 12 | 20
 17 | Kyle McGill Percy | Impact of Sleep on Dementia Caregivers | BRFSS 2022 | 1200 x 10 | 19
@@ -48,14 +49,13 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10
-19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
+-- | None at this time.
 
 ## Revise and Resubmit
 
 For the Plans listed below, I need to see a Revision and that is due Thursday 2024-02-22 at 9 PM to Canvas
 
-- See your email and Canvas for details on what I want to see in your revision, and related feedback.
+- See your email and Canvas for details on what I want to see in your revision, and related feedback. Please address ALL of my comments.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 - Submit your revised work in the same place on Canvas where you submitted it the first time.
 - Plans that still require revision will eventually receive scores of 16 out of 20 possible points once I approve the work.
@@ -65,5 +65,6 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 9 | Mary Garrity | **Understanding Weight and Diabetes predictors in BRFSS 2022 Data** | BRFSS 2022 | 991 x 10
 10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
 12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
+19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
 32 | Gazi Shamita | Investigating Adult Sleep Habits and their Health Effects in Alabama | BRFSS 2022 | 1199 x 8
