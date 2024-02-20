@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **21** plans out of 35 have been accepted.
+- At present, **23** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -27,6 +27,7 @@
 17 | Kyle McGill Percy | Impact of Sleep on Dementia Caregivers | BRFSS 2022 | 1200 x 10 | 19
 18 | Samir Memic | **Individual Behaviors and Mental Health in the BRFSS** | BRFSS 2022 | 1200 x **19** | 19
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
+23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 1200 x 7
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
 27 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | Data Dryad | 1200 x 11 | 19
@@ -34,6 +35,7 @@
 29 | Justin Robinson | Predictors of Identity Theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11 | 20
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
+35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15
 
 ## Plans Under Review
 
@@ -46,12 +48,10 @@ These are plans that have been submitted to Canvas, that Dr. Love is reviewing, 
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 21 | Noel Moore | Assessing mental health, urban/rural living and smoking | NHIS 2021 | 794 x 7
 22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 939 x 9
-23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 900 x 7
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
 31 | Himiede Sesay | Assessing Predictors of Coronary Heart Disease among US Adults | BRFSS 2021 | 999 x 10
 32 | Gazi Shamita | Investigating Adult Sleep Habits and their Health Effects in Alabama | BRFSS 2022 | 1199 x 8
 33 | John Snell | Birth Rate and Child Poverty in US Counties in 2022 | CHR 2022 + CDC WONDER | 569 x 14
-35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15
 
 ## Revise and Resubmit
 
