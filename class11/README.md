@@ -10,9 +10,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 11 | 2024-02-20 | **[Slides 11](https://thomaselove.github.io/432-slides-2024/slides11.html)** | *[Word 11](https://thomaselove.github.io/432-slides-2024/slides11w.docx)* | **[Code 11](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](figures/insignificant.png)  
-
 Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightlack-of-insignificant-variables-in-the-final-model-25)
+
+![](figures/insignificant.png)  
 
 ## Announcements
 
@@ -34,11 +34,10 @@ Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-check
     - Georg Heinze, Christine Wallisch and Daniela Dunkler on [Variable selection – A review and recommendations for the practicing statistician](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201700067)
 - [Sample Size / Number of Variables for Regression Models](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6)
  
-## Self-Promotion
-
-[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, has its final two performances Friday and Saturday February 23 and 24. If any tickets remain, they may be purchased at [this link](https://www.hudsonplayers.com/).
-
-## One Last Thing
+----------
 
 ![](figures/reviewer.png)
   
+## Self-Promotion
+
+[Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, has its final two performances Friday and Saturday February 23 and 24. If any tickets remain, they may be purchased at [this link](https://www.hudsonplayers.com/).
