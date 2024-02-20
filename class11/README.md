@@ -19,7 +19,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. Project A Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
 4. [Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) will be made available to you on Thursday 2024-02-22 at 5 PM.
 
-## Key References for Today's Material
+## Some References Related to Today's Material
 
 - <http://cran.nexr.com/web/packages/bestglm/vignettes/bestglm.pdf>
 - <https://rpubs.com/ohcsnad/feature_selection_methods>
@@ -29,7 +29,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - <https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightuse-of-stepwise-variable-selection-24>
 - <https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6>
 - <https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787#sample-size-number-of-variables-for-regression-models-6>
-
+- [Pima Indians Diabetes data on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+ 
 ## Self-Promotion
 
 [Curtains, the musical](https://www.hudsonplayers.com/now-playing), in which I play Christopher Belling, has its final two performances Friday and Saturday February 23 and 24. If any tickets remain, they may be purchased at [this link](https://www.hudsonplayers.com/).
