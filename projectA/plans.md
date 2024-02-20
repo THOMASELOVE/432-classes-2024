@@ -1,11 +1,12 @@
 # Project A Plans: Review Status
 
-1. Accepted Plans
+1. [Accepted Plans]#accepted-plans
 2. Plans currently under review by Dr. Love
 3. [Plans that need a revision (due Thursday 2024-02-22 at 9 PM)](#
 
-## Accepted Plans (n = 20)
+## Accepted Plans
 
+- At present, **20** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
