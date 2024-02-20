@@ -19,7 +19,7 @@ Source: [DataMethods Discourse](https://discourse.datamethods.org/t/author-check
 1. There is a [Minute Paper after Class 11](https://bit.ly/432-2024-min-11) due Wednesday 2024-02-21 at noon. The link is <https://bit.ly/432-2024-min-11>.
 2. Remember to complete the bonus question for Quiz 1 **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
 3. 29 Project A plans are now approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM. Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
-4. [Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) will be made available to you on Thursday 2024-02-22 at 5 PM.
+4. [Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) will be made available to you on Thursday 2024-02-22 at 5 PM. Not counting the Quiz 1 Bonus question on Campuswire, the Quiz has 26 questions, each worth 3-5 points, for a total of 100 points. Quiz 1 includes material from the first 11 classes in 432, including all of Jeff Leek's *How to be a Modern Scientist*.
 
 ## Some References Related to Today's Material
 
