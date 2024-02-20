@@ -2,7 +2,7 @@
 
 1. [Accepted Plans](#accepted-plans)
 2. [Plans Under review](#plans-under-review) by Dr. Love
-3. [Plans that need a revision](#revise-and-resubmit), which is due Thursday 2024-02-22 at 9 PM
+3. [Plans which must be revised](#revise-and-resubmit), and are due Thursday 2024-02-22 at 9 PM
 
 ## Accepted Plans
 
