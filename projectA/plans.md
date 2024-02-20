@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **23** plans out of 35 have been accepted.
+- At present, **24** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -27,6 +27,7 @@
 17 | Kyle McGill Percy | Impact of Sleep on Dementia Caregivers | BRFSS 2022 | 1200 x 10 | 19
 18 | Samir Memic | **Individual Behaviors and Mental Health in the BRFSS** | BRFSS 2022 | 1200 x **19** | 19
 20 | Kathryn Menta | Examining City Crime Rates Through Economic and Geographic Predictors | Crime Reports <br /> plus Census | 228 x 8 | 20
+21 | Noel Moore | Assessing mental health, urban/rural living and smoking | NHIS 2021 | 794 x 7
 23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 1200 x 7
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
@@ -46,7 +47,6 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10
 15 | Bhavya Mahesh | Using NHIS 2022 to Explore Cholesterol and Weight | National Health Interview Survey 2022 | 1200 x 7
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
-21 | Noel Moore | Assessing mental health, urban/rural living and smoking | NHIS 2021 | 794 x 7
 22 | Krishna Mridha | Exploring the Landscape of Life Expectancy: A County-Level Analysis | CHR + PLACES | 939 x 9
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
 31 | Himiede Sesay | Assessing Predictors of Coronary Heart Disease among US Adults | BRFSS 2021 | 999 x 10
