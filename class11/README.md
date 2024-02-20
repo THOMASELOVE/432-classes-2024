@@ -25,7 +25,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - Daniel Cho on [Logistic Regression: Feature Selection Methods](https://rpubs.com/ohcsnad/feature_selection_methods) also using the Pima Indians diabetes data
     - [Pima Indians Diabetes data on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - [glmnet website](https://glmnet.stanford.edu/index.html) "Lasso and Elastic-Net Regularized Generalized Linear Models"
-- Friedman J, Tibshirani R, Hastie T (2010). “Regularization Paths for Generalized Linear Models via Coordinate Descent.” Journal of Statistical Software, 33(1), 1–22. doi:10.18637/jss.v033.i01.
+- Friedman J, Tibshirani R, Hastie T (2010). "[Regularization Paths for Generalized Linear Models via Coordinate Descent](https://www.jstatsoft.org/article/view/v033i01)" Journal of Statistical Software, 33(1), 1–22. [doi:10.18637/jss.v033.i01](https://www.jstatsoft.org/article/view/v033i01).
 - Frank Harrell and others at DataMethods Discourse [Statistical Problems to Document and to Avoid: Checklist for Authors](https://discourse.datamethods.org/t/author-checklist/3407)
 - Frank Harrell on [Use of Stepwise Variable Selection](https://discourse.datamethods.org/t/author-checklist/3407#arrow_rightuse-of-stepwise-variable-selection-24)
     - Gary Smith [Step away from stepwise](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-018-0143-6)
