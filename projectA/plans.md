@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **29** plans out of 35 have been accepted.
+- At present, **30** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -39,6 +39,7 @@
 29 | Justin Robinson | Predictors of Identity Theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11 | 20
 30 | Elizabeth Schultheis | Assessing the Risk of C.O.P.D. Utilizing Smoking Habits and Asthma | BRFSS 2022 | 1200 x 8 | 20
 31 | Himiede Sesay | Assessing Predictors of Coronary Heart Disease among US Adults | BRFSS 2021 | 999 x 10 | 18
+32 | Gazi Shamita | Investigating Sleep Habits and Health Effects in Alabama Adults | BRFSS 2022 | 1199 x 7 | 17
 33 | John Snell | Birth Rate and Child Poverty in US Counties in 2022 | CHR 2022 + CDC WONDER | 569 x 14 | 18
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15 | 18
@@ -58,7 +59,7 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 - See your email and Canvas for details on what I want to see in your revision, and related feedback. Please address ALL of my comments.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 - Submit your revised work in the same place on Canvas where you submitted it the first time.
-- Plans on this list will eventually receive scores of 16 out of 20 possible points once I approve the work.
+- Plans on this list will eventually receive scores of 16 or 17 out of 20 possible points once I approve the work.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
@@ -67,4 +68,3 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
-32 | Gazi Shamita | Investigating Adult Sleep Habits and their Health Effects in Alabama | BRFSS 2022 | 1199 x 8
