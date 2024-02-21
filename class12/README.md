@@ -35,7 +35,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Quiz 1
 
 1. [Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) will be made available by 5 PM today.
-2. Don't forget that the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/).
+2. Here is a [4-page PDF of the instructions for Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/432_quiz1_instructions_only_2024.pdf). This will be replaced by the full 32-page document (which includes the Questions) when the Quiz is posted. This document also includes the list of R packages I used (or might have used) to create and answer the Quiz.
+3. Don't forget that the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/).
     - Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
     - Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due.
     - The bonus question will be worth either 3 or 4 points for a complete and well-written response, with some partial credit potentially available.
