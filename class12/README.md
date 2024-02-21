@@ -18,7 +18,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. I have now officially added the `glmnet` package to our [list of R packages to install](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install).
 3. The most recent draft of the Lab 4 answer sketch is posted to our Shared Drive. We're still tweaking some grading details.
     - Results on Lab 4 should be in your hands next Tuesday 2024-02-27 by class time.
-4. At the moment, 29 Project A plans have been approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM.
+4. At the moment, most of the Project A plans have been approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM.
     - Project A Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
  
 ## Materials for the `bradley` example we'll discuss today
@@ -35,7 +35,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Quiz 1
 
 1. [Quiz 1](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz1) will be made available by 5 PM today.
-2. Don't forget that the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/). Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40). Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due. The bonus question will be worth either 3 or 4 points for a complete and well-written response, with some partial credit potentially available.
+2. Don't forget that the bonus question for Quiz 1 is **now** available on [Campuswire](https://campuswire.com/).
+    - Look for the **Quiz 1 Bonus Question: "How to be a modern scientist"** post (it's #40).
+    - Responses are due to [Campuswire](https://campuswire.com/) by the time the Quiz is due.
+    - The bonus question will be worth either 3 or 4 points for a complete and well-written response, with some partial credit potentially available.
+    - As of Wednesday 2024-02-21 at 3:20 PM, I had responses from 12 of you, out of 39. That's a pretty low rate.
 
 ## Finally...
 
