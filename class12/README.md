@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------: |:------:
 for everything | for deadlines | expectations | from Dr. Love | ways to get help | lab submission | for downloads | to read
 
+# TODAY'S CLASS WILL BE GIVEN EXCLUSIVELY OVER ZOOM. CHECK YOUR EMAIL OR CANVAS FOR DETAILS.
+
 ## Today's Slides
 
 Class | Date | HTML | Word | Quarto .qmd | Recording
