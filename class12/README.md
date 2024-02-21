@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 11 will be made available **by class time**.
+1. Feedback on the Minute Paper after Class 11 [is now available](https://bit.ly/432-2024-min-11-feedback).
 2. The Lab 4 answer sketch is posted to our Shared Drive. Results on Lab 4 should be in your hands next Tuesday 2024-02-27 by class time.
 3. 29 Project A plans are now approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM. Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
  
