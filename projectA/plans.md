@@ -50,7 +50,7 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
--- | -- | None at this time.
+10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
 
 ## Revise and Resubmit
 
@@ -64,7 +64,6 @@ For the Plans listed below, I need to see a Revision and that is due Thursday 20
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
 9 | Mary Garrity | **Understanding Weight and Diabetes predictors in BRFSS 2022 Data** | BRFSS 2022 | 991 x 10
-10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
 12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
