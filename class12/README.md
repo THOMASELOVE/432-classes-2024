@@ -16,11 +16,12 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 11 [is now available](https://bit.ly/432-2024-min-11-feedback).
-2. I have now officially added the `glmnet` package to our [list of R packages to install](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install).
-3. The most recent draft of the Lab 4 answer sketch is posted to our Shared Drive. We're still tweaking some grading details.
+1. I hear from the TAs that you're having some trouble estimating and interpreting effect sizes in linear and logistic regression models. [Chapter 22 of the Course Notes](https://thomaselove.github.io/432-notes/effectsize.html) walks through this for fits built with `lm()`, `glm()`, `ols()` and `lrm()`, including what to do if we include a spline or interaction term, and making predictions and building prediction intervals for linear fits, among other things. [It might be the most useful chapter in the Notes](https://thomaselove.github.io/432-notes/effectsize.html)
+2. Feedback on the Minute Paper after Class 11 [is now available](https://bit.ly/432-2024-min-11-feedback).
+3. I have now officially added the `glmnet` package to our [list of R packages to install](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install).
+4. The most recent draft of the Lab 4 answer sketch is posted to our Shared Drive. We're still tweaking some grading details.
     - Results on Lab 4 should be in your hands next Tuesday 2024-02-27 by class time.
-4. At the moment, most of the Project A plans have been approved, and the remaining people need to resubmit by Thursday 2024-02-22 at 9 PM.
+5. At the moment, most of the Project A plans have been approved, and the remaining people need to resubmit by 9 PM tonight.
     - Project A Plan Review Status [is available here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/plans.md).
  
 ## Materials for the `bradley` example we'll discuss today
