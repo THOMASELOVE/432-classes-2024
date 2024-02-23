@@ -1,7 +1,7 @@
 # Project A Plans: Review Status
 
 1. [Accepted Plans](#accepted-plans)
-2. [Plans Under review](#plans-under-review) by Dr. Love
+2. [Plans Needing revision](#plans-needing-revision)
 
 ## Accepted Plans
 
@@ -47,9 +47,9 @@
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15 | 18
 
-## Plans Under Review
+## Plans Needing Revision
 
-These are plans that have been submitted to Canvas and that Dr. Love is reviewing as quickly as he can.
+The revision for this Plan is due at 11 AM on Thursday 2024-02-29
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
