@@ -21,6 +21,7 @@
 6 | Dario Cabal | Smoking Amount & Bill Payment Success Considering Household Details | BRFSS 2022 | 1200 x 7 | 18
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
+9 | Mary Garrity | Understanding Weight and Diabetes Predictors in BRFSS Data | BRFSS 2022 | 1036 x 10 | 18
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
 13 | Mengxuan Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
 14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10 | 17
@@ -51,19 +52,7 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
 10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
-
-## Revise and Resubmit
-
-For the Plans listed below, I need to see a Revision and that is due Thursday 2024-02-22 at 9 PM to Canvas
-
-- See your email and Canvas for details on what I want to see in your revision, and related feedback. Please address ALL of my comments.
-- If your title below is in bold, change your title to this one, or to one that I will like better than this one.
-- Submit your revised work in the same place on Canvas where you submitted it the first time.
-- Plans on this list will eventually receive scores of 16 or 17 out of 20 possible points once I approve the work.
-
-.. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
-:--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-9 | Mary Garrity | **Understanding Weight and Diabetes predictors in BRFSS 2022 Data** | BRFSS 2022 | 991 x 10
 12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
+
