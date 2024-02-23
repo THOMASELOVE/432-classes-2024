@@ -6,7 +6,7 @@
 
 ## Accepted Plans
 
-- At present, **31** plans out of 35 have been accepted.
+- At present, **32** plans out of 35 have been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -22,6 +22,7 @@
 7 | Justin Dvorak | Racial Inequality and Homeownership: Results of the American Community Survey | ASA Challenge 2022 | 1200 x 10 | 20
 8 | Jacob Gardner | **Low-income job losses in the COVID era and the socioeconomics of housing** | Urban Institute | 1000 x 7 | 20
 9 | Mary Garrity | Understanding Weight and Diabetes Predictors in BRFSS Data | BRFSS 2022 | 1036 x 10 | 18
+10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9 | 17
 11 | Julia Joo | Predictors of Childhood Vaccination Adherence | National Immunization Survey - Child 2021 | 1200 x 9 | 19
 13 | Mengxuan Li | **Disease and physical health prediction of adults in the Rust Belt** | CHR + <br /> PLACES | 566 x 9 | 19
 14 | Jack Liu | What will influence the predicted foreclosure rate? | Urban Institute | 1196 x 10 | 17
@@ -51,7 +52,6 @@ These are plans that have been submitted to Canvas and that Dr. Love is reviewin
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
 :--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-10 | Trent George | Tracking Child Development and Anxiety in NCSH 2022 | National Survey of Children's Health 2022 | 1000 x 9
 12 | Shuheng ("Harry") Kong | **A deeper look into family poverty and children’s health** | National Health Interview Survey 2019 | 1200 x 16
 19 | Gayan Samuditha | Determinants of Frequent E-Cigarette Use Among US Adults | PATH Study via ICSPR | 1200 x 12
 26 | Sakshi Pandit | **Understanding Child Well-Being** | National Survey of Children's Health 2021 | 999 x 8
