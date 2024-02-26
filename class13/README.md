@@ -15,14 +15,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback and grades and an answer sketch for Quiz 1 will be available in time for Thursday's class. I will discuss the Quiz in detail in class Thursday.
+    - The list of people who responded to the Bonus Question in time (by noon today) on Campuswire [is posted here](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/README.md#who-has-provided-a-response-to-the-bonus-question). Let me know immediately if your name is not listed but you completed the Bonus Question on time.
 2. There is no Minute Paper this week. The next Minute Paper comes after Class 15.
 
 ## Supplemental Materials / Sources for Today
 
 Today we'll focus on:
 
-1. thinking about power issues through retrospective design
-2. robust linear models using Huber weights, or bisquare weights or quantile regression.
+1. thinking about power issues through retrospective design, and
+2. robust linear models, specifically using Huber weights, or bisquare weights as well as a brief introduction to quantile regression.
 
 Here are the key references:
 
@@ -39,7 +40,7 @@ Here are the key references:
 
 ![](curtains/wordle.png)
 
-4. Here are four pictures from *Curtains*, which closed on Saturday after a very successful run.
+3. Here are four pictures from *Curtains*, which closed on Saturday after a very successful run.
 
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_cast.jpg)
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_ellie_tom.jpg)
