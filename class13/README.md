@@ -37,7 +37,7 @@ Here are the key references:
 1. You might enjoy [Words Said by No Academic Ever](https://phdcomics.com/comics/archive.php?comicid=2048) or perhaps [Academic Wordle](https://phdcomics.com/comics/archive.php?comicid=2051) from Jorge Cham at PhD Comics. 
 2. My Wordle streak died Saturday, at 200 in a row. Please respect my need for privacy in this difficult time.
 
-
+![](wordle.jpeg)
 
 
 3. Here are four pictures from *Curtains*
