@@ -10,7 +10,32 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 13 | 2024-02-27 | **[Slides 13](https://thomaselove.github.io/432-slides-2024/slides13.html)** | *[Word 13](https://thomaselove.github.io/432-slides-2024/slides13w.docx)* | **[Code 13](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/data_trap.png) from [XKCD](https://xkcd.com/2582)
+
 ## Announcements
 
-## One Last Thing
+1. Feedback and grades and an answer sketch for Quiz 1 will be available in time for Thursday's class. I will discuss the Quiz in detail in class Thursday.
+2. There is no Minute Paper this week. The next Minute Paper comes after Class 15.
 
+## Supplemental Materials / Sources for Today
+
+Today we'll focus on:
+
+1. thinking about power issues through retrospective design
+2. robust linear models using Huber weights, or bisquare weights or quantile regression.
+
+Here are the key references:
+
+- Andrew Gelman [Statistics is like basketball, or knitting](https://statmodeling.stat.columbia.edu/2016/03/11/statistics-is-like-basketball-or-knitting/) Blog Post 2016-03-11.
+- Andrew Gelman [You need 16 times the sample size to estimate an interaction than to estimate a main effect](https://statmodeling.stat.columbia.edu/2018/03/15/need-16-times-sample-size-estimate-interaction-estimate-main-effect/) Blog Post 2018-03-15.
+- Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+- https://stats.oarc.ucla.edu/r/dae/robust-regression/ provides a relevant example, which I drew on in building today's slides about the crimestat data.
+- Some theoretical discussion of the motivation behind various robust regression procedures can be found in [Robust Regression](https://socialsciences.mcmaster.ca/jfox/Books/Companion/appendices/Appendix-Robust-Regression.pdf) by John Fox and Sanford Weisberg.
+
+## Three Last Things
+
+1. You might enjoy [Words Said by No Academic Ever](https://phdcomics.com/comics/archive.php?comicid=2048) or perhaps [Academic Wordle](https://phdcomics.com/comics/archive.php?comicid=2051) from Jorge Cham at PhD Comics. 
+2. My Wordle streak died Saturday, at 200 in a row. Please 
+3. Here are four pictures from *Curtains*
+
+![](figures/curtains/
