@@ -37,7 +37,7 @@ Here are the key references:
 1. You might enjoy [Words Said by No Academic Ever](https://phdcomics.com/comics/archive.php?comicid=2048) or perhaps [Academic Wordle](https://phdcomics.com/comics/archive.php?comicid=2051) from Jorge Cham at PhD Comics. 
 2. My Wordle streak died Saturday, at 200 in a row. Please respect my need for privacy in this difficult time.
 
-![](wordle.jpeg)
+![](wordle.png)
 
 
 3. Here are four pictures from *Curtains*
@@ -45,4 +45,4 @@ Here are the key references:
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_cast.jpg)
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_ellie_tom.jpg)
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_tom_john.jpg)
-![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_tina_tom.jpg)
+![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_tina_tel.jpg)
