@@ -39,7 +39,7 @@ Here are the key references:
 
 ![](curtains/wordle.png)
 
-3. Here are four pictures from *Curtains*
+3. Here are four pictures from *Curtains*, which closed on Saturday after a very successful run.
 
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_cast.jpg)
 ![](https://github.com/THOMASELOVE/432-classes-2024/blob/main/class13/curtains/curtains_ellie_tom.jpg)
