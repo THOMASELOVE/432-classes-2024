@@ -14,8 +14,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Grades and an answer sketch for Quiz 1 will be available in time for Thursday's class. I will discuss the Quiz in detail in class Thursday.
-    - 36 of 39 responded to the Bonus Question in time on Campuswire. My list [is posted here](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/README.md#who-has-provided-a-response-to-the-bonus-question). Let me know immediately if your name is not listed but you completed the Bonus Question on time.
+1. Grades and an answer sketch for Quiz 1 will be available in time for Thursday's class.
+    - I will discuss the Quiz in detail in class Thursday. All I can tell you right now is that everyone got the right answer for Q01.
+    - 36 of 39 responded to the Bonus Question in time on Campuswire. My list of these people [is posted here](https://github.com/THOMASELOVE/432-quizzes-2024/blob/main/quiz1/README.md#who-has-provided-a-response-to-the-bonus-question). Let me know immediately via email if your name is not listed there, but you completed the Bonus Question on time.
 2. There is no Minute Paper this week. The next Minute Paper comes after Class 15.
 3. Lab 4 grades and feedback are now available on the Course Grading Roster on our Shared Drive.
 
