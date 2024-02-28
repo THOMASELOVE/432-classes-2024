@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. We'll discuss Quiz 1 today in class. The answer sketch is on our Shared Drive in the Quiz 1 materials ... Quiz 1 Answer Sketch folder - it's called **432_sketch_results_quiz1_2024.html**, and you should also have an email from me (sent yesterday to your CWRU email) with details on your score for each item.
     - The items we will discuss in class today are items **Q02, Q03, Q05, Q09, Q19, Q20, Q22, Q23** and **Q25**, and the document I'll use to help with that discussion is also in that same directory in our Shared Drive. It's called **z_432_quiz1_items_for_discussion_2024_02-28.html**
-    - If, after class, you have questions about your grade or anything else related to Quiz 1, please email me (at `Thomas dot Love` at `case dot edu`) by one week from today (2024-03-07) at Noon. After that, I'm going to treat the review of the Quiz as complete.
+    - If, **after class**, you have questions about your grade or anything else related to Quiz 1, please email me (at `Thomas dot Love` at `case dot edu`) by one week from today (2024-03-07) at Noon. After that, I'm going to treat the review of the Quiz as complete.
 3. In doing [Lab 5](https://thomaselove.github.io/432-2024/lab5.html), due Tuesday at noon, there are a couple of small things I think might be clarified a bit, so I'll talk about those in class today. 
 
 ## Time to Event Data
