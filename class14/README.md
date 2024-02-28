@@ -35,4 +35,4 @@ Materials on time-to-event outcomes are found in Chapters 29-31 of our [Course N
 
 ## One Last Thing
 
-[](https://imgs.xkcd.com/comics/goodharts_law.png)  Source: [XKCD](https://xkcd.com/2899)
+![](https://imgs.xkcd.com/comics/goodharts_law.png)  Source: [XKCD](https://xkcd.com/2899)
