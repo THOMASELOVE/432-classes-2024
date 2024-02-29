@@ -32,7 +32,7 @@
 23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 1200 x 7 | 17
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
-26 | Sakshi Pandit | Understanding Child Well-Being | National Survey of Children's Health 2021 | 999 x 8
+26 | Sakshi Pandit | Understanding Child Well-Being | National Survey of Children's Health 2021 | 999 x 8 | 16
 27 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | Data Dryad | 1200 x 11 | 19
 28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | CDC WONDER | 626 x 7 | 20
 29 | Justin Robinson | Predictors of Identity Theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11 | 20
