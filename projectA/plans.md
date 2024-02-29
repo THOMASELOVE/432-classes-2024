@@ -1,11 +1,6 @@
 # Project A Plans: Review Status
 
-1. [Accepted Plans](#accepted-plans)
-2. [Plans Needing revision](#plans-needing-revision)
-
-## Accepted Plans
-
-- At present, **34** plans out of 35 have been accepted.
+- All **35** have now been accepted.
 - The Project A Plan **Score** is out of 20 points.
 - If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
@@ -37,6 +32,7 @@
 23 | Hala Nas | **Predicting Creatinine Levels and discharge status** | eICU <br /> via PhysioNet | 1200 x 7 | 17
 24 | Anthony Nunnery | **Minority Homeownership in the Midwestern U.S.** | Urban Institute and CDC Natality | 345 x 15 | 19
 25 | Vern Olaker | Investigating plot and TV-based predictors and outcomes for Scooby-Doo episodes | Tidy Tuesday | 322 x 10 | 20
+26 | Sakshi Pandit | Understanding Child Well-Being | National Survey of Children's Health 2021 | 999 x 8
 27 | Max Parfyonov | Neurologic Complication and Mortality Related to SARS-CoV-2 Infection | Data Dryad | 1200 x 11 | 19
 28 | Camaryn Peterson | Using Maternal Data to Predict Healthy Births | CDC WONDER | 626 x 7 | 20
 29 | Justin Robinson | Predictors of Identity Theft and Poor Credit Card Spending | Federal Reserve Bank via Data is Plural | 1180 x 11 | 20
@@ -46,12 +42,4 @@
 33 | John Snell | Birth Rate and Child Poverty in US Counties in 2022 | CHR 2022 + CDC WONDER | 569 x 14 | 18
 34 | Liz Stanley | Predictors of BMI and Cervical Cancer Screening | BRFSS 2022 | 1200 x 9 | 20
 35 | Hongke Wu & <br /> Qiao Wang | Evaluating associations of HIV prevalence with socio- and health-related factors | CHR 2021 + PLACES | 544 x 15 | 18
-
-## Plans Needing Revision
-
-The revision for this Plan is due at 11 AM on Thursday 2024-02-29
-
-.. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim
-:--: | :-----------------: | :--------------------------------------------------------- | :------------: | :---:
-26 | Sakshi Pandit | Understanding Child Well-Being | National Survey of Children's Health 2021 | 999 x 8
 
