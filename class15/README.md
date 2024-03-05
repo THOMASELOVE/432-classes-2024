@@ -17,3 +17,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. A reminder that we will not hold TA office hours on March 9-16. TA office hours return on Sunday 2024-03-17, although Campuswire will be open the week of Spring Break.
 4. Next week is Spring Break. Our next class (class 17) after this week will be held on Tuesday 2024-03-19.
 5. More to come.
+
+## Some References related to today's class
+
+- Vuong, QH (1989) Likelihood ratio tests for model selection and non-nested hypotheses. *Econometrica*, 57:307-333.
+- 
