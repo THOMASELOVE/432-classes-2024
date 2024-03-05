@@ -16,7 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. The Calendar has changed at the end of the semester to reflect a revision to the available times for 432 Project B Presentations.
 2. The `crimestat` data set discussed in Class 13 is now available at the 432 data page.
-3. There is a Minute Paper after Class 15 due tomorrow (Wednesday 2024-03-06) at noon.
+3. There is a Minute Paper after Class 15 due tomorrow (Wednesday 2024-03-06) at noon. The link is <https://bit.ly/432-2024-minute-15>.
 4. Next week is Spring Break. After this Thursday, our next class (class 17) will be held on Tuesday 2024-03-19.
 5. A reminder that we will not hold TA office hours on March 9-16. TA office hours return on Sunday 2024-03-17, although Campuswire will be open the week of Spring Break.
 
