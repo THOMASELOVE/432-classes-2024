@@ -16,7 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. The Calendar has changed at the end of the semester to reflect a revision to the available times for 432 Project B Presentations.
 2. The `crimestat` data set discussed in Class 13 is now available at the 432 data page.
-3. There is a Minute Paper after Class 15 due tomorrow (Wednesday 2024-03-06) at noon. The link is <https://bit.ly/432-2024-minute-15>.
+3. There is a Minute Paper after Class 15 due tomorrow (Wednesday 2024-03-06) at noon. The link is <https://bit.ly/432-2024-min-15>.
 4. Next week is Spring Break. After this Thursday, our next class (class 17) will be held on Tuesday 2024-03-19.
 5. A reminder that we will not hold TA office hours on March 9-16. TA office hours return on Sunday 2024-03-17, although Campuswire will be open the week of Spring Break.
 
@@ -63,6 +63,23 @@ Sometimes, we see people fitting models to predict a binary outcome using a pred
 
 Take a look at [this toy example with explosive coefficients](https://rpubs.com/TELOVE/explosion_logistic_432) to see one way in which this problem can emerge and what to do about it.
 
+## On Naming Things
+
+Naming things is hard. [Jenny Bryan has you covered](https://speakerdeck.com/jennybc/how-to-name-files). The three principles are:
+
+- machine readable
+- human readable
+- play well with default ordering
+
+A perfectly lovely **file name** convention for project A would be `2024-03-20_yourname_432projA.xxx`
+
+Naming R data frames (tibbles) can be challenging, as well. I'll add 
+
+- don't name tibbles things that are also data frames or functions or other things in R
+- don't name tibbles things that make no sense without a very detailed explanation
+- 8 characters is usually a good maximum for a tibble name that you'll use often
+- if you insist on separating words in a tibble name, use underscores.
+
 ## Some Common Problems You Can Fix in your Project A
 
 1. Sometimes, we see people failing to drop levels of a categorical predictor after combining levels. Use the `droplevels()` command.
@@ -76,23 +93,6 @@ Take a look at [this toy example with explosive coefficients](https://rpubs.com/
 9. We hate scrolling windows in HTML output caused by code that runs too long on one line. Use the ENTER key liberally to help avoid this problem, and check your HTML to see if it is happening.
 10. Make sure your headings are in an appropriate order, and that you have 13 main sections in your Project, as laid out in the sample project. Check your HTML to make sure the headings make sense, for instance, `10`, then `10.1`, then `10.1.1.` is OK, but `10`, then `10.0.1` isn't OK.
 11. If you're loading a package not on our [R packages list](https://thomaselove.github.io/432-2024/software.html#r-packages-to-install), then you should definitely indicate why you're doing this at the top of your work as you load it in a short comment. Also, don't load elements of [the core `tidyverse`](https://www.tidyverse.org/packages/) separately: load them with `tidyverse` only.
-
-## On Naming Things
-
-Naming things is hard. [Jenny Bryan has you covered](https://speakerdeck.com/jennybc/how-to-name-files). The three principles are:
-
-- machine readable
-- human readable
-- play well with default ordering
-
-A perfectly lovely **file name** convention for project A was `2023-03-20_yourname_432projA.xxx`
-
-Naming R data frames (tibbles) can be challenging, as well. I'll add 
-
-- don't name tibbles things that are also data frames or functions or other things in R
-- don't name tibbles things that make no sense without a very detailed explanation
-- 8 characters is usually a good maximum for a tibble name that you'll use often
-- if you insist on separating words in a tibble name, use underscores.
 
 ## Project A presentation video advice
 
@@ -129,6 +129,6 @@ Here's [a link to the start of the "tweetorial"](https://twitter.com/IsabellaGhe
 
 ## What You Should Be Working On
 
-1. [Minute Paper after Class 15](https://bit.ly/432-2024-minute-15), due Wednesday 2023-03-06 at noon.
-2. [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html), due Monday 2023-03-18 at noon.
+1. [Minute Paper after Class 15](https://bit.ly/432-2024-min-15), due Wednesday 2024-03-06 at noon.
+2. [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html), due Monday 2024-03-18 at noon.
 
