@@ -12,11 +12,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. A reminder that we will not hold TA office hours on March 9-16. TA office hours return on Sunday 2024-03-17, although Campuswire will be open the week of Spring Break.
-2. Next week is Spring Break. Our next class (class 17) will be held on Tuesday 2024-03-19.
-3. Your Project Portfolio is due at noon on Monday 2024-03-18.
-4. More to come.
+1. Feedback on the Minute Paper after Class 15 [is available now](https://bit.ly/432-2024-min-15-feedback).
+2. The Answer Sketch for Lab 5 is posted to our Shared Drive.
+3. **Next week is Spring Break**
+    - We will not hold TA office hours on March 9-16. TA office hours will end on Friday 2024-03-08, and then return on Sunday 2024-03-17.
+    - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions daily.
+    - Our next class (class 17) will be held on Tuesday 2024-03-19.
+4. Your **Project Portfolio** is due at noon on Monday 2024-03-18.
+5. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
 
 ## Today's Topics
 
-to come.
+Today is a mixture of several things, specifically...
+
+1. More to come.
