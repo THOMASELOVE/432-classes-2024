@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Feedback on the Minute Paper after Class 15 [is available now](https://bit.ly/432-2024-min-15-feedback).
 2. The Answer Sketch for Lab 5 is posted to our Shared Drive.
-3. **Next week is Spring Break**
+3. **Next week (March 11-15) is CWRU Spring Break**
     - We will not hold TA office hours on March 9-16. TA office hours will end on Friday 2024-03-08, and then return on Sunday 2024-03-17.
     - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions daily.
     - Our next class (class 17) will be held on Tuesday 2024-03-19.
