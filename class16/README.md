@@ -16,3 +16,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 2. Next week is Spring Break. Our next class (class 17) will be held on Tuesday 2024-03-19.
 3. Your Project Portfolio is due at noon on Monday 2024-03-18.
 4. More to come.
+
+## Today's Topics
+
+to come.
