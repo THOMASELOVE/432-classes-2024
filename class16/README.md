@@ -18,8 +18,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - We will not hold TA office hours on March 9-15. TA office hours will end on Friday 2024-03-08, and then return on *Saturday* 2024-03-16. **Note this change.**
     - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions once per day.
     - Our next class (class 17) will be held on Tuesday 2024-03-19.
-4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is due at noon on **Tuesday** 2024-03-19. **Note this change.** All of my remaining advice I shared [in Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15#a-few-project-a-tips).
-5. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
+4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is now due at noon on **Tuesday** 2024-03-19. **Note this change.**
+    - We made this change so that you could take better advantage of TA office hours on Saturday, Sunday *and* Monday preceding the submission deadline.
+    - The rules on late Project A portfolio work are unchanged - [see the details here](https://thomaselove.github.io/432-2024/projA.html#deadlines) and I hope this will keep you from pleading for extensions.
+    - All of my remaining advice I shared [in Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15#a-few-project-a-tips).
+6. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
 
 ## On getting rid of labels from SAS, SPSS or other software within R
 
