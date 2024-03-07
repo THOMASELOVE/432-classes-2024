@@ -25,8 +25,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 The [haven package](https://haven.tidyverse.org/index.html) has two good tools I have used for this task...
 
-- [zap_labels](https://haven.tidyverse.org/reference/zap_labels.html) which removes *value* labels, and
-- [zap_label](https://haven.tidyverse.org/reference/zap_label.html) which gets rid of *variable* labels.
+- [zap_labels()](https://haven.tidyverse.org/reference/zap_labels.html) which removes *value* labels, and
+- [zap_label()](https://haven.tidyverse.org/reference/zap_label.html) which gets rid of *variable* labels.
 
 ## Today's Topics
 
