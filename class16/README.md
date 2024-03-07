@@ -15,8 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Feedback on the Minute Paper after Class 15 [is available now](https://bit.ly/432-2024-min-15-feedback).
 2. The Answer Sketch for Lab 5 is posted to our Shared Drive.
 3. **Next week (March 11-15) is CWRU Spring Break**
-    - We will not hold TA office hours on March 9-16. TA office hours will end on Friday 2024-03-08, and then return on Sunday 2024-03-17.
-    - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions daily.
+    - We will not hold TA office hours on March 9-15. TA office hours will end on Friday 2024-03-08, and then return on *Saturday* 2024-03-16. **Note this change.**
+    - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions once per day.
     - Our next class (class 17) will be held on Tuesday 2024-03-19.
 4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is due at noon on Monday 2024-03-18. All of my remaining advice I shared [in Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15#a-few-project-a-tips).
 5. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
