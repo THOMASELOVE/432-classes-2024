@@ -25,4 +25,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 Today is a mixture of several things, specifically...
 
-1. More to come.
+1. Can we fit a linear model to a count outcome?
+2. Selecting non-linear terms in light of Spearman $\rho^2$ 
+3. Fitting a Poisson regression with the `rms` package
+4. Checking Assumptions in Logistic Regression Models
+
+## One Last Thing
+
+["Not statistically significant" is not the same as zero](https://statmodeling.stat.columbia.edu/2021/09/28/not-statistically-significant-is-not-the-same-as-zero/) from Andy Gelman's blog, 2021-02-28. The money quote for me is this:
+
+> This illustrates one of the challenges of statistical communication: there are so many opportunities to garble the message. And even if you make no mistakes, people can still misinterpret what you’ve written, given the **norm of acting as if every study either makes a discovery or proves that something equals zero**.
+
+- For more on a related example, you might be interested in [RCT on use of cloth vs surgical masks](https://statmodeling.stat.columbia.edu/2020/04/15/rct-on-use-of-cloth-vs-surgical-masks/) from 2020-04-15.
