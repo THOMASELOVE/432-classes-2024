@@ -21,6 +21,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is due at noon on Monday 2024-03-18. All of my remaining advice I shared [in Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15#a-few-project-a-tips).
 5. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
 
+## On getting rid of labels from SAS, SPSS or other software within R
+
+The [haven package](https://haven.tidyverse.org/index.html) has two good tools I have used for this task...
+
+- [zap_labels](https://haven.tidyverse.org/reference/zap_labels.html) which removes *value* labels, and
+- [zap_label](https://haven.tidyverse.org/reference/zap_label.html) which gets rid of *variable* labels.
+
 ## Today's Topics
 
 Today's slides discuss four things, specifically...
