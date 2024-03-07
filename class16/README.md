@@ -18,17 +18,17 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - We will not hold TA office hours on March 9-16. TA office hours will end on Friday 2024-03-08, and then return on Sunday 2024-03-17.
     - Campuswire will remain open throughout Spring Break, and Dr. Love will review and answer all unanswered questions daily.
     - Our next class (class 17) will be held on Tuesday 2024-03-19.
-4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is due at noon on Monday 2024-03-18.
+4. Your [Project A Portfolio](https://thomaselove.github.io/432-2024/projA.html#the-project-a-portfolio) is due at noon on Monday 2024-03-18. All of my remaining advice I shared [in Class 15](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class15#a-few-project-a-tips).
 5. There are two new posts on [Campuswire](https://campuswire.com/) from me (numbers 80 and 81.) Take a look at them today, if you can.
 
 ## Today's Topics
 
-Today is a mixture of several things, specifically...
+Today's slides discuss a mixture of several things, specifically...
 
-1. Can we fit a linear model to a count outcome?
-2. Selecting non-linear terms in light of Spearman $\rho^2$ 
-3. Fitting a Poisson regression with the `rms` package
-4. Checking Assumptions in Logistic Regression Models
+1. What happens if we fit a linear model to a count outcome? (This and items 2-3 also build on the data we discussed in Class 15.)
+2. How do I think about selecting non-linear terms in light of Spearman $\rho^2$? 
+3. How do we fit a Poisson regression with the `rms` package, and does this get us all of the `rms` goodness we've gotten with `ols()` and `lrm()`?
+4. What are the six main Assumptions of Logistic Regression Models, and how do we check them effectively?
 
 ## One Last Thing
 
