@@ -13,3 +13,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 21 due Wednesday 2024-04-03 at noon. The link will appear **by class time**.
+2. Grades and feedback on Lab 6 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
+3. 
+
+## Today's Agenda
+
+
+
+## One Last Thing
+
+
