@@ -12,4 +12,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. We will post the Answer Sketch for Quiz 2 to our Shared Drive, and grades/individual feedback to you via email **by class time**.
+2. TA office hours continue through Wednesday 2024-05-01. [Campuswire](https://campuswire.com/) will remain open until Tuesday 2024-05-07 at noon.
+
+## What Should I Be Working On?
+
+1. [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) is due at noon on Monday 2024-04-29.
+2. Project B Presentations are scheduled for next week.
+3. Project B final materials are due at noon on Tuesday 2024-05-07.
+4. The Lab Regrade Request Form is also due at noon on Tuesday 2024-05-07.
+5. When you are prompted (via email) by the University (soon, if not already), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close. Thanks.
+
