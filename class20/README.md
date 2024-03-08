@@ -13,7 +13,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 19 **will be posted** in time for class.
-2. I hope to also have feedback for you on Project A by today's class. We'll see if we hit that deadline or not. 
+2. The Lab 6 answer sketch **should be posted** to our Shared Drive. Grades and feedback on Lab 6 will be posted Tuesday.
+3. I hope to also have feedback for you on Project A by today's class. We'll see if we hit that deadline or not. 
 
 ## What Should I Be Working On?
 
