@@ -12,4 +12,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. Quiz 2 will be available to you by 5 PM today (2024-04-18).
+2. Feedback on the Minute Paper after Class 24 **will be posted** in time for class.
+3. 
