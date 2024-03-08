@@ -13,7 +13,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 21 **will be posted** in time for class.
-2. The Lab 6 answer sketch **should be posted** to our Shared Drive. Grades and feedback on Lab 6 will be posted one week from today, on Thursday 2024-04-11.
+2. The Lab 7 answer sketch **should be posted** to our Shared Drive. Grades and feedback on Lab 7 will be posted one week from today, on Thursday 2024-04-11.
 3. Monday office hours are cancelled for 2024-04-08, due to the Eclipse.
 4. We do not have class next Tuesday (instructor's decision), so our next class (Class 23) will be 2024-04-11.
 5. Enjoy the eclipse on Monday!
