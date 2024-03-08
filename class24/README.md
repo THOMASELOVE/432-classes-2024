@@ -13,3 +13,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 24 due Wednesday 2024-04-17 at noon. The link will appear **by class time**.
+
+## Today's Agenda
+
+Using the tidymodels approach to build logistic models
+
+## One Last Thing
+
+To come.
