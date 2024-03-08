@@ -13,8 +13,21 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 17 **will be posted** in time for class.
-2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**.
+2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**, and is due at noon on Wednesday 2024-04-10.
+3. 
 
 ## Today's Agenda
 
 - We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today.
+- Regression on Multi-Categorical Outcomes
+
+## What Should I Be Working On?
+
+1. [Lab 6](https://thomaselove.github.io/432-2024/lab6.html) due at noon Tuesday 2024-03-26.
+2. [Lab 7](https://thomaselove.github.io/432-2024/lab7.html) is due at noon the following Tuesday 2024-04-02.
+3. It's never too early to work on [Lab 8](https://thomaselove.github.io/432-2024/lab8.html), although it's not due until Monday 2024-04-29 at noon.
+4. The Project B proposal form is due at noon on Wednesday 2024-04-10.
+
+## One Last Thing.
+
+To come.
