@@ -13,12 +13,18 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Grades and feedback on Lab 7 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
-2. There is no minute paper this week.
+2. There is no Minute Paper this week.
 3. 
 
 ## Today's Agenda
 
 Using the tidymodels approach to build linear models
+
+## What should I be working on?
+
+- [Quiz 2](https://github.com/THOMASELOVE/432-quizzes-2024/tree/main/quiz2) will be available to you on Thursday 2024-04-18 at 5 PM, and is due when the [Calendar](https://thomaselove.github.io/432-2024/calendar.html) says it is.
+- [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) is due Monday 2024-04-29 at noon.
+- [Project B](https://thomaselove.github.io/432-2024/projB.html)
 
 ## One Last Thing
 
