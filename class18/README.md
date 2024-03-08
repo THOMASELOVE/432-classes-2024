@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Feedback on the Minute Paper after Class 17 **will be posted** in time for class.
 2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**, and is due at noon on Wednesday 2024-04-10.
-3. 
+3. I will share some of the ideas people mentioned as part of the Bonus for Project A on Campuswire, and add some of my own **by class time**.
 
 ## Today's Agenda
 
