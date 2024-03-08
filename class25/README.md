@@ -15,3 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Quiz 2 will be available to you by 5 PM today (2024-04-18).
 2. Feedback on the Minute Paper after Class 24 **will be posted** in time for class.
 3. 
+
+## What Should I Be Working On (Besides Quiz 2)?
+
+- [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) is due Monday 2024-04-29 at noon.
+- [Project B](https://thomaselove.github.io/432-2024/projB.html)
