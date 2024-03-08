@@ -12,4 +12,4 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. There is a Minute Paper after Class 19 due Wednesday 2024-03-27 at noon. The link will appear **by class time**.
