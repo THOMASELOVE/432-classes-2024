@@ -12,4 +12,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. We will provide an answer sketch, grades and feedback on Quiz 2 in class on Thursday 2024-04-25.
+2. 
