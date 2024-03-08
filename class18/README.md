@@ -13,4 +13,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 17 **will be posted** in time for class.
-2. 
+2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**.
+
+## Today's Agenda
+
+- We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today.
