@@ -13,6 +13,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 19 due Wednesday 2024-03-27 at noon. The link will appear **by class time**.
+2. We will post the Lab 6 answer sketch on Wednesday 2024-03-27 at noon.
 
 ## Today's Agenda
 
