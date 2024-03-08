@@ -13,3 +13,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 19 due Wednesday 2024-03-27 at noon. The link will appear **by class time**.
+
+## Today's Agenda
+
+Regression on (Nominal) Multi-Categorical Outcomes
+
+## One Last Thing
+
+To come.
