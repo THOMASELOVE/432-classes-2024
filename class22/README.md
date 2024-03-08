@@ -12,4 +12,5 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. Feedback on the Minute Paper after Class 21 **will be posted** in time for class.
+2. 
