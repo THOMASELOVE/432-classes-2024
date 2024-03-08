@@ -2,7 +2,6 @@
 
 - All **35** projects have now been accepted.
 - The Project A Plan **Score** is out of 20 points.
-- If you're in this group, do not resubmit your Plan. Instead, move on to working on the Portfolio, please.
 - If your title below is in bold, change your title to this one, or to one that I will like better than this one.
 
 .. | Investigator(s) | Title (bold means Dr. Love changed the title) | Data | dim | Score
