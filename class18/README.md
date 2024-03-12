@@ -20,8 +20,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Today's Agenda
 
-- We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today.
-- Regression on Multi-Categorical Outcomes
+- We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today - the materials I plan to discuss are described in the first part of today's slides.
+- Regression on Ordinal Multi-Categorical Outcomes (day 2/2)
+    - Proportional Odds Logistic Regression
+    - Ordinal Logistic Regression
 
 ## Today's Agenda
 
