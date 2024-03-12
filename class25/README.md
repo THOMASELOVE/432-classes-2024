@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Quiz 2 will be available to you by 5 PM today (2024-04-18).
 2. Feedback on the Minute Paper after Class 24 **will be posted** in time for class.
-3. 
+3. Over Spring Break, I added [the **tidytext** package](https://github.com/juliasilge/tidytext) to our list of R packages to install. We'll use a function from it today.
 
 ## What Should I Be Working On (Besides Quiz 2)?
 
