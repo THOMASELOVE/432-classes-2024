@@ -37,7 +37,7 @@ Regression on Ordinal Multi-Categorical Outcomes (day 1 of 2)
 - Frank Harrell on [Model Uncertainty, Penalization, and Parsimony (pdf)](http://hbiostat.org/talks/iscb98.pdf)
 - Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015. (password-protected PDF)
 
-## Recent Examples: Regression on Ordinal Outcomes ([Notes](https://thomaselove.github.io/432-notes/), Chapter 27)
+## Recent Examples: Regression on Ordinal Outcomes ([Notes, Chapter 27](https://thomaselove.github.io/432-notes/ordinaloutcome.html))
 
 These references come from the list at <https://github.com/THOMASELOVE/432-sources/blob/main/recent.md>.
 
