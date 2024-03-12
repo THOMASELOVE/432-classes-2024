@@ -30,7 +30,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 3. It's never too early to work on [Lab 8](https://thomaselove.github.io/432-2024/lab8.html), although it's not due until Monday 2024-04-29 at noon.
 4. The Project B proposal form is due at noon on Wednesday 2024-04-10.
 
-![](figures/fuzz_asleep.jpg)
+![](figures/fuzz_asleep.jpg) This would be our cat, Fuzzington. He's 15.
 
 ## One Last Thing.
 
