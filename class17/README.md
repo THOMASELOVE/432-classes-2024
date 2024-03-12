@@ -35,7 +35,7 @@ Regression on Ordinal Multi-Categorical Outcomes (day 1 of 2)
 - [UCLA site on Multinomial Logistic Regression](https://stats.oarc.ucla.edu/r/dae/multinomial-logistic-regression/)
 - [MASS reference manual (pdf)](https://cran.r-project.org/web/packages/MASS/MASS.pdf)
 - Frank Harrell on [Model Uncertainty, Penalization, and Parsimony (pdf)](http://hbiostat.org/talks/iscb98.pdf)
-- Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-classes-2023/blob/main/sources/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015. (password-protected PDF)
+- Frank E. Harrell [Regression Modeling Strategies](https://github.com/THOMASELOVE/432-sources/blob/main/pdf/Harrell_Regression_Modeling_Strategies_2015_2e_protected.pdf), 2nd Edition, 2015. (password-protected PDF)
 
 ## Recent Examples: Regression on Ordinal Outcomes ([Notes](https://thomaselove.github.io/432-notes/), Chapter 27)
 
