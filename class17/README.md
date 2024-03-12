@@ -10,6 +10,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 17 | 2024-03-19 | **[Slides 17](https://thomaselove.github.io/432-slides-2024/slides17.html)** | *[Word 17](https://thomaselove.github.io/432-slides-2024/slides17w.docx)* | **[Code 17](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides17.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](figures/carr_2021.png)
+
 ## Announcements
 
 1. There is a Minute Paper after Class 17 due Wednesday 2024-03-20 at noon. The link will appear **by class time**.
@@ -28,4 +30,4 @@ Regression on Ordinal Multi-Categorical Outcomes
 
 ## One Last Thing
 
-To come.
+![](figures/parade.png)
