@@ -23,6 +23,19 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 - We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today.
 - Regression on Multi-Categorical Outcomes
 
+## Today's Agenda
+
+Regression on Ordinal Multi-Categorical Outcomes (day 2 of 2)
+
+## Sources from Today's Slides
+
+Don't forget about the [recent examples using ordinal regression here](https://github.com/THOMASELOVE/432-sources/blob/main/recent.md#methods-for-regression-on-ordinal-outcomes-notes-chapter-27), and Chapter 27 of our Course [Notes](https://thomaselove.github.io/432-notes/), which has an example involving an outcome with **five** ordinal levels.
+
+- Jeffrey Simonoff [Analyzing Categorical Data](https://pages.stern.nyu.edu/~jsimonof/AnalCatData/), Springer.
+- [UCLA site on Ordinal Logistic Regression](http://stats.idre.ucla.edu/r/dae/ordinal-logistic-regression/)
+- [UCLA site on Multinomial Logistic Regression](https://stats.oarc.ucla.edu/r/dae/multinomial-logistic-regression/)
+- [MASS reference manual (pdf)](https://cran.r-project.org/web/packages/MASS/MASS.pdf)
+
 ## What Should I Be Working On?
 
 1. [Lab 6](https://thomaselove.github.io/432-2024/lab6.html) due at noon Tuesday 2024-03-26.
@@ -34,4 +47,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## One Last Thing.
 
-To come.
+[Rohrer and Arslan’s nonet: More ideas regarding interactions in statistical models](https://statmodeling.stat.columbia.edu/2023/02/27/rohrer-and-arslans-nonet-more-ideas-regarding-interactions-in-statistical-models/) from Andrew Gelman's blog, 2023-02-27. Here's my favorite quote:
+
+> "When you fit a regression to observational data and you get a coefficient that makes no sense, you should be able interpret it using interactions."
