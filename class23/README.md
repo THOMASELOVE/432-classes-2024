@@ -10,8 +10,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 23 | 2024-04-11 | **[Slides 23](https://thomaselove.github.io/432-slides-2024/slides23.html)** | *[Word 23](https://thomaselove.github.io/432-slides-2024/slides23w.docx)* | **[Code 23](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides23.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](figures/ghement_tw.png)
-
 ## Announcements
 
 1. Grades and feedback on Lab 7 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
@@ -61,4 +59,5 @@ So my main point is that I wouldn't use adjusted R-square much (if at all) in li
 
 ## One Last Thing
 
-To come.
+![](figures/ghement_tw.png)
+
