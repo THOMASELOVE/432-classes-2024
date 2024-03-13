@@ -25,7 +25,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 5. The [Project B proposal form](https://bit.ly/432-2024-projectB-proposal-form) will open on Thursday 2024-03-21, and we will also discuss Project B's instructions in class 18 (Thursday).
 6. I've added [the **tidytext** package](https://github.com/juliasilge/tidytext) to our list of R packages to install. We'll use a function from it in Class 25.
 7. Lab 5 grades and feedback are now available in the Course Grading Roster on our Shared Drive.
-    - At the end of the semester, I will take the average of the 6 largest grades (out of Labs 1-7) to help create your Lab grade, before I factor in Lab 8. If that average is below 70%, I will change it to 70%, assuming you have missed/skipped at most one Lab during the term. I've updated the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) to indicate this now.
+    - At the end of the semester, I will take the average of the 6 largest grades (out of Labs 1-7) to help create your Lab grade, before I factor in Lab 8. If that average is below 70%, I will change it to 70%, assuming you have missed/skipped at most one Lab during the term. I've updated the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) to indicate this now. 
+8. [TV Series Recommended by Spring 2024 432 Students](https://github.com/THOMASELOVE/432-classes-2024/blob/main/tv.md)
 
 ## Today's Agenda
 
