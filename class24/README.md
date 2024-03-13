@@ -18,6 +18,23 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 Using the tidymodels approach to build logistic models
 
+## Sources for Today's Slides
+
+- [Bayesian Logistic Regression with rstanarm](https://avehtari.github.io/modelselection/diabetes.html) by Aki Vehtari
+
+Three articles by Jonah Gabry and Ben Goodrich:
+
+- [How to Use the `rstanarm` Package](http://mc-stan.org/rstanarm/articles/rstanarm.html) 
+- [Prior Distributions for `rstanarm` Models](http://mc-stan.org/rstanarm/articles/priors.html) 
+- [Estimating Generalized Linear Models for Binary and Binomial Data with rstanarm](http://mc-stan.org/rstanarm/articles/binomial.html)
+
+Also, don't forget about Max Kuhn and Julia Silge's [Tidy Modeling with R](https://www.tmwr.org/) and about the [main page for the tidymodels framework](https://www.tidymodels.org/).
+
 ## One Last Thing
 
-To come.
+From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
+
+![](figures/christmas10.png)
+
+Aki Vehtari has a set of interesting [model selection tutorials and talks here](https://avehtari.github.io/modelselection/index.html).
+
