@@ -13,7 +13,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Grades and feedback on Lab 7 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
-2. There is no Minute Paper this week.
+2. I should also be in a position to use the information you sent along as part of the Project B Proposal Form to schedule the Project Presentations **by class time**.
+3. There is no Minute Paper this week.
 
 ## Today's Agenda
 
