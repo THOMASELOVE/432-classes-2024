@@ -20,6 +20,13 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 4. We do not have class next Tuesday (instructor's decision), so our next class (Class 23) will be 2024-04-11.
 5. Enjoy the eclipse on Monday!
 
+## What Should I Be Working On?
+
+The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is due next **Wednesday 2024-04-10** at Noon. 
+
+- We've cancelled class on Tuesday 2024-04-09 in part to give you more time to get this finished and submitted by the deadline.
+- If you're not going to be able to make that deadline, please contact Dr. Love as soon as possible so he can at least get your final presentation scheduled.
+
 ## Today's Agenda
 
 - Fitting Cox Regression Models with `cpm()` from the `rms` package
