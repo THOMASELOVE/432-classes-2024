@@ -14,7 +14,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Grades and feedback on Lab 7 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
 2. There is no Minute Paper this week.
-3. 
 
 ## Today's Agenda
 
