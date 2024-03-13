@@ -45,7 +45,7 @@ In addition to those listed above, I also draw from:
 
 ## A few thoughts on the adjusted R-square statistic
 
-In linear regression work, the "adjusted R-square" statistic attempts to use the same data to fit the model and evaluate it, through applying a penalty based on the number of coefficient estimates that need to be developed and the sample size. This summary is somewhat interesting, and has some value occasionally. However, I usually avoid placing much weight on summary statistic "adjusted R-square" to describe the predictive quality of a model, in favor of a validated R-square statistic, which might include:
+In linear regression work, the "adjusted R-square" statistic attempts to use the same data to fit the model and evaluate it, through applying a penalty based on the number of coefficient estimates that need to be developed and the sample size. This summary is somewhat interesting, and has some value occasionally. However, I usually avoid placing much weight on the summary statistic "adjusted R-square" to describe the predictive quality of a model, in favor of a validated R-square statistic, which might include:
 
 - the "optimism-corrected" results of a bootstrap validation (as in `validate` for an `ols` fit)
 - the r-square value observed when applying a model fit in a training sample to holdout data in a test sample
