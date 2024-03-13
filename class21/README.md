@@ -28,7 +28,7 @@ Comparing Survival Curves, and an introduction to fitting and interpreting Cox P
 - [Survival Analysis](https://epirhandbook.com/en/survival-analysis.html) in [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
 - [survminer web site](https://rpkgs.datanovia.com/survminer/index.html)
 - [survminer cheat sheet (pdf)](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf)
-- More on log-minus-log plots and related topics in survival analysis at [Survival analysis: part II – applied clinical data analysis] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6781220/) Korean J Anesthesiol. 2019 Oct; 72(5): 441–457.
+- More on log-minus-log plots and related topics in survival analysis at [Survival analysis: part II – applied clinical data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6781220/) Korean J Anesthesiol. 2019 Oct; 72(5): 441–457.
 - Chen and Peace (2011) [Clinical Trial Data Analysis Using R](https://www.taylorfrancis.com/books/mono/10.1201/b10478/clinical-trial-data-analysis-using-ding-geng-din-chen-karl-peace)
 - [Time-dependent Models Vignette (pdf)](https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf)
 
