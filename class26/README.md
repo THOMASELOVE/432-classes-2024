@@ -13,7 +13,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. We will provide an answer sketch, grades and feedback on Quiz 2 in class on Thursday 2024-04-25.
-2. 
 
 ## Today's Topics: Building and Assessing Statistical Work in 2024
 
