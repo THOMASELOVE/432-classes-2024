@@ -20,5 +20,27 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Today's Agenda
 
-Fitting Cox Regression Models with `cpm()` from the `rms` package
+- Fitting Cox Regression Models with `cpm()` from the `rms` package
+- [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
 
+## Sources Related to Today's Class
+
+[Course Notes](https://thomaselove.github.io/432-notes/), Chapters 29-31 discuss survival analysis.
+
+- [Survival Analysis](https://epirhandbook.com/en/survival-analysis.html) in [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
+- [survminer web site](https://rpkgs.datanovia.com/survminer/index.html)
+- [survminer cheat sheet (pdf)](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf)
+- [Recent Papers that use Time-to-Event Data Methods](https://github.com/THOMASELOVE/432-sources/recent.md#methods-for-time-to-event-data-especially-cox-regression-and-kaplan-meier-estimates-notes-chapters-29-31)
+
+[Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician* 
+
+- I've also stored [the pdf of the 2019 paper here](https://github.com/THOMASELOVE/432-sources/pdf/ASA_2019_A_World_Beyond.pdf).
+- Don't forget about [Dr. Love's advice about having a tough conversation with someone about statistical significance and/or p values](https://github.com/THOMASELOVE/432-sources?tab=readme-ov-file#need-to-have-a-tough-talk-with-someone-about-statistical-significance-andor-p-values).
+
+## From [On the 12th Day of Christmas, a Statistician Sent to Me...](https://www.bmj.com/content/379/bmj-2022-072883)
+
+![](figures/christmas11.png)
+
+## One Last Thing: A checklist for data graphics
+
+Here is a useful [checklist for data graphics](https://statmodeling.stat.columbia.edu/2022/03/15/a-checklist-for-data-graphics/) from Christian Hennig, as posted by Andrew Gelman, with a few comments.
