@@ -10,6 +10,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 22 | 2024-04-04 | **[Slides 22](https://thomaselove.github.io/432-slides-2024/slides22.html)** | *[Word 22](https://thomaselove.github.io/432-slides-2024/slides22w.docx)* | **[Code 22](https://github.com/THOMASELOVE/432-slides-2024/blob/main/slides22.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](figures/supreme.png)
+
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 21 **will be posted** in time for class.
