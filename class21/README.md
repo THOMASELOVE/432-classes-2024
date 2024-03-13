@@ -41,6 +41,13 @@ Comparing Survival Curves, and an introduction to fitting and interpreting Cox P
 - Dzinza R and Ngwira A (2022) [Comparing parametric and Cox regression models using HIV/AIDS survival data from a retrospective study in Ntcheu district in Malawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9523851/) J Public Health Res. 2022 Jul; 11(3): 22799036221125328. [DOI](https://doi.org/10.1177%2F22799036221125328)
 - Cirillo C et al. (2022) [Predictors of in-hospital mortality in critically ill patients with COVID-19: a large dual tertiary centre study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9716800/) BMJ Open. 2022; 12(12): e059358. [DOI](https://doi.org/10.1136%2Fbmjopen-2021-059358)
 
+## What Should I Be Working On?
+
+The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is due next **Wednesday 2024-04-10** at Noon. 
+
+- We've cancelled class on Tuesday 2024-04-09 in part to give you more time to get this finished and submitted by the deadline.
+- If you're not going to be able to make that deadline, please contact Dr. Love as soon as possible so he can at least get your final presentation scheduled.
+
 ## Next Time
 
 In addition to finishing up our discussion of time-to-event data, next time we will remind you of some important elements of [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician* 
