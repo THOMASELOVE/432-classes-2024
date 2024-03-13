@@ -14,3 +14,26 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. We will provide an answer sketch, grades and feedback on Quiz 2 in class on Thursday 2024-04-25.
 2. 
+
+## Today's Topics
+
+What we saw back in Class 19...
+
+![](figures/zobeck0.png)
+![](figures/zobeck1.png)
+![](figures/zobeck2.png)
+![](figures/zobeck3.png)
+![](figures/zobeck4.png)
+![](figures/zobeck5.png)
+![](figures/zobeck6.png)
+
+- [Source (Mark Zobeck's twitter thread)](https://twitter.com/MarkZobeck/status/1506615109170442244)
+- The two references in the final image are dead links. Instead, use these:
+    - [Statistical Problems to Document and To Avoid](https://discourse.datamethods.org/t/author-checklist/3407)
+    - [Glossary of Statistical Terms (from Frank Harrell)](https://hbiostat.org/glossary/)
+
+In addition to these materials, the main topics today come from:
+
+- [A CHecklist for statistical Assessment of Medical Papers (the CHAMP statement): explanation and elaboration](https://bjsm.bmj.com/content/55/18/1009.2)
+- [Biostatistical Modeling Plan](https://www.fharrell.com/post/modplan) from Frank Harrell.
+
