@@ -15,10 +15,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. There is a Minute Paper after Class 19 due Wednesday 2024-03-27 at noon. The link will appear **by class time**.
 2. We will post the Lab 6 answer sketch on Wednesday 2024-03-27 at noon.
 
-## Today's Agenda
-
-Regression on (Nominal) Multi-Categorical Outcomes
-
 ---
 
 ![](figures/zobeck0.png)
@@ -41,8 +37,13 @@ Also of interest are:
 - [A CHecklist for statistical Assessment of Medical Papers (the CHAMP statement): explanation and elaboration](https://bjsm.bmj.com/content/55/18/1009.2)
 - [Biostatistical Modeling Plan](https://www.fharrell.com/post/modplan) from Frank Harrell.
 
-I plan to discuss these issues in Class 26 of the course.
- 
+This is a teaser. I will discuss these and related issues in detail in [Class 26](https://github.com/THOMASELOVE/432-classes-2024/tree/main/class26).
+
+## Today's Agenda
+
+Regression on (Nominal) Multi-Categorical Outcomes
+
+
 ## Sources from Today's Slides
 
 - [UCLA site on Multinomial Logistic Regression](https://stats.oarc.ucla.edu/r/dae/multinomial-logistic-regression/)
