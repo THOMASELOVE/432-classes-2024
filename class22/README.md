@@ -22,10 +22,11 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## What Should I Be Working On?
 
-The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is due next **Wednesday 2024-04-10** at Noon. 
-
-- We've cancelled class on Tuesday 2024-04-09 in part to give you more time to get this finished and submitted by the deadline.
-- If you're not going to be able to make that deadline, please contact Dr. Love as soon as possible so he can at least get your final presentation scheduled.
+1. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is due next **Wednesday 2024-04-10** at Noon. 
+    - We've cancelled class on Tuesday 2024-04-09 in part to give you more time to get this finished and submitted by the deadline.
+    - If you're not going to be able to make that deadline, please contact Dr. Love as soon as possible so he can at least get your final presentation scheduled.
+2. [Lab 8](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) work by students in 432 to date.
+    - Remember that you can do Lab 8 at any time before its deadline, which is specified in the Course Calendar.
 
 ## Today's Agenda
 
