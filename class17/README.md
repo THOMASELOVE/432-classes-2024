@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 17 due Wednesday 2024-03-20 at noon. The link will appear **by class time**.
+1. There is a [Minute Paper after Class 17](https://bit.ly/432-2024-min-17) due Wednesday 2024-03-20 at noon. Complete the form at <https://bit.ly/432-2024-min-17>. Thanks.
 2. I fixed a typo in section 8.8.3 of the Project A demo and reposted it to our Shared Drive on Sunday 2024-03-17.
 3. For those of you who have not yet submitted all of [Project A](https://thomaselove.github.io/432-2024/projA.html) to [Canvas](https://canvas.case.edu), be aware of the following deadlines:
     - if all of your work is submitted between now and Wednesday 2024-03-20 at noon, you will lose 5 points (out of the 80 available for the post-proposal work.)
