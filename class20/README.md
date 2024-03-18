@@ -36,6 +36,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. [Lab 7](https://thomaselove.github.io/432-2024/lab7.html) is due at noon Tuesday 2024-04-02.
 2. The [Project B proposal form](https://bit.ly/432-2024-projectB-proposal-form) is due at noon on Wednesday 2024-04-10.
 3. It's never too early to work on [Lab 8](https://thomaselove.github.io/432-2024/lab8.html), although it's not due until Monday 2024-04-29 at noon.
+    - Here is the [Lab 8 work](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) by students in 432 to date.
 
 ## Some Machine Learning Sources from Frank Harrell (and friends)
 
