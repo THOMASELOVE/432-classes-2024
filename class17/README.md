@@ -15,21 +15,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 17](https://bit.ly/432-2024-min-17) due Wednesday 2024-03-20 at noon. Complete the form at <https://bit.ly/432-2024-min-17>. Thanks.
+    - Note that an automated reminder will go out to all of you at 7 AM Wednesday. If you've already submitted the form, please ignore that email.
 2. I fixed a typo in section 8.8.3 of the Project A demo and reposted it to our Shared Drive on Sunday 2024-03-17.
 3. For those of you who have not yet submitted all of [Project A](https://thomaselove.github.io/432-2024/projA.html) to [Canvas](https://canvas.case.edu), be aware of the following deadlines:
     - if all of your work is submitted between now and Wednesday 2024-03-20 at noon, you will lose 5 points (out of the 80 available for the post-proposal work.)
     - if all of your work is submitted between Wednesday at noon and Friday 2024-03-22 at 11:59 PM, you will lose 10 points.
     - and that's it. We won't accept work received after Friday at 11:59 PM.
     - If you're having a problem, contact us now. Email Dr. Love if you need to speak with him.
-4. Bonus credit for Project A will be awarded to all students who responded to Note #80 on [Campuswire](https://campuswire.com/) by noon today. We'll share a few of those ideas in class Thursday, but the current list is posted to our Shared Drive.
+4. Bonus credit for Project A will be awarded to all students who responded to Note #80 on [Campuswire](https://campuswire.com/) by noon today. The current list of suggestions, with some web links, etc., is posted to our Shared Drive. Thank you to those who completed this task.
 5. I don't know when we'll get you feedback on Project A, but I'm aiming (tentatively) for the end of next week.
 6. The [Project B proposal form](https://bit.ly/432-2024-projectB-proposal-form) will open on Thursday 2024-03-21, and we will also discuss Project B's instructions in class 18 (Thursday).
 7. I've added [the **tidytext** package](https://github.com/juliasilge/tidytext) to our list of R packages to install. We'll use a function from it in Class 25.
 8. Lab 5 grades and feedback are now available in the Course Grading Roster on our Shared Drive.
     - At the end of the semester, I will take the average of the 6 largest grades (out of Labs 1-7) to help create your Lab grade, before I factor in Lab 8. If that average is below 70%, I will change it to 70%, assuming you have missed/skipped at most one Lab during the term. I've updated the [Syllabus](https://thomaselove.github.io/432-syllabus-2024/) to indicate this now.
-9. [Lab 8](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) work by students in 432 to date.
+9. [Lab 8](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) work by students in 432 to date is available for you to look at.
     - Remember that you can do Lab 8 at any time before its deadline, which is specified in the Course Calendar.
-10. [TV Series Recommended by Spring 2024 432 Students](https://github.com/THOMASELOVE/432-classes-2024/blob/main/tv.md)
+10. I gathered these [TV Series Recommended by Spring 2024 432 Students](https://github.com/THOMASELOVE/432-classes-2024/blob/main/tv.md) some time back, but am not sure I've linked them well, so here they are.
 
 ## Today's Agenda
 
