@@ -21,6 +21,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## What Should I Be Working On (Besides Quiz 2)?
 
 - [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) is due Monday 2024-04-29 at noon.
+    - Here is the [Lab 8 work](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) by students in 432 to date.
 - [Project B](https://thomaselove.github.io/432-2024/projB.html)
 
 ## A Few References Related to K-Means Clustering
