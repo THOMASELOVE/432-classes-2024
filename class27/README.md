@@ -18,9 +18,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## What Should I Be Working On?
 
 1. [Lab 8](https://thomaselove.github.io/432-2024/lab8.html) is due at noon on Monday 2024-04-29.
-      - 9. [Lab 8 work](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) by students in 432 to date.
+      - [Lab 8 work](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) by students in 432 to date.
 2. Project B Presentations are scheduled for next week.
 3. Project B final materials are due at noon on Tuesday 2024-05-07.
-4. The Lab Regrade Request Form is also due at noon on Tuesday 2024-05-07.
+4. The [Lab Regrade Request Form](https://bit.ly/432-2024-lab-regrades) is also due at noon on Tuesday 2024-05-07.
 5. When you are prompted (via email) by the University (soon, if not already), please visit https://webapps.case.edu/courseevals/ and complete the course evaluations before they close. Thanks.
 
