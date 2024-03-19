@@ -17,7 +17,7 @@ ID | Name(s)            | Canvas           | Project A Title (from HTML)
 ID | Name(s)            | Canvas           | Project A Title (from HTML)
 -: | :--------------: | :----------------: | :-------------------------------------: |
 6 | Dario <br /> Cabal | plans to submit <br /> Wednesday | -
-7 | Justin <br /> Dvorak | `03-19 11:32 am` seems OK <br /> qmd, rds, html, pptx, mov, (also *xlsx*) | Racial Inequality and Homeownership: Results of the American Community Survey
+7 | Justin <br /> Dvorak | `03-19 12:01 pm` seems OK <br /> qmd, rds, html, pptx, mov, (also *xlsx*) | Racial Inequality and Homeownership: Results of the American Community Survey
 8 | Jacob <br /> Gardner | `03-19 11:53 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Low-income job losses in the COVID era and the socioeconomics of housing
 9 | Mary <br /> Garrity | plans to submit <br /> Friday | -
 10 | Trenton <br /> George | `03-19 11:40 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Tracking Child Development and Anxiety in NSCH 2022
