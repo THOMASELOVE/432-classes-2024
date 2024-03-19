@@ -6,7 +6,7 @@ This is a living document, which Dr. Love will update and change frequently over
 
 ID | Name(s)            | Canvas           | Project A Title (from HTML)
 -: | :--------------: | :----------------: | :-------------------------------------: |
-1 | Kamilla <br /> Abdurakhmanov | No submission | -
+1 | Kamilla <br /> Abdurakhmanov | plans to submit <br /> Wednesday | -
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | `03-19 10:06 am` seems OK <br /> qmd, rds, html, pptx (video embedded) | Tobacco Use and Lung Screening in Nevada
 3 | Sarah Albalawi & <br /> Walaa Alshaia | `03-19 5:13 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Social Factors and Children’s Mental Health
 4 | John <br /> Barron | `03-18 9:31 pm` seems OK <br /> qmd, rds, html, pptx, mov | Predicting County Prevalence of Adult Coronary Heart Disease
