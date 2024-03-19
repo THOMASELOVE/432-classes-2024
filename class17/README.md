@@ -23,8 +23,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
     - and that's it. We won't accept work received after Friday at 11:59 PM.
     - If you're having a problem, contact us now. Email Dr. Love if you need to speak with him.
 4. A note from our TAs: If your outcome for linear regression was a count of something (like the number of days out of 30 where something happened), that's a count outcome, right? In fact, it's a count outcome with both a ceiling (30 days) and a floor (0 days.) So it shouldn't be surprising that using a method (linear regression) designed for general quantitative outcomes instead of a method designed for **count** outcomes like Poisson regression, for instance, wouldn't do as well, right? In your Project A, you're going to use linear regression anyway, but you shouldn't be surprised if it does not work well.
-5. Bonus credit (2 points out of 100) for Project A will be awarded to all students who responded to Note #80 on [Campuswire](https://campuswire.com/) by noon today. The current list of suggestions, with some web links, etc., is posted to our Shared Drive. Thank you to those who completed this task.
+5. Bonus credit (2 points out of 100) for Project A will be awarded to the 37 students who responded to Note #80 on [Campuswire](https://campuswire.com/). The list of suggestions, with some web links, etc., is posted to our Shared Drive. Thank you to those who completed this task.
 6. I don't know when we'll get you feedback on Project A, but I'm aiming (tentatively) for the end of next week.
+    - Our progress on reviewing the projects will be available for you to see [at this link](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md).
 7. The [Project B proposal form](https://bit.ly/432-2024-projectB-proposal-form) will open on Thursday 2024-03-21, and we will also discuss Project B's instructions in class 18 (Thursday).
 8. I've added [the **tidytext** package](https://github.com/juliasilge/tidytext) to our list of R packages to install. We'll use a function from it in Class 25.
 9. Lab 5 grades and feedback are now available in the Course Grading Roster on our Shared Drive.
