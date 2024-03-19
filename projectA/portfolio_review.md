@@ -18,7 +18,7 @@ ID | Name(s)            | Canvas           |
 -: | :--------------: | :----------------: |
 6 | Dario <br /> Cabal | plans to submit <br /> Wednesday
 7 | Justin <br /> Dvorak | `03-19 11:32 am` seems OK <br /> qmd, rds, html, pptx, mov, (also *xlsx*)
-8 | Jacob <br /> Gardner | -
+8 | Jacob <br /> Gardner | `03-19 11:53 am` seems OK <br /> qmd, rds, html, pptx, mp4
 9 | Mary <br /> Garrity | plans to submit <br /> Friday
 10 | Trenton <br /> George | `03-19 11:40 am` seems OK <br /> qmd, rds, html, pptx, mp4
 
@@ -56,7 +56,7 @@ ID | Name(s)            | Canvas           |
 
 ID | Name(s)            | Canvas           |
 -: | :--------------: | :----------------: |
-26 | Sakshi <br /> Pandit | -
+26 | Sakshi <br /> Pandit | `03-19 11:50 am` seems OK <br /> qmd, rds, html, pdf, mp4
 27 | Maksim <br /> Parfyonov | `03-19 9:31 am` seems OK <br /> qmd, rds, html, html of slides, mp4
 28 | Camaryn <br /> Petersen | `03-19 11:46 am` seems OK <br /> qmd, rds, html, pdf, mp4
 29 | Justin <br /> Robinson | `03-19 10:33 am` seems OK <br /> qmd, rds, html, pptx, mp4, (also *csv, docx*)
