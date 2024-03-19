@@ -67,7 +67,7 @@ ID | Name(s)            | Canvas           | Project A Title (from HTML)
 ID | Name(s)            | Canvas           | Project A Title (from HTML)
 -: | :--------------: | :----------------: | :-------------------------------------: |
 31 | Himiede <br /> Sesay | `03-19 8:56 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Assessing Predictors of Coronary Heart Disease among US Adults
-32 | Gazi <br /> Shamita | `03-19 1:06 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Investigating Sleep Habits and Health Effects in Alabama Adults
+32 | Gazi <br /> Shamita | `03-19 2:50 pm` seems OK <br /> qmd, rds, html, pptx, mp4 | Investigating Sleep Habits and Health Effects in Alabama Adults
 33 | John <br /> Snell | `03-19 10:57 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Birth Rate and Child Poverty in US Counties in 2022
 34 | Liz <br /> Stanley | `03-19 8:55 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Predictors of BMI and Cervical Cancer Screening
 35 | Hongke Wu & <br /> Qiao Wang | `03-19 10:37 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Evaluating associations of HIV prevalence with socio- and health-related factors
