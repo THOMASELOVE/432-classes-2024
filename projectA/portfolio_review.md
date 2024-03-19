@@ -50,7 +50,7 @@ ID | Name(s)            | Canvas           | Project A Title (from HTML)
 22 | Krishna <br /> Mridha | `03-19 9:05 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Exploring the Landscape of Life Expectancy: A County-Level Analysis
 23 | Hala <br /> Nas | `03-18 10:55 pm` seems OK <br /> qmd, rds, html, pptx, mp4 | Predicting Creatinine Levels and discharge status based on Age, Sex, Amission source and ICU Type
 24 | Anthony <br /> Nunnery | plans to submit <br /> Wednesday | -
-25 | Vern <br /> Olaker | `03-19 11:27 am` seems OK | qmd, rds, html, pptx, mp4 | Investigating Content and TV-Based Predictors and Outcomes for Scooby-Doo Episodes
+25 | Vern <br /> Olaker | `03-19 11:27 am` seems OK <br /> qmd, rds, html, pptx, mp4 | Investigating Content and TV-Based Predictors and Outcomes for Scooby-Doo Episodes
 
 ## Projects 26-30
 
