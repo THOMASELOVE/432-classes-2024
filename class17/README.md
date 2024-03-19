@@ -33,6 +33,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 10. [Lab 8](https://github.com/THOMASELOVE/432-classes-2024/tree/main/lab8) work by students in 432 to date is available for you to look at.
     - Remember that you can do Lab 8 at any time before its deadline, which is specified in the Course Calendar.
 11. I gathered these [TV Series Recommended by Spring 2024 432 Students](https://github.com/THOMASELOVE/432-classes-2024/blob/main/tv.md) some time back, but am not sure I've linked them well, so here they are.
+12. Check out question #131 on Campuswire, which is labeled "Bonus: How to Be a Modern Scientist question #2" - and will close at 9 AM Thursday 2024-03-28.
 
 ## Today's Agenda
 
