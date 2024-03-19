@@ -1,5 +1,7 @@
 # 432 Project A Portfolio Review
 
+This is a living document, which Dr. Love will update and change frequently over the next few days.
+
 ## Projects 1-5
 
 ID | Name(s)            | Canvas           |
