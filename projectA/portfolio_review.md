@@ -16,7 +16,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
-6 | Dario <br /> Cabal | received materials | Smoking Amount & Bill Payment Success Considering Household Details | 
+6 | Dario <br /> Cabal | received <br /> materials | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44
 9 | Mary <br /> Garrity | expected <br /> later | -
@@ -27,7 +27,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
 11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07
-12 | Shuheng <br /> Kong | received materials | A deeper look into family poverty and children’s health <br /> (*using linear and logistic regression*) | 
+12 | Shuheng <br /> Kong | received <br /> materials | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 
 13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53
 14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56
 15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38
