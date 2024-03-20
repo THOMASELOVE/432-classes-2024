@@ -50,7 +50,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 22 | Krishna <br /> Mridha | OK Tuesday 3-19 | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00
 23 | Hala <br /> Nas | OK Tuesday 3-19 | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28
 24 | Anthony <br /> Nunnery | anticipated by <br /> Wednesday noon | -
-25 | Vern <br /> Olaker | OK Tuesday 3-19 | Investigating Content and TV-Based <br /> Predictors and Outcomes for Scooby-Doo Episodes | 903 | 4:50
+25 | Vern <br /> Olaker | OK Tuesday 3-19 | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50
 
 ## Projects 26-30
 
@@ -66,9 +66,9 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
-31 | Himiede <br /> Sesay | OK Tuesday 3-19 | Assessing Predictors of <br /> Coronary Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor Surveillance System 2021 data*) | 1317 | 4:46
-32 | Gazi <br /> Shamita | OK Tuesday 3-19 | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns and Their Impact on Well-being*) | 950 | 4:58
-33 | John <br /> Snell | OK Tuesday 3-19 | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty using maternal and childhood factors in 2022 data*) | 1400 | 4:56
-34 | Liz <br /> Stanley | OK Tuesday 3-19 | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor Surveillance System Data*) | 1220 | 4:57
-35 | Hongke Wu & <br /> Qiao Wang | OK Tuesday 3-19 | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States in the U.S. in 2021*) | 1200 | 4:56
+31 | Himiede <br /> Sesay | OK Tuesday 3-19 | Assessing Predictors of <br /> Coronary Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor Surveillance System <br /> 2021 data*) | 1317 | 4:46
+32 | Gazi <br /> Shamita | OK Tuesday 3-19 | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58
+33 | John <br /> Snell | OK Tuesday 3-19 | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56
+34 | Liz <br /> Stanley | OK Tuesday 3-19 | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor <br /> Surveillance System Data*) | 1220 | 4:57
+35 | Hongke Wu & <br /> Qiao Wang | OK Tuesday 3-19 | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56
 
