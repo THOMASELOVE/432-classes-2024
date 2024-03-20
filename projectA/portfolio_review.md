@@ -9,7 +9,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 1 | Kamilla <br /> Abdurakhmanov | anticipated by <br /> Wednesday noon | - 
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | OK Tuesday 3-19 | Tobacco Use and Lung Screening <br /> in Nevada <br /> (*2022 BRFSS*) | 1362 | ??
 3 | Sarah Albalawi & <br /> Walaa Alshaia | OK Tuesday 3-19 | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41
-4 | John <br /> Barron | OK Tuesday 3-19 | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using County Health Rankings and CDC PLACES 2022 Data From Six U.S. States*) | 1249 | 4:43
+4 | John <br /> Barron | OK Tuesday 3-19 | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using County Health Rankings and <br /> CDC PLACES 2022 Data From <br /> Six U.S. States*) | 1249 | 4:43
 5 | Manu Bulusu & <br /> Lydia Mitchell | anticipated by <br /> Wednesday noon | - 
 
 ## Projects 6-10
