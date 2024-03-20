@@ -66,7 +66,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
-31 | Himiede <br /> Sesay | OK Tuesday 3-19 | Assessing Predictors of <br /> Coronary Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor Surveillance System <br /> 2021 data*) | 1317 | 4:46
+31 | Himiede <br /> Sesay | OK Tuesday 3-19 | Assessing Predictors of <br /> Coronary Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor <br /> Surveillance System 2021 data*) | 1317 | 4:46
 32 | Gazi <br /> Shamita | OK Tuesday 3-19 | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58
 33 | John <br /> Snell | OK Tuesday 3-19 | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56
 34 | Liz <br /> Stanley | OK Tuesday 3-19 | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor <br /> Surveillance System Data*) | 1220 | 4:57
