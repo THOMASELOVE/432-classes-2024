@@ -38,7 +38,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
 16 | Ethan <br /> Martin | OK Tuesday 3-19 | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53
 17 | Kyle <br /> McGill Percy | OK Tuesday 3-19 | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46
-18 | Samir <br /> Memic | OK Tuesday 3-19 | Individual Behaviors and Mental Health <br /> in the BRFSS | 1486 | 4:33
+18 | Samir <br /> Memic | OK Tuesday 3-19 | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33
 19 | Gayan <br /> Samuditha | anticipated by <br /> Wednesday noon | -
 20 | Kathryn <br /> Menta | OK Tuesday 3-19 | Examining City Crime Rates Through <br /> Economic and Geographic Predictors | 1183 | 4:53
 
