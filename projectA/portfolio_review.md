@@ -56,10 +56,10 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
-26 | Sakshi <br /> Pandit | OK Tuesday 3-19 | Understanding Child Well-being <br /> (*Insights from the 2021 National Survey of Children’s Health*) | 814 | 3:24
-27 | Maksim <br /> Parfyonov | OK Tuesday 3-19 | Neurologic Complication and Mortality <br /> Related to SARS-CoV-2 Infection <br /> (*Re-analysis of a single center retrospective observational study*) | 1000 | 4:13
-28 | Camaryn <br /> Petersen | OK Tuesday 3-19 | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records in Counties across the U.S.*) | 839 | 4:55
-29 | Justin <br /> Robinson | OK Tuesday 3-19 | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary of Consumer Payment Choice*) | 978 | 5:01
+26 | Sakshi <br /> Pandit | OK Tuesday 3-19 | Understanding Child Well-being <br /> (*Insights from the 2021 <br /> National Survey of Children’s Health*) | 814 | 3:24
+27 | Maksim <br /> Parfyonov | OK Tuesday 3-19 | Neurologic Complication and Mortality <br /> Related to SARS-CoV-2 Infection <br /> (*Re-analysis of a single center <br /> retrospective observational study*) | 1000 | 4:13
+28 | Camaryn <br /> Petersen | OK Tuesday 3-19 | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records <br /> in Counties across the U.S.*) | 839 | 4:55
+29 | Justin <br /> Robinson | OK Tuesday 3-19 | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary <br /> of Consumer Payment Choice*) | 978 | 5:01
 30 | Elizabeth <br /> Schultheis | OK Tuesday 3-19 | Assessing the Risk of C.O.P.D. <br /> Utilizing Smoking Habits and Asthma | 919 | 4:58
 
 ## Projects 31-35
