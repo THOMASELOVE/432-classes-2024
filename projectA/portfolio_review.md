@@ -9,7 +9,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 1 | Kamilla <br /> Abdurakhmanov | Wednesday <br /> 3-20 OK | Household Factors to Predict <br /> Poverty in Ohio School Districts | 865 | 5:40
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | ??
 3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41
-4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using County Health Rankings and CDC <br /> PLACES 2022  Data From Six U.S. States*) | 1249 | 4:43
+4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease (*Using <br /> *County Health Rankings and CDC <br /> PLACES 2022  Data From Six U.S. States*) | 1249 | 4:43
 5 | Manu Bulusu & <br /> Lydia Mitchell | **incomplete** <br /> Rds file problems | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51
 
 ## Projects 6-10
