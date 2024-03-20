@@ -48,7 +48,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
 21 | Noel <br /> Moore | OK Tuesday 3-19 | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56
 22 | Krishna <br /> Mridha | OK Tuesday 3-19 | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00
-23 | Hala <br /> Nas | OK Tuesday 3-19 | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, Amission source and ICU Type <br /> (*In a Sample of eICU Collaborative Research Database*) | 1491 | 4:28
+23 | Hala <br /> Nas | OK Tuesday 3-19 | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28
 24 | Anthony <br /> Nunnery | anticipated by <br /> Wednesday noon | -
 25 | Vern <br /> Olaker | OK Tuesday 3-19 | Investigating Content and TV-Based <br /> Predictors and Outcomes for Scooby-Doo Episodes | 903 | 4:50
 
