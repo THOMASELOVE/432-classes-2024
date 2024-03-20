@@ -19,7 +19,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 6 | Dario <br /> Cabal | received <br /> materials | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44
-9 | Mary <br /> Garrity | expected <br /> later | -
+9 | *Mary <br /> Garrity*
 10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59
 
 ## Projects 11-15
@@ -39,7 +39,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53
 17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46
 18 | Samir <br /> Memic | Tuesday <br /> 3-19 OK | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33
-19 | Gayan <br /> Samuditha | **NO SUBMISSION** | -
+19 | *Gayan <br /> Samuditha* | 
 20 | Kathryn <br /> Menta | Tuesday <br /> 3-19 OK | Examining City Crime Rates Through <br /> Economic and Geographic Predictors | 1183 | 4:53
 
 ## Projects 21-25
@@ -49,7 +49,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28
-24 | Anthony <br /> Nunnery | **NO SUBMISSION** | -
+24 | *Anthony <br /> Nunnery*
 25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50
 
 ## Projects 26-30
