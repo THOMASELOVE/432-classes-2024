@@ -16,7 +16,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
-6 | Dario <br /> Cabal | expected by <br /> Wednesday noon | -
+6 | Dario <br /> Cabal | received materials | Smoking Amount & Bill Payment Success Considering Household Details | 
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44
 9 | Mary <br /> Garrity | expected <br /> later | -
@@ -27,7 +27,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----:
 11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07
-12 | Shuheng <br /> Kong | expected by <br /> Wednesday noon | -
+12 | Shuheng <br /> Kong | received materials | A deeper look into family poverty and children’s health <br /> (*using linear and logistic regression*) | 
 13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53
 14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56
 15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38
@@ -39,7 +39,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53
 17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46
 18 | Samir <br /> Memic | Tuesday <br /> 3-19 OK | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33
-19 | Gayan <br /> Samuditha | expected by <br /> Wednesday noon | -
+19 | Gayan <br /> Samuditha | **NO SUBMISSION** | -
 20 | Kathryn <br /> Menta | Tuesday <br /> 3-19 OK | Examining City Crime Rates Through <br /> Economic and Geographic Predictors | 1183 | 4:53
 
 ## Projects 21-25
@@ -49,7 +49,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28
-24 | Anthony <br /> Nunnery | expected by <br /> Wednesday noon | -
+24 | Anthony <br /> Nunnery | **NO SUBMISSION** | -
 25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50
 
 ## Projects 26-30
