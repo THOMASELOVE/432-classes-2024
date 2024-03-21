@@ -27,7 +27,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | ?? | `1257`
 3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `1257`
 4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease (*Using* <br /> *CHR and CDC PLACES 2022 Data <br />  From Six U.S. States*) | 1249 | 4:43 | `1257`
-5 | Manu Bulusu & <br /> Lydia Mitchell | **incomplete** <br /> Rds problems | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `5`
+5 | *Manu Bulusu &* <br /> *Lydia Mitchell* | **incomplete** <br /> Rds problems | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `5`
 
 ## Projects 6-10
 
