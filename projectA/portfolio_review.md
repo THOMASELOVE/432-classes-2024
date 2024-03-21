@@ -6,15 +6,15 @@ This is a living document, which Dr. Love will update and change frequently over
 
 Check | Description
 ----: | :---------------------------------------------------------------------------------------
-1 | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files.
-2 | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file.
-3 | Dr. Love has completed his review of your video.
-4 | Dr. Love has completed his review of your HTML file, including Sections 8-10.
-5 | The TAs have completed their review of Section 8 (linear regression analysis.)
-6 | The TAs have completed their review of Section 9 (logistic regression analysis.)
-7 | The TAs have completed their review of the video.
-8 | Dr. Love has aggregated together the TA reviews and his own review.
-9 | We have a final grade and set of comments for your project, which we will release to you when we reach this stage with all projects.
+`1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files.
+`2` | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file.
+`3` | Dr. Love has completed his review of your video.
+`4` | Dr. Love has completed his review of your HTML file, including Sections 8-10.
+`5` | The TAs have completed their review of Section 8 (linear regression analysis.)
+`6` | The TAs have completed their review of Section 9 (logistic regression analysis.)
+`7` | The TAs have completed their review of the video.
+`8` | Dr. Love has aggregated together the TA reviews and his own review.
+`9` | We have a final grade and set of comments for your project, which we will release to you when we reach this stage with all projects.
 
 - **Code** is the number of lines of Quarto code.
 - **Video** is the length of your video, in minutes and seconds.
