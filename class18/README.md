@@ -15,13 +15,15 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 17 is available at <https://bit.ly/432-2024-min-17-feedback>.
-2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**, and is due at noon on Wednesday 2024-04-10.
+2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is now open, and is due at noon on Wednesday 2024-04-10.
 3. Our Shared Drive contains a document with the ideas people mentioned as part of the Bonus for Project A on Campuswire.
-4. I enjoyed this article from the American Statistical Association [Celebrating Women in Statistics and Data Science](https://magazine.amstat.org/blog/2024/03/01/celebratingwomen/?_zs=3OQUl1&_zl=Q0HU9).
+4. Progress on Project A review [is described (sort of) here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md).
+5. I enjoyed this article highlighting some individual stories from the American Statistical Association [Celebrating Women in Statistics and Data Science](https://magazine.amstat.org/blog/2024/03/01/celebratingwomen/?_zs=3OQUl1&_zl=Q0HU9).
 
 ## Today's Agenda
 
 - We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today - the materials I plan to discuss are described in the first part of today's slides.
+- 
 - Regression on Ordinal Multi-Categorical Outcomes (day 2/2)
     - Proportional Odds Logistic Regression
     - Ordinal Logistic Regression
