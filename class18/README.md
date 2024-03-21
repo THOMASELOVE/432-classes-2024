@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 17 **will be posted** in time for class.
+1. Feedback on the Minute Paper after Class 17 is available at <https://bit.ly/432-2024-min-17-feedback>.
 2. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) will be open **by class time**, and is due at noon on Wednesday 2024-04-10.
 3. Our Shared Drive contains a document with the ideas people mentioned as part of the Bonus for Project A on Campuswire.
 4. I enjoyed this article from the American Statistical Association [Celebrating Women in Statistics and Data Science](https://magazine.amstat.org/blog/2024/03/01/celebratingwomen/?_zs=3OQUl1&_zl=Q0HU9).
