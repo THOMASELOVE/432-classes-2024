@@ -5,7 +5,7 @@ This is a living document, which Dr. Love will update and change frequently over
 ## Checks
 
 Check | Description
-----: | :---------------------------------------------------------------------------------------
+:---: | :---------------------------------------------------------------------------------------
 `1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files.
 `2` | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file.
 `3` | Dr. Love has completed his review of your video.
