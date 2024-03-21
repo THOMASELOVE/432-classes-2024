@@ -22,6 +22,9 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## Today's Agenda
 
+- Regression on Ordinal Multi-Categorical Outcomes (day 2/2)
+    - Proportional Odds Logistic Regression
+    - Ordinal Logistic Regression
 - We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today - the materials I plan to discuss are described in the first part of today's slides.
     - The instructions refer to the Fall 2022 431 Project B instructions on using NHANES data. I will change this to [the Fall 2023 version](https://thomaselove.github.io/431-projectB-2023/data2.html) as soon as I can. 
     - I reserve the right to edit the instructions between now and one week from today to potentially increase the number of options for the model for your second outcome. Right now, it says the following (I may add other possibilities):
@@ -30,14 +33,6 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 > - A linear or binary logistic model fit using a Bayesian engine, or
 > - A weighted linear regression model.
- 
-- Regression on Ordinal Multi-Categorical Outcomes (day 2/2)
-    - Proportional Odds Logistic Regression
-    - Ordinal Logistic Regression
-
-## Today's Agenda
-
-Regression on Ordinal Multi-Categorical Outcomes (day 2 of 2)
 
 ## Sources from Today's Slides
 
@@ -50,10 +45,14 @@ Don't forget about the [recent examples using ordinal regression here](https://g
 
 ## What Should I Be Working On?
 
-1. [Lab 6](https://thomaselove.github.io/432-2024/lab6.html) due at noon Tuesday 2024-03-26.
-2. [Lab 7](https://thomaselove.github.io/432-2024/lab7.html) is due at noon the following Tuesday 2024-04-02.
+1. [Lab 6](https://thomaselove.github.io/432-2024/lab6.html) due at noon Tuesday 2024-03-26
+    - (1) Kaplan-Meier estimation for time-to-event data
+    - (2) modeling a count outcome
+2. [Lab 7](https://thomaselove.github.io/432-2024/lab7.html) is due at noon the following Tuesday 2024-04-02
+    - (1) modeling an ordered categorical outcome and
+    - (2) binary logistic regression with multiple imputation
 3. It's never too early to work on [Lab 8](https://thomaselove.github.io/432-2024/lab8.html), although it's not due until Monday 2024-04-29 at noon.
-4. The Project B proposal form is due at noon on Wednesday 2024-04-10.
+4. The [Project B Proposal Form](https://bit.ly/432-2024-projectB-proposal-form) is due at noon on Wednesday 2024-04-10.
 
 ![](figures/fuzz_asleep.jpg) This would be our cat, Fuzzington. He's 15.
 
