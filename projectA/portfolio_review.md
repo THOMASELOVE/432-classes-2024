@@ -75,17 +75,17 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 26 | Sakshi <br /> Pandit | Tuesday <br /> 3-19 OK | Understanding Child Well-being <br /> (*Insights from the 2021 <br /> National Survey of Children’s Health*) | 814 | 3:24 | `15`
 27 | Maksim <br /> Parfyonov | Tuesday <br /> 3-19 OK | Neurologic Complication and Mortality <br /> Related to SARS-CoV-2 Infection <br /> (*Re-analysis of a single center <br /> retrospective observational study*) | 1000 | 4:13 | `1`
-28 | Camaryn <br /> Petersen | Tuesday <br /> 3-19 OK | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records <br /> in Counties across the U.S.*) | 839 | 4:55 | `1`
-29 | Justin <br /> Robinson | Tuesday <br /> 3-19 OK | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary <br /> of Consumer Payment Choice*) | 978 | 5:01 | `1`
-30 | Elizabeth <br /> Schultheis | Tuesday <br /> 3-19 OK | Assessing the Risk of C.O.P.D. <br /> Utilizing Smoking Habits and Asthma | 919 | 4:58 | `1`
+28 | Camaryn <br /> Petersen | Tuesday <br /> 3-19 OK | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records <br /> in Counties across the U.S.*) | 839 | 4:55 | `12`
+29 | Justin <br /> Robinson | Tuesday <br /> 3-19 OK | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary <br /> of Consumer Payment Choice*) | 978 | 5:01 | `12`
+30 | Elizabeth <br /> Schultheis | Tuesday <br /> 3-19 OK | Assessing the Risk of C.O.P.D. <br /> Utilizing Smoking Habits and Asthma | 919 | 4:58 | `12`
 
 ## Projects 31-35
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-31 | Himiede <br /> Sesay | Tuesday <br /> 3-19 OK | Assessing Predictors of Coronary <br /> Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor <br /> Surveillance System 2021 data*) | 1317 | 4:46 | `1`
-32 | Gazi <br /> Shamita | Tuesday <br /> 3-19 OK | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58 | `1`
-33 | John <br /> Snell | Tuesday <br /> 3-19 OK | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56 | `1`
+31 | Himiede <br /> Sesay | Tuesday <br /> 3-19 OK | Assessing Predictors of Coronary <br /> Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor <br /> Surveillance System 2021 data*) | 1317 | 4:46 | `12`
+32 | Gazi <br /> Shamita | Tuesday <br /> 3-19 OK | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58 | `12`
+33 | John <br /> Snell | Tuesday <br /> 3-19 OK | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56 | `12`
 34 | Liz <br /> Stanley | Tuesday <br /> 3-19 OK | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor <br /> Surveillance System Data*) | 1220 | 4:57 | `12`
 35 | Hongke Wu & <br /> Qiao Wang | Tuesday <br /> 3-19 OK | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56 | `12`
 
