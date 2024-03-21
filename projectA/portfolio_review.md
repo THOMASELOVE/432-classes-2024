@@ -22,7 +22,7 @@ Check | Description
 ## Projects 1-5
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 1 | Kamilla <br /> Abdurakhmanov | Wednesday <br /> 3-20 OK | Household Factors to Predict <br /> Poverty in Ohio School Districts | 865 | 5:40 | `1257`
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | ?? | `1257`
 3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `1257`
@@ -32,7 +32,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 6-10
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `1257`
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `1257`
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `1257`
@@ -42,7 +42,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 11-15
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07 | `1257`
 12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `1257`
 13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53 | `1257`
@@ -52,7 +52,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 16-20
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53 | `15`
 17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46 | `15`
 18 | Samir <br /> Memic | Tuesday <br /> 3-19 OK | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33 | `15`
@@ -62,7 +62,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 21-25
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56 | `15`
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00 | `15`
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28 | `15`
@@ -72,7 +72,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 26-30
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 26 | Sakshi <br /> Pandit | Tuesday <br /> 3-19 OK | Understanding Child Well-being <br /> (*Insights from the 2021 <br /> National Survey of Children’s Health*) | 814 | 3:24 | `15`
 27 | Maksim <br /> Parfyonov | Tuesday <br /> 3-19 OK | Neurologic Complication and Mortality <br /> Related to SARS-CoV-2 Infection <br /> (*Re-analysis of a single center <br /> retrospective observational study*) | 1000 | 4:13 | `1`
 28 | Camaryn <br /> Petersen | Tuesday <br /> 3-19 OK | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records <br /> in Counties across the U.S.*) | 839 | 4:55 | `1`
@@ -82,7 +82,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 ## Projects 31-35
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
--: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | ---:
+-: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 31 | Himiede <br /> Sesay | Tuesday <br /> 3-19 OK | Assessing Predictors of Coronary <br /> Heart Disease among US Adults <br /> (*Using Behavioral Risk Factor <br /> Surveillance System 2021 data*) | 1317 | 4:46 | `1`
 32 | Gazi <br /> Shamita | Tuesday <br /> 3-19 OK | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58 | `1`
 33 | John <br /> Snell | Tuesday <br /> 3-19 OK | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56 | `1`
