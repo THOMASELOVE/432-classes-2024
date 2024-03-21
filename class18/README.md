@@ -23,7 +23,14 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 ## Today's Agenda
 
 - We will discuss the [Project B instructions](https://thomaselove.github.io/432-2024/projB.html) in class today - the materials I plan to discuss are described in the first part of today's slides.
-- 
+    - The instructions refer to the Fall 2022 431 Project B instructions on using NHANES data. I will change this to [the Fall 2023 version](https://thomaselove.github.io/431-projectB-2023/data2.html) as soon as I can. 
+    - I reserve the right to edit the instructions between now and one week from today to potentially increase the number of options for the model for your second outcome. Right now, it says the following (I may add other possibilities):
+
+> The model for your second outcome must use a different approach than you used for Outcome 1. For this model, you can use any of the three options above, or you may use:
+
+> - A linear or binary logistic model fit using a Bayesian engine, or
+> - A weighted linear regression model.
+ 
 - Regression on Ordinal Multi-Categorical Outcomes (day 2/2)
     - Proportional Odds Logistic Regression
     - Ordinal Logistic Regression
