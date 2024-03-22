@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ## NEW!! SLIDES UPDATED AFTER CLASS!!!
 
-I have updated the slides for Class 18 making the following changes (all slide numbers refer to these new versions, which have 62 slides)...
+I have updated the slides for Class 18 making the following changes (all slide numbers refer to these new versions (posted above), which have 62 slides)...
 
 1. Title slide now indicates updated after class.
 2. Added base::mean to the conflicts_prefer() list in slide 3.
