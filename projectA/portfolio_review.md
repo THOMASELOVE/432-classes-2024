@@ -68,7 +68,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56 | `125`
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00 | `125`
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28 | `125`
-24 | *Anthony <br /> Nunnery* | **incomplete** <br /> needs Rds | Minority Homeownership in the Midwestern U.S. (*A Linear and Logistic Approach to Predicting Homeownership Dynamics in Ohio, Illinois, Wisconsin and Michigan*) | 718 | 4:41 | 
+24 | *Anthony <br /> Nunnery* | **incomplete** <br /> needs Rds | Minority Homeownership in the Midwestern U.S. (*A Linear and Logistic Approach to Predicting Homeownership Dynamics in Ohio, Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `2`
 25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50 | `125`
 
 ## Projects 26-30
