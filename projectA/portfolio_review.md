@@ -56,7 +56,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53 | `15`
 17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46 | `15`
 18 | Samir <br /> Memic | Tuesday <br /> 3-19 OK | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33 | `15`
-19 | *Gayan <br /> Samuditha* | **incomplete** <br /> video problems | Determinants of Frequent E-Cigarette <br /> Use Among US Adults <br /> (*Evaluating Behavioral and Perceptual <br /> Influences Using PATH Study Data*) | 1980 | 4:20 | `1`
+19 | *Gayan <br /> Samuditha* | Thursday <br /> 03-21 OK | Determinants of Frequent E-Cigarette <br /> Use Among US Adults <br /> (*Evaluating Behavioral and Perceptual <br /> Influences Using PATH Study Data*) | 1980 | 4:20 | `1`
 20 | Kathryn <br /> Menta | Tuesday <br /> 3-19 OK | Examining City Crime Rates Through <br /> Economic and Geographic Predictors | 1183 | 4:53 | `15`
 
 ## Projects 21-25
