@@ -89,5 +89,5 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 32 | Gazi <br /> Shamita | Tuesday <br /> 3-19 OK | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58 | `12`
 33 | John <br /> Snell | Tuesday <br /> 3-19 OK | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56 | `12`
 34 | Liz <br /> Stanley | Tuesday <br /> 3-19 OK | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor <br /> Surveillance System Data*) | 1220 | 4:57 | `12`
-35 | Hongke Wu & <br /> Qiao Wang | Tuesday <br /> 3-19 OK | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56 | `12`
+35 | Hongke Wu & <br /> Qiao Wang | Tuesday <br /> 3-19 OK | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56 | `12A`
 
