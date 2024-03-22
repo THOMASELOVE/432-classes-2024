@@ -9,7 +9,9 @@ Check | Description
 `1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files.
 `2` | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file.
 `3` | Dr. Love has completed his review of your video.
-`4` | Dr. Love has completed his review of your HTML file, including Sections 8-10.
+`A` | Dr. Love has completed his review of Section 8 of your HTML file.
+`B` | Dr. Love has completed his review of Section 9 of your HTML file.
+`C` | Dr. Love has completed his review of Section 10 of your HTML file.
 `5` | The TAs have completed their review of Section 8 (linear regression analysis.)
 `6` | The TAs have completed their review of Section 9 (logistic regression analysis.)
 `7` | The TAs have completed their review of the video.
@@ -23,19 +25,19 @@ Check | Description
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-1 | Kamilla <br /> Abdurakhmanov | Wednesday <br /> 3-20 OK | Household Factors to Predict <br /> Poverty in Ohio School Districts | 865 | 5:40 | `1257`
-2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | 4:56 | `1257`
-3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `1257`
-4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using CHR and CDC PLACES 2022 <br /> Data From Six U.S. States*) | 1249 | 4:43 | `1257`
-5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `125`
+1 | Kamilla <br /> Abdurakhmanov | Wednesday <br /> 3-20 OK | Household Factors to Predict <br /> Poverty in Ohio School Districts | 865 | 5:40 | `12A57`
+2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | 4:56 | `12A57`
+3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `12A57`
+4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using CHR and CDC PLACES 2022 <br /> Data From Six U.S. States*) | 1249 | 4:43 | `12A57`
+5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `12A5`
 
 ## Projects 6-10
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `1257`
-7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `1257`
-8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `1257`
+6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `12A57`
+7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `12A57`
+8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `12A57`
 9 | *Mary <br /> Garrity*
 10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `1257`
 
