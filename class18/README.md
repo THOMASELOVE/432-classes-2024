@@ -12,6 +12,22 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 ![](figures/rq.png)
 
+## NEW!! SLIDES UPDATED AFTER CLASS!!!
+
+I have updated the slides for Class 18 making the following changes (all slide numbers refer to these new versions, which have 62 slides)...
+
+1. Title slide now indicates updated after class.
+2. Added base::mean to the conflicts_prefer() list in slide 3.
+3. Slide 6 now indicates I may add additional options for the second outcome model in Project B.
+4. Added slide 23 about centering the quantitative predictor, duration
+5. In slide 24, fixed the bulleted sentence and adjusted modelA so it uses centered duration.
+6. Fixed text on bottom of slide 26
+7. Fixed text in middle of slide 28
+8. Fixed text on bottom of slides 29-32
+9. Added slide 55 which describes the primary differences between orm() and lrm() fits.
+
+I am sorry about this.
+
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 17 is available at <https://bit.ly/432-2024-min-17-feedback>.
