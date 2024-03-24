@@ -29,36 +29,36 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | 4:56 | `12AB57`
 3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `12AB57`
 4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using CHR and CDC PLACES 2022 <br /> Data From Six U.S. States*) | 1249 | 4:43 | `12AB57`
-5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `12AB5`
+5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `12AB57`
 
 ## Projects 6-10
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `12A57`
-7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `12A57`
-8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `12A57`
+6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `12AB57`
+7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `12AB57`
+8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `12AB57`
 9 | *Mary <br /> Garrity*
-10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `12A57`
+10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `12AB57`
 
 ## Projects 11-15
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07 | `12A57`
-12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `12A57`
-13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53 | `12A57`
-14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56 | `12A5`
-15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38 | `12A5`
+11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07 | `12AB57`
+12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `12AB57`
+13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53 | `12AB57`
+14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56 | `12A57`
+15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38 | `12A57`
 
 ## Projects 16-20
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53 | `12A5`
-17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46 | `12A5`
+16 | Ethan <br /> Martin | Tuesday <br /> 3-19 OK | Andy Murray’s success in ATP-level <br /> tournament matches | 1402 | 4:53 | `12A57`
+17 | Kyle <br /> McGill Percy | Tuesday <br /> 3-19 OK | Impact of Sleep on <br /> Dementia Caregivers | 1131 | 4:46 | `12A57`
 18 | Samir <br /> Memic | Tuesday <br /> 3-19 OK | Individual Behaviors and <br /> Mental Health in the BRFSS | 1486 | 4:33 | `12A56`
-19 | Gayan <br /> Samuditha | Thursday <br /> 03-21 OK | Determinants of Frequent E-Cigarette <br /> Use Among US Adults <br /> (*Evaluating Behavioral and Perceptual <br /> Influences Using PATH Study Data*) | 1980 | 4:20 | `12A`
+19 | Gayan <br /> Samuditha | Thursday <br /> 03-21 OK | Determinants of Frequent E-Cigarette <br /> Use Among US Adults <br /> (*Evaluating Behavioral and Perceptual <br /> Influences Using PATH Study Data*) | 1980 | 4:20 | `12A5`
 20 | Kathryn <br /> Menta | Tuesday <br /> 3-19 OK | Examining City Crime Rates Through <br /> Economic and Geographic Predictors | 1183 | 4:53 | `12A5`
 
 ## Projects 21-25
@@ -68,7 +68,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56 | `12A5`
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00 | `12A5`
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28 | `12A5`
-24 | Anthony <br /> Nunnery | Friday <br /> 3-22 OK | Minority Homeownership in the <br /> Midwestern U.S. (*A Linear and* <br /> *Logistic Approach to Predicting* <br /> *Homeownership Dynamics in Ohio,* <br /> *Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `12A`
+24 | Anthony <br /> Nunnery | Friday <br /> 3-22 OK | Minority Homeownership in the <br /> Midwestern U.S. (*A Linear and* <br /> *Logistic Approach to Predicting* <br /> *Homeownership Dynamics in Ohio,* <br /> *Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `12A5`
 25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50 | `12A5`
 
 ## Projects 26-30
