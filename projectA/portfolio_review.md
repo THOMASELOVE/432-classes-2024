@@ -39,7 +39,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `12AB57`
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `12AB57`
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `12AB57`
-9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `12AB`
+9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes <br /> Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `12AB`
 10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `12AB57`
 
 ## Projects 11-15
