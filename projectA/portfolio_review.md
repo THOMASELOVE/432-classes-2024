@@ -7,11 +7,11 @@ This is a living document, which Dr. Love will update and change frequently over
 Check | Description | Status
 :---: | :--------------------------------------------------------------------------------------- | :----------:
 `1` | Dr. Love has verified that you successfully submitted a working video file, **and** <br /> evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for <br /> all 35 projects.
-`2` | Dr. Love has completed his review of Section 10 (the discussion) in your HTML file. | Actively in progress.
+`2` | Dr. Love has completed his review of Section 10 (the discussion) in your HTML file. | Currently <br /> active.
 `3` | Dr. Love has completed his review of your video.
-`4` | The TAs have completed their review of Section 8 (linear regression analysis.) | Actively in progress.
-`5` | The TAs have completed their review of Section 9 (logistic regression analysis.) | Actively in progress.
-`6` | The TAs have completed their review of the video. | Actively in progress.
+`4` | The TAs have completed their review of Section 8 (linear regression analysis.) | Currently <br /> active.
+`5` | The TAs have completed their review of Section 9 (logistic regression analysis.) | Currently <br /> active.
+`6` | The TAs have completed their review of the video. | Currently <br /> active.
 `7` | Dr. Love has aggregated together the TA reviews, his own reviews and <br /> your comments on two key questions in the Minute Paper after Class 17.
 `8` | Dr. Love has generated a final grade and set of comments for your project.
 `9` | We have released your grade to you. | Aiming for Thursday <br /> 2024-03-28 evening.
