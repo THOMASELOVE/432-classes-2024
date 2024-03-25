@@ -27,7 +27,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 2 | Abrar Alamoudi & <br /> Parishma Guttoo | Tuesday <br /> 3-19 OK | Tobacco Use and Lung Screening <br /> in Nevada (*2022 BRFSS*) | 1362 | 4:56 | `146`
 3 | Sarah Albalawi & <br /> Walaa Alshaia | Tuesday <br /> 3-19 OK | Social Factors and Children’s <br /> Mental Health <br /> (*A cross-sectional study in the Midwest*) | 1486 | 4:41 | `146`
 4 | John <br /> Barron | Tuesday <br /> 3-19 OK | Predicting County Prevalence of Adult <br /> Coronary Heart Disease <br /> (*Using CHR and CDC PLACES 2022 <br /> Data From Six U.S. States*) | 1249 | 4:43 | `146`
-5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `146`
+5 | Manu Bulusu & <br /> Lydia Mitchell | Wednesday <br /> 3-20 OK | Predictors of Poor Mental Health <br /> and Depression Diagnoses in Ohio Residents | 1224 | 5:51 | `1246`
 
 ## Projects 6-10
 
@@ -36,15 +36,15 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `146`
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `146`
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `146`
-9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes <br /> Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `16`
-10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `146`
+9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes <br /> Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `126`
+10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `1246`
 
 ## Projects 11-15
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
 11 | Julia <br /> Joo | Tuesday <br /> 3-19 OK | Predictors of Childhood <br /> Vaccination Adherence <br /> (*Using the National Immunization Survey*) | 1161 | 5:07 | `146`
-12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `146`
+12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `1246`
 13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53 | `146`
 14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56 | `146`
 15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38 | `146`
@@ -66,17 +66,17 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 21 | Noel <br /> Moore | Tuesday <br /> 3-19 OK | Assessing mental health, <br /> urban/rural living and smoking | 858 | 4:56 | `14`
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00 | `14`
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28 | `14`
-24 | Anthony <br /> Nunnery | Friday <br /> 3-22 OK | Minority Homeownership in the <br /> Midwestern U.S. (*A Linear and* <br /> *Logistic Approach to Predicting* <br /> *Homeownership Dynamics in Ohio,* <br /> *Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `14`
+24 | Anthony <br /> Nunnery | Friday <br /> 3-22 OK | Minority Homeownership in the <br /> Midwestern U.S. (*A Linear and* <br /> *Logistic Approach to Predicting* <br /> *Homeownership Dynamics in Ohio,* <br /> *Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `124`
 25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50 | `14`
 
 ## Projects 26-30
 
 ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | Code | Video | Checks
 -: | :--------------: | :----------------: | :-------------------------------------: | ----: | ----: | :---:
-26 | Sakshi <br /> Pandit | Tuesday <br /> 3-19 OK | Understanding Child Well-being <br /> (*Insights from the 2021 <br /> National Survey of Children’s Health*) | 814 | 3:24 | `14`
+26 | Sakshi <br /> Pandit | Tuesday <br /> 3-19 OK | Understanding Child Well-being <br /> (*Insights from the 2021 <br /> National Survey of Children’s Health*) | 814 | 3:24 | `124`
 27 | Maksim <br /> Parfyonov | Tuesday <br /> 3-19 OK | Neurologic Complication and Mortality <br /> Related to SARS-CoV-2 Infection <br /> (*Re-analysis of a single center <br /> retrospective observational study*) | 1000 | 4:13 | `16`
 28 | Camaryn <br /> Petersen | Tuesday <br /> 3-19 OK | Using Maternal Data to Predict <br /> Healthy Births <br /> (*Data from Live Birth Records <br /> in Counties across the U.S.*) | 839 | 4:55 | `16`
-29 | Justin <br /> Robinson | Tuesday <br /> 3-19 OK | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary <br /> of Consumer Payment Choice*) | 978 | 5:01 | `16`
+29 | Justin <br /> Robinson | Tuesday <br /> 3-19 OK | Predictors of Identity theft and <br /> Poor Credit Card Spending <br /> (*2022 U.S. Survey and Diary <br /> of Consumer Payment Choice*) | 978 | 5:01 | `126`
 30 | Elizabeth <br /> Schultheis | Tuesday <br /> 3-19 OK | Assessing the Risk of C.O.P.D. <br /> Utilizing Smoking Habits and Asthma | 919 | 4:58 | `16`
 
 ## Projects 31-35
