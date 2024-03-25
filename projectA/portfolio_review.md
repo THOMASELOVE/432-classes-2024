@@ -6,11 +6,11 @@ This is a living document, which Dr. Love will update and change frequently over
 
 Check | Description
 :---: | :---------------------------------------------------------------------------------------
-`1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files.
-`2` | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file.
+`1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files. (DONE for all 35 projects)
+`2` | Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file. (DONE for all 35 projects)
 `3` | Dr. Love has completed his review of your video and established your score on that work.
-`A` | Dr. Love has completed his review of Section 8 of your HTML file.
-`B` | Dr. Love has completed his review of Section 9 of your HTML file.
+`A` | Dr. Love has completed his review of Section 8 of your HTML file. (DONE for all 35 projects)
+`B` | Dr. Love has completed his review of Section 9 of your HTML file. (DONE for all 35 projects)
 `C` | Dr. Love has completed his review of Section 10 of your HTML file.
 `4` | Dr. Love has completed his scoring of your work on the foundations and the HTML file.
 `5` | The TAs have completed their review of Section 8 (linear regression analysis.)
