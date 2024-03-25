@@ -4,9 +4,9 @@ This is a living document, which Dr. Love will update and change frequently over
 
 ## Checks
 
-Check | Description
-:---: | :---------------------------------------------------------------------------------------
-`1` | Dr. Love has verified that you successfully submitted a working video file, **and** has evaluated your `qmd` and `Rds` files, **and** has evaluated all of your HTML file *other than* Section 10. {This is now **complete** for all 35 projects.}
+Check | Description | Status
+:---: | :--------------------------------------------------------------------------------------- | :----------:
+`1` | Dr. Love has verified that you successfully submitted a working video file, **and** has evaluated your `qmd` and `Rds` files, **and** has evaluated all of your HTML file *other than* Section 10. | DONE for all 35 projects.
 `2` | Dr. Love has completed his review of Section 10 (the discussion) in your HTML file.
 `3` | Dr. Love has completed his review of your video.
 `4` | The TAs have completed their review of Section 8 (linear regression analysis.)
