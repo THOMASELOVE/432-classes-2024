@@ -6,7 +6,7 @@ This is a living document, which Dr. Love will update and change frequently over
 
 Check | Description
 :---: | :---------------------------------------------------------------------------------------
-`1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files, **and** <br /> Dr. Love has evaluated your qmd, Rds and foundational sections of your HTML file, **and** <br /> Dr. Love has completed his reviews of Sections 8 (linear models) and 9 (logistic models) of your HTML file.
+`1` | Dr. Love has verified that you successfully submitted working qmd, Rds, HTML and video files, **and** <br /> has evaluated your qmd, Rds and foundational sections of your HTML file, **and** <br /> has reviewed Sections 8 (linear models) and 9 (logistic models) of your HTML file.
 `2` | Dr. Love has completed his review of Section 10 (discussion) of your HTML file.
 `3` | Dr. Love has completed his review of your video.
 `4` | The TAs have completed their review of Section 8 (linear regression analysis.)
