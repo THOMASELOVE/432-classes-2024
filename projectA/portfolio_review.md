@@ -12,7 +12,7 @@ Check | Description | Status
 `4` | The TAs have completed their review of Section 8 (linear regression analysis.) | Actively in progress.
 `5` | The TAs have completed their review of Section 9 (logistic regression analysis.) | Actively in progress.
 `6` | The TAs have completed their review of the video. | Actively in progress.
-`7` | Dr. Love has aggregated together the TA reviews, his own reviews and your comments on the Minute Paper after Class 17.
+`7` | Dr. Love has aggregated together the TA reviews, his own reviews and <br /> your comments on the Minute Paper after Class 17.
 `8` | Dr. Love has generated a final grade and set of comments for your project.
 `9` | We have released your grade to you. (we're aiming for the evening of Thursday 2024-03-28)
 
