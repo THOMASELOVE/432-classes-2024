@@ -36,7 +36,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 6 | Dario <br /> Cabal | Wednesday <br /> 3-20 OK | Smoking Amount & Bill Payment Success <br /> Considering Household Details | 987 | 4:55 | `146`
 7 | Justin <br /> Dvorak | Tuesday <br /> 3-19 OK | Racial Inequality and Homeownership: <br /> Results of the American Community Survey | 620 | 4:45 | `146`
 8 | Jacob <br /> Gardner | Tuesday <br /> 3-19 OK | Low-income job losses in the COVID era <br /> and the socioeconomics of housing | 1067 | 4:44 | `146`
-9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes <br /> Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `1`
+9 | Mary <br /> Garrity | Received <br /> 3-25 OK | Understanding Weight and Diabetes <br /> Predictors in BRFSS Data (*2022 Data*) | 1306 | 4:38 | `16`
 10 | Trenton <br /> George | Tuesday <br /> 3-19 OK | Tracking Child Development and Anxiety <br /> in NSCH 2022 | 987 | 4:59 | `146`
 
 ## Projects 11-15
@@ -87,5 +87,5 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 32 | Gazi <br /> Shamita | Tuesday <br /> 3-19 OK | Investigating Sleep Habits and <br /> Health Effects in Alabama Adults <br /> (*A Closer Look at Sleep Patterns <br /> and Their Impact on Well-being*) | 950 | 4:58 | `16`
 33 | John <br /> Snell | Tuesday <br /> 3-19 OK | Birth Rate and Child Poverty in <br /> US Counties in 2022 <br /> (*Predicting birth rate and child poverty <br /> using maternal and childhood factors <br /> in 2022 data*) | 1400 | 4:56 | `16`
 34 | Liz <br /> Stanley | Tuesday <br /> 3-19 OK | Predictors of BMI and <br /> Cervical Cancer Screening <br /> (*Analysis of 2022 Behavioral Risk Factor <br /> Surveillance System Data*) | 1220 | 4:57 | `16`
-35 | Hongke Wu & <br /> Qiao Wang | Tuesday <br /> 3-19 OK | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56 | `1`
+35 | Hongke Wu & <br /> Qiao Wang | Tuesday <br /> 3-19 OK | Evaluating associations of HIV prevalence <br /> with socio- and health-related factors <br /> (*An Ecological Study of Six States <br /> in the U.S. in 2021*) | 1200 | 4:56 | `16`
 
