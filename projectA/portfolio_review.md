@@ -14,7 +14,7 @@ Check | Description | Status
 `6` | The TAs have completed their review of the video. | Actively in progress.
 `7` | Dr. Love has aggregated together the TA reviews, his own reviews and <br /> your comments on two key questions in the Minute Paper after Class 17.
 `8` | Dr. Love has generated a final grade and set of comments for your project.
-`9` | We have released your grade to you. (we're aiming for the evening of Thursday 2024-03-28)
+`9` | We have released your grade to you. | Aiming for Thursday 2024-03-28 evening.
 
 - **Code** is the number of lines of Quarto code.
 - **Video** is the length of your video, in minutes and seconds.
