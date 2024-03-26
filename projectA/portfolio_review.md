@@ -6,7 +6,7 @@ This is a living document, which Dr. Love will update and change frequently over
 
 Check | Description | Status
 :---: | :--------------------------------------------------------------------------------------- | :----------:
-`1` | Dr. Love has verified that you successfully submitted a working video file, **and** <br /> evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for <br /> all 35 projects.
+`1` | Dr. Love has watched your video once, **and** <br /> evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for <br /> all 35 projects.
 `2` | The TAs have reviewed HTML Sections 8 and 9 (analyses) and the video. | DONE for <br /> all 35 projects.
 `3` | Dr. Love has reviewed HTML Section 10 (discussion). | Currently <br /> active.
 `4` | Dr. Love has written his review of your video.
