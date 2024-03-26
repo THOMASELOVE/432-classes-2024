@@ -44,7 +44,7 @@ These come from our [recent Sources](https://github.com/THOMASELOVE/432-sources/
 - Klu D et al. (2022) [Determinants of communication on sexual issues between adolescents and their parents in the Adaklu district of the Volta region, Ghana: a multinomial logistic regression analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9044737/) Reprod Health. 2022; 19: 101. [DOI](https://doi.org/10.1186%2Fs12978-022-01402-0)
 - Yokoi Y et al. (2022) [How Sleep Quality Relates to Bodily and Oral Symptoms: An Analysis from Japanese National Statistics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9690173/) Healthcare (Basel). 2022 Nov; 10(11): 2298. [DOI](https://doi.org/10.3390%2Fhealthcare10112298)
 
-![](fuzz_2024-03-25.jpg)
+![](figures/fuzz_2024-03-25.jpg) This is also Fuzzington, our cat. He's 15.
 
 ## One Last Thing
 
