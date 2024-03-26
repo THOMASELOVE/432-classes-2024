@@ -45,7 +45,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 12 | Shuheng <br /> Kong | Wednesday <br /> 3-20 OK | A deeper look into family poverty <br /> and children’s health <br /> (*using linear and logistic regression*) | 1055 | 4:14 | `123`
 13 | Mengxuan <br /> Li | Tuesday <br /> 3-19 OK | Diseases and physical health prediction <br /> of adults in the Rust Belt area <br /> (*Anlysis using the county level data*) | 1369 | 4:53 | `123`
 14 | Zunren <br /> Liu | Tuesday <br /> 3-19 OK | What will influence the <br /> predicted foreclosure rate? | 750 | 1:56 | `123`
-15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38 | `12`
+15 | Bhavya <br /> Mahesh | Tuesday <br /> 3-19 OK | Using NHIS 2022 to Explore <br /> Cholesterol and Weight | 1026 | 2:38 | `123`
 
 ## Projects 16-20
 
