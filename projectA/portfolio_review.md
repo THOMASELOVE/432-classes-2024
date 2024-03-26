@@ -12,7 +12,7 @@ Check | Description | Status
 `4` | Dr. Love has written his review of your video.
 `5` | Dr. Love has aggregated together elements `1`, `2`, `3` and `4` and your comments on two key questions in the Minute Paper after Class 17.
 `6` | Dr. Love has generated a final grade and set of comments for your project.
-`7` | We have released your grade to you. | Aiming for Thursday <br /> 2024-03-28 evening.
+`7` | We have released your grade to you. | Aim: Thursday evening <br /> 2024-03-28.
 
 - **Code** is the number of lines of Quarto code.
 - **Video** is the length of your video, in minutes and seconds.
