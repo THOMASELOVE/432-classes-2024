@@ -8,7 +8,7 @@ Check | Description | Status
 :---: | :--------------------------------------------------------------------------------------- | :----------:
 `1` | Dr. Love has verified that you successfully submitted a working video file, **and** <br /> evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for <br /> all 35 projects.
 `2` | The TAs have reviewed Sections 8 and 9 <br /> from the HTML and the video. | DONE for <br /> all 35 projects.
-`3` | Dr. Love has completed his review of Section 10 (the discussion) in your HTML file. | Currently <br /> active.
+`3` | Dr. Love has completed his review of HTML Section 10 (discussion). | Currently <br /> active.
 `4` | Dr. Love has completed his review of your video.
 `5` | Dr. Love has aggregated together the TA reviews, his own reviews and <br /> your comments on two key questions in the Minute Paper after Class 17.
 `6` | Dr. Love has generated a final grade and set of comments for your project.
