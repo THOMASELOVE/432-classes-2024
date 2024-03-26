@@ -6,13 +6,13 @@ This is a living document, which Dr. Love will update and change frequently over
 
 Check | Description | Status
 :---: | :--------------------------------------------------------------------------------------- | :----------:
-`1` | Dr. Love has watched your video once, **and** <br /> evaluated your `qmd` and `Rds` files, <br /> **and** your HTML file *other than* Section 10. | DONE for <br /> all 35 projects.
-`2` | The TAs have reviewed HTML Sections <br /> 8 and 9 (analyses) and the video. | DONE for <br /> all 35 projects.
-`3` | Dr. Love has reviewed HTML Section <br /> 10 (discussion). | Currently <br /> active.
-`4` | Dr. Love has written his review of your video.
-`5` | Dr. Love has aggregated together elements <br /> `1`, `2`, `3` and `4` and your comments <br /> from the Minute Paper after Class 17.
-`6` | Dr. Love has generated a final grade and <br /> set of comments for your project.
-`7` | We have released your grade to you. | Aim: Thursday evening <br /> 2024-03-28.
+`1` | Dr. Love has watched your video once, **and** evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for all 35 projects.
+`2` | The TAs have reviewed HTML Sections 8 and 9 (analyses) and the video. | DONE for all 35 projects.
+`3` | Dr. Love has reviewed HTML Section 10 (discussion). | Active.
+`4` | Dr. Love has aggregated together elements `1`, `2`, and `3` and your comments from the Minute Paper after Class 17. | -
+`5` | Dr. Love has written his review of your video. | -
+`6` | Dr. Love has generated a final grade and <br /> set of comments for your project. | -
+`7` | We have released your grade to you. | Aim: Thursday evening 2024-03-28.
 
 - **Code** is the number of lines of Quarto code.
 - **Video** is the length of your video, in minutes and seconds.
