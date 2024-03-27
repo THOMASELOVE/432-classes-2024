@@ -8,7 +8,7 @@ Check | Description | Status
 :---: | :--------------------------------------------------------------------------------------- | :----------:
 `1` | Dr. Love has watched your video once, **and** evaluated your `qmd` and `Rds` files, **and** your HTML file *other than* Section 10. | DONE for all 35 projects.
 `2` | The TAs have reviewed HTML Sections 8 and 9 (analyses) and the video. | DONE for all 35 projects.
-`3` | Dr. Love has reviewed HTML Section 10 (discussion). | Active.
+`3` | Dr. Love has reviewed HTML Section 10 (discussion). | DONE for all 35 projects.
 `4` | Dr. Love has aggregated together elements `1`, `2`, and `3` and your comments from the Minute Paper after Class 17. | -
 `5` | Dr. Love has written his review of your video. | -
 `6` | Dr. Love has generated a final grade and <br /> set of comments for your project. | -
@@ -65,7 +65,7 @@ ID | Name(s)            | Canvas           | Project A Title (*and subtitle*) | 
 22 | Krishna <br /> Mridha | Tuesday <br /> 3-19 OK | Exploring the Landscape of <br /> Life Expectancy: A County-Level Analysis | 1237 | 3:00 | `123`
 23 | Hala <br /> Nas | Tuesday <br /> 3-19 OK | Predicting Creatinine Levels and <br /> discharge status based on Age, Sex, <br /> Amission source and ICU Type <br /> (*In a Sample of eICU <br /> Collaborative Research Database*) | 1491 | 4:28 | `123`
 24 | Anthony <br /> Nunnery | Friday <br /> 3-22 OK | Minority Homeownership in the <br /> Midwestern U.S. (*A Linear and* <br /> *Logistic Approach to Predicting* <br /> *Homeownership Dynamics in Ohio,* <br /> *Illinois, Wisconsin and Michigan*) | 718 | 4:41 | `123`
-25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50 | `12`
+25 | Vern <br /> Olaker | Tuesday <br /> 3-19 OK | Investigating Content and TV-Based <br /> Predictors and Outcomes <br /> for Scooby-Doo Episodes | 903 | 4:50 | `123`
 
 ## Projects 26-30
 
