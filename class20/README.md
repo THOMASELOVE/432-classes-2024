@@ -15,7 +15,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. Feedback on the Minute Paper after Class 19 is now available at <https://bit.ly/432-2024-min-19-feedback>.
 2. The Lab 6 answer sketch has been posted to our Shared Drive. Grades and feedback on Lab 6 will be posted next Tuesday.
 3. I hope to complete Project A reviews tonight. Progress so far [is summarized here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md). We'll see if I hit my deadline or not.
-4. Thank you to those of you who responded to "Bonus: How to Be a Modern Scientist question #2" on Campuswire (note 131) which I'll close up after class.
+4. Thank you to those of you who responded to "Bonus: How to Be a Modern Scientist question #2" on Campuswire (note 131) which I'll close up at 3 PM today (I extended the deadline until then.)
 5. I will try to write up something related to using rootograms effectively and getting topmodels to run on a Mac with R 4.3.3 this weekend, if I can. 
 
 ## Our Starting Point for Today
