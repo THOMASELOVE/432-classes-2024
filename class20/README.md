@@ -14,7 +14,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Feedback on the Minute Paper after Class 19 **will be posted** in time for class.
 2. The Lab 6 answer sketch has been posted to our Shared Drive. Grades and feedback on Lab 6 will be posted Tuesday.
-3. I hope to also have feedback for you on Project A before I go to bed tonight. Progress so far [is summarized here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md). We'll see if we hit that deadline or not. 
+3. I hope to also have feedback for you on Project A before I go to bed tonight. Progress so far [is summarized here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md). We'll see if we hit that deadline or not.
+4. Thank you to those of you who responded to "Bonus: How to Be a Modern Scientist question #2" on Campuswire (note 131) which I'll close up after class. 
 
 ## Our Starting Point for Today
 
