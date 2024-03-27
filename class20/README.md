@@ -21,10 +21,10 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 The model for your second outcome must use a different approach than you used for Outcome 1. For this model, you can use any of the three options above, or you may use:
 
-- A linear or binary logistic model fit using a Bayesian engine (new) via the tidymodels package, or
-- (new) A linear model fit by selecting candidate predictors using the lasso, or
-- (new) A linear regression model that uses survey weights, or
-- (new) A robust linear model that uses robust standard errors.
+- A linear or binary logistic model fit using a Bayesian engine (*new*) via the tidymodels package, or
+- (*new*) A linear model fit by selecting candidate predictors using the lasso, or
+- (*new*) A linear regression model that uses survey weights, or
+- (*new*) A robust linear model that uses robust standard errors.
 
 ## Our Starting Point for Today
 
