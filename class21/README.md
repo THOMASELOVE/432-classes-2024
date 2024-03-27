@@ -15,7 +15,8 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 1. There is a Minute Paper after Class 21 due Wednesday 2024-04-03 at noon. The link will appear **by class time**.
 2. Grades and feedback on Lab 6 should be posted **by class time** to our Course Grading Roster on the Shared Drive.
 3. An answer sketch for Lab 7 should appear on our Shared Drive at noon on Wednesday 2024-04-03.
-4. We do not have class next Tuesday 2024-04-09 (instructor's decision). Please enjoy the eclipse on Monday!
+4. I am trying to write up something related to using rootograms effectively and getting topmodels to run on a Mac with R 4.3.3 in time for class.
+5. We do not have class next Tuesday 2024-04-09 (instructor's decision). Please enjoy the eclipse on Monday!
 
 ## Today's Agenda
 
