@@ -14,7 +14,7 @@ Class | Date | HTML | Word | Quarto .qmd | Recording
 
 1. Feedback on the Minute Paper after Class 19 is now available at <https://bit.ly/432-2024-min-19-feedback>.
 2. The Lab 6 answer sketch has been posted to our Shared Drive. Grades and feedback on Lab 6 will be posted next Tuesday.
-3. I hope to complete Project A reviews tonight. Progress so far [is summarized here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md). We'll see if I hit my deadline or not.
+3. I hope to complete Project A reviews tomorrow. Progress so far [is summarized here](https://github.com/THOMASELOVE/432-classes-2024/blob/main/projectA/portfolio_review.md). We'll see if I hit that deadline or not.
 4. Thank you to those of you who responded to "Bonus: How to Be a Modern Scientist question #2" on Campuswire (note 131) which I'll close up at 3 PM today (I extended the deadline until then.)
 5. Regarding using rootograms effectively and getting topmodels to run on a Mac with R 4.3.3, there is a Campuswire note (#151) from Gazi Shamita describing one solution. That approach has now worked for at least two people. I will try to tackle this further over the weekend, if I can find the time. 
 6. I have edited [the Project B instructions](https://thomaselove.github.io/432-2024/projB.html), to (1) replace the Fall 2022 link with the [Fall 2023 link to NHANES instructions from 431](https://thomaselove.github.io/431-projectB-2023/data2.html), and (2) as follows...
