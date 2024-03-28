@@ -24,7 +24,10 @@ The model for your second outcome must use a different approach than you used fo
 - A linear or binary logistic model fit using a Bayesian engine (*new*) via the tidymodels package, or
 - (*new*) A linear model fit by selecting candidate predictors using the lasso, or
 - (*new*) A linear regression model that uses survey weights, or
+- (*new*) A quantile regression model fit to a quantitative outcome where a particular percentile (perhaps the median) is of interest, or
 - (*new*) A robust linear model that uses robust standard errors.
+
+Note: Use at least 3 predictors (and still no more than 8) if you are fitting a linear, binary logistic or quantile regression model for your second outcome, please.
 
 ## Our Starting Point for Today
 
